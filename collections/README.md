@@ -35,3 +35,22 @@ Koleksi ini menyatukan **salinan file** dari 40 repository publik yang **tidak m
 4. Hasilnya di-commit ke repository ini oleh `github-actions[bot]`.
 
 **Perhatian:** jangan hapus repository asal sebelum jumlah file dan fitur yang diperlukan diverifikasi secara mandiri. Bila ada repo yang nantinya menambahkan `index.html`, penyalinan dihentikan dan repo tersebut harus dikeluarkan dari daftar.
+
+
+## Menghapus repository sumber (opsional, tidak dijalankan otomatis)
+
+Dari 40 sumber yang disalin, **38 repository biasa** memenuhi syarat untuk menjadi kandidat penghapusan. Repository pusat `sandbox_projects` dan repository profil khusus `lamberthrumpaidus` tetap dilindungi, selain ketujuh repository website. Repository profil khusus tidak boleh dihapus hanya karena `README.md`-nya sudah disalin: penghapusan akan menghilangkan tampilan profil GitHub tersebut.
+
+Program [`scripts/prune_original_repos.py`](../scripts/prune_original_repos.py) adalah **dry-run secara default**. Dengan opsi `--execute`, program akan:
+1. Membuat cadangan **full Git mirror** dari setiap repository sumber (semua commit, branch, dan tag).
+2. Memeriksa tiap cadangan dengan `git fsck --full`.
+3. Meminta konfirmasi ketik `HAPUS 38 REPOSITORY` sebelum menghapus sumber melalui GitHub CLI.
+
+Contoh pada terminal lokal:
+
+```bash
+python scripts/prune_original_repos.py
+python scripts/prune_original_repos.py --execute --backup-dir ./cadangan-github
+```
+
+Dibutuhkan `git`, Python 3, GitHub CLI (`gh`), dan otorisasi `delete_repo`. Cadangan mirror **tidak menyertakan issues, PR, pengaturan repository, atau tautan lama**. Simpan atau ekspor data tersebut secara terpisah jika diperlukan. Penghapusan repository tidak dapat dibatalkan secara aman hanya dengan adanya salinan berkas di koleksi.
