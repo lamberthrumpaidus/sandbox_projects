@@ -1,0 +1,337 @@
+{
+  "origin": "https://github.com/lamberthrumpaidus",
+  "target_repository": "sandbox_projects",
+  "protected_repositories": [
+    "3D-Portfolio",
+    "Arcade_Collection_Game",
+    "LANDLORD",
+    "Omni_Science",
+    "Portfolio",
+    "Rubaka",
+    "pixelpay"
+  ],
+  "source_repositories": 40,
+  "copied_files": 193,
+  "details": [
+    {
+      "category": "01-programming-languages",
+      "repository": "Python",
+      "branch": "main",
+      "source_commit": "2a6026d1838d9d940dee72b11cfd6aca5c452c83",
+      "file_count": 18,
+      "bytes": 25001
+    },
+    {
+      "category": "01-programming-languages",
+      "repository": "CPP",
+      "branch": "main",
+      "source_commit": "91c92d3a6fb715b83bf4172e020dda545087a134",
+      "file_count": 21,
+      "bytes": 27807
+    },
+    {
+      "category": "01-programming-languages",
+      "repository": "JavaScript",
+      "branch": "main",
+      "source_commit": "a963834015e3fa0633edcb2825b52645a23b6aca",
+      "file_count": 5,
+      "bytes": 4523
+    },
+    {
+      "category": "01-programming-languages",
+      "repository": "FINAL_PROJECT_ALGORITMA",
+      "branch": "main",
+      "source_commit": "56531134c919833af405a7b3a2f43f3417e27b9e",
+      "file_count": 5,
+      "bytes": 71349
+    },
+    {
+      "category": "01-programming-languages",
+      "repository": "Calculator",
+      "branch": "master",
+      "source_commit": "84a55a54f3a59c17e2d448bab50365c83f052040",
+      "file_count": 7,
+      "bytes": 6562
+    },
+    {
+      "category": "01-programming-languages",
+      "repository": "Pemrograman_Praktikum",
+      "branch": "main",
+      "source_commit": "ff165599c4f75675ee661f11a03c0e6df97a34f2",
+      "file_count": 8,
+      "bytes": 6390
+    },
+    {
+      "category": "01-programming-languages",
+      "repository": "Matematika",
+      "branch": "main",
+      "source_commit": "f621eb4f588bf1445b81a5ab8d07838689766ee0",
+      "file_count": 2,
+      "bytes": 6794
+    },
+    {
+      "category": "01-programming-languages",
+      "repository": "sandbox_projects",
+      "branch": "main",
+      "source_commit": "003128a6cbd43b4d8c1307b225a6a2af93042239",
+      "file_count": 10,
+      "bytes": 5857
+    },
+    {
+      "category": "02-desktop-games",
+      "repository": "FlappyGhost",
+      "branch": "main",
+      "source_commit": "97761aa0ebb680769d59bd677e6dc86945b79b2d",
+      "file_count": 41,
+      "bytes": 23361938
+    },
+    {
+      "category": "02-desktop-games",
+      "repository": "Mini-PlayStation",
+      "branch": "main",
+      "source_commit": "186ce94d18fe6c8222fd7aec674a9cf36256d534",
+      "file_count": 2,
+      "bytes": 15265
+    },
+    {
+      "category": "02-desktop-games",
+      "repository": "PlayStation-Sederhana",
+      "branch": "main",
+      "source_commit": "dcc0280ce4544ee45b48d6a86ffaf37ba386c192",
+      "file_count": 2,
+      "bytes": 11406
+    },
+    {
+      "category": "03-ai-data-and-automation",
+      "repository": "WA-Bot-Char-AI",
+      "branch": "main",
+      "source_commit": "e9c5bd092ca30f941e949ded59ab0c34a4e9f554",
+      "file_count": 4,
+      "bytes": 8469
+    },
+    {
+      "category": "03-ai-data-and-automation",
+      "repository": "ai-char-Lam",
+      "branch": "main",
+      "source_commit": "3348ee0f50e7593407c1bf3701162a5490c16a88",
+      "file_count": 1,
+      "bytes": 1372
+    },
+    {
+      "category": "03-ai-data-and-automation",
+      "repository": "Membuat-Karakter_AI",
+      "branch": "main",
+      "source_commit": "308e2328019b471d65c5d06b434ba63c7cfbd9f3",
+      "file_count": 1,
+      "bytes": 2083
+    },
+    {
+      "category": "03-ai-data-and-automation",
+      "repository": "ChatGPT",
+      "branch": "main",
+      "source_commit": "78e783800cf683d3bf7de4bca35515cf7af1e5cf",
+      "file_count": 1,
+      "bytes": 4768
+    },
+    {
+      "category": "03-ai-data-and-automation",
+      "repository": "Prediksi_Keterlambatan_e-commerce",
+      "branch": "main",
+      "source_commit": "f02c39742ddfb82628731b0684778bc769e5db87",
+      "file_count": 3,
+      "bytes": 485050
+    },
+    {
+      "category": "03-ai-data-and-automation",
+      "repository": "Python_Translate_File",
+      "branch": "main",
+      "source_commit": "96654b2c109fb5d0b4b5cc1f5781ffcab26a324c",
+      "file_count": 2,
+      "bytes": 7991
+    },
+    {
+      "category": "03-ai-data-and-automation",
+      "repository": "DownloadYoutube",
+      "branch": "main",
+      "source_commit": "5a1857adb9e5dcddc6400da97a2f5f8b52f16da3",
+      "file_count": 2,
+      "bytes": 3290
+    },
+    {
+      "category": "04-windows-guides",
+      "repository": "Shortcut-KeyWindows11",
+      "branch": "main",
+      "source_commit": "397189f465739f70dfb3f407cef0bbbd323db961",
+      "file_count": 1,
+      "bytes": 4146
+    },
+    {
+      "category": "04-windows-guides",
+      "repository": "Tips-and-Trik-agar-Windows11-lancar",
+      "branch": "main",
+      "source_commit": "3de95407b79a782a60909dd360d9e6f1e894e803",
+      "file_count": 1,
+      "bytes": 8660
+    },
+    {
+      "category": "04-windows-guides",
+      "repository": "Melihat-isi-Wa-yang-dihapus",
+      "branch": "main",
+      "source_commit": "0186199a7003aa1dc03a71516add3eeff306e26c",
+      "file_count": 1,
+      "bytes": 3580
+    },
+    {
+      "category": "04-windows-guides",
+      "repository": "Instal-ulang-windows",
+      "branch": "main",
+      "source_commit": "8f951dd61d1293d6aec7a5aa03eb5d706e6c5424",
+      "file_count": 1,
+      "bytes": 3397
+    },
+    {
+      "category": "04-windows-guides",
+      "repository": "Cek-Keaslian-Windows",
+      "branch": "main",
+      "source_commit": "47cd5cc9d64da44721ad977ccd475f1af36565a4",
+      "file_count": 1,
+      "bytes": 1286
+    },
+    {
+      "category": "04-windows-guides",
+      "repository": "Winutil",
+      "branch": "main",
+      "source_commit": "099ea288def984e952ba9932cb86357fba4fb60d",
+      "file_count": 1,
+      "bytes": 1446
+    },
+    {
+      "category": "04-windows-guides",
+      "repository": "Lock_Folders_-WINDOWS-",
+      "branch": "main",
+      "source_commit": "fb50f1cda37a10836f77d26e195019a7fb2cfb6b",
+      "file_count": 1,
+      "bytes": 2088
+    },
+    {
+      "category": "05-operating-systems-and-privacy",
+      "repository": "Install-Linux",
+      "branch": "main",
+      "source_commit": "d15cf681d1562763a5dbff1fa840ad9e7b0a54ed",
+      "file_count": 1,
+      "bytes": 4294
+    },
+    {
+      "category": "05-operating-systems-and-privacy",
+      "repository": "Instal-ulang-macOS",
+      "branch": "main",
+      "source_commit": "4975ce118240049e3a414f481e20cd2f0c0570f0",
+      "file_count": 1,
+      "bytes": 3427
+    },
+    {
+      "category": "05-operating-systems-and-privacy",
+      "repository": "Linux-VS-Windows-VS-macOS",
+      "branch": "main",
+      "source_commit": "1996be2924c433cfcfebd356f464a14c424b2638",
+      "file_count": 1,
+      "bytes": 3801
+    },
+    {
+      "category": "05-operating-systems-and-privacy",
+      "repository": "Cara-Gunakan-TorBrowser",
+      "branch": "main",
+      "source_commit": "cc5b75f1008bc509cb96135e1e72c0e51119af6f",
+      "file_count": 1,
+      "bytes": 2163
+    },
+    {
+      "category": "06-spotify-customization",
+      "repository": "Custome-Spotify",
+      "branch": "main",
+      "source_commit": "9a8effb36a54e238c4c0062da8630df574214d4c",
+      "file_count": 1,
+      "bytes": 1334
+    },
+    {
+      "category": "06-spotify-customization",
+      "repository": "Shadowed-Orchid",
+      "branch": "main",
+      "source_commit": "ac93b735eefe1509f93925f92fb09cfc6f61b510",
+      "file_count": 6,
+      "bytes": 1665645
+    },
+    {
+      "category": "06-spotify-customization",
+      "repository": "Spotify_NoAD_CustomTheme",
+      "branch": "main",
+      "source_commit": "993097604afa18d4cc162e98588af03211a93c06",
+      "file_count": 12,
+      "bytes": 2100239
+    },
+    {
+      "category": "06-spotify-customization",
+      "repository": "Spotify_AdBlock",
+      "branch": "main",
+      "source_commit": "18b037537c04e9fac76237a792191effa9ce296d",
+      "file_count": 4,
+      "bytes": 511410
+    },
+    {
+      "category": "07-social-media-tools",
+      "repository": "Tiktok_Remove_Repost",
+      "branch": "main",
+      "source_commit": "2eba2c868516c4ce92252dc43686d8724875a830",
+      "file_count": 1,
+      "bytes": 931
+    },
+    {
+      "category": "07-social-media-tools",
+      "repository": "Remove_Tiktok_Liked_Videos",
+      "branch": "main",
+      "source_commit": "c9fdb25a166259bf444c2522e6ed4521c1eea4cf",
+      "file_count": 1,
+      "bytes": 931
+    },
+    {
+      "category": "08-security-research",
+      "repository": "uDork",
+      "branch": "main",
+      "source_commit": "601dad9e412dce382a83769adb73c21e4cebb04c",
+      "file_count": 18,
+      "bytes": 192595
+    },
+    {
+      "category": "09-developer-resources",
+      "repository": "Lisensi-pada-Github",
+      "branch": "main",
+      "source_commit": "5dc82640fa018bfc17a5f3eae75b7b66fa1ef7ac",
+      "file_count": 1,
+      "bytes": 4194
+    },
+    {
+      "category": "09-developer-resources",
+      "repository": "lamberthrumpaidus",
+      "branch": "main",
+      "source_commit": "f62810067c023be31ea43e35406506dc8cf9c1e2",
+      "file_count": 1,
+      "bytes": 2503
+    },
+    {
+      "category": "10-music-tools",
+      "repository": "Make-Music-SUNO.AI",
+      "branch": "main",
+      "source_commit": "e4f783d9554b95bfc7a15a5b917ce3e51a82d4d7",
+      "file_count": 1,
+      "bytes": 2110
+    },
+    {
+      "category": "11-hardware-iot",
+      "repository": "Alat-Pengukur-Detak-Jantung-Berbasis-Inframerah",
+      "branch": "main",
+      "source_commit": "6ebb4e53a92d4f0eed6bd0f27a36114f04aa7cbf",
+      "file_count": 1,
+      "bytes": 1060
+    }
+  ]
+}
