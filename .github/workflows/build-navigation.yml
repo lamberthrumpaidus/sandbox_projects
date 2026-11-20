@@ -1,0 +1,49 @@
+name: Organize repository files into second-level catalogs
+on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/build_navigation.py"
+      - ".github/workflows/build-navigation.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: sandbox-secondary-file-catalog
+  cancel-in-progress: false
+jobs:
+  catalog:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - name: Check out grouped repository
+        uses: actions/checkout@v4
+      - name: Generate file-type subcategories without moving existing files
+        run: python3 scripts/build_navigation.py
+      - name: Verify 193 original files are still present
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          report=json.loads(Path("collections/sync-report.json").read_text(encoding="utf-8"))
+          nav=json.loads(Path("collections/navigasi-file/katalog.json").read_text(encoding="utf-8"))
+          assert nav["total_file"] == report["copied_files"] == 193
+          assert nav["jumlah_kelompok"] == 14
+          all_records = [r for group in nav["kategori"].values() for r in group]
+          assert len(all_records) == len(set(r["path"] for r in all_records)) == 193
+          for record in all_records:
+              assert Path(record["path"]).is_file(), record["path"]
+              assert Path(record["path"]).stat().st_size == record["ukuran_bytes"]
+          print("Valid:",len(all_records),"original files unchanged and indexed")
+          PY
+      - name: Commit navigation and index pages
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add collections/navigasi-file/ collections/README.md README.md
+          if git diff --cached --quiet; then
+            echo "Navigation already up to date."
+          else
+            git commit -m "docs(collection): organize 193 files into 14 navigable subcategories"
+            git push origin HEAD:main
+          fi
