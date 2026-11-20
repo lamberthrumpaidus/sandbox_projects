@@ -1,0 +1,58 @@
+name: Group all non-website repositories
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/sync-collections.yml"
+      - "collections/manifest.json"
+      - "scripts/sync_collections.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lr-nonwebsite-repo-collection
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    name: Copy all 40 source repositories into 11 categories
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Check out destination repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Assemble category folders without altering source repositories
+        run: python3 scripts/sync_collections.py
+      - name: Validate copied repository count
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          manifest = json.loads(Path('collections/manifest.json').read_text())
+          report = json.loads(Path('collections/sync-report.json').read_text())
+          assert report['source_repositories'] == 40
+          assert len(report['details']) == 40
+          assert report['copied_files'] >= 40
+          for item in report['details']:
+              root = Path('collections') / item['category'] / item['repository']
+              assert root.is_dir(), root
+              assert sum(p.is_file() for p in root.rglob('*')) == item['file_count']
+          print('Verified:', report['source_repositories'], 'repos /', report['copied_files'], 'files')
+          PY
+      - name: Commit categorized copies to destination only
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --all collections/
+          if git diff --cached --quiet; then
+            echo "No source file changes to collect."
+          else
+            git commit -m "chore(collections): synchronize 40 non-website repositories"
+            git push origin HEAD:main
+          fi
