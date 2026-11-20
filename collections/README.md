@@ -1,5 +1,10 @@
 # L/R — Koleksi Repository berdasarkan Kategori
 
+
+## Navigasi cepat
+
+[Buka katalog berdasarkan jenis file](navigasi-file/README.md)
+
 Koleksi ini menyatukan **salinan file** dari 40 repository publik yang **tidak memiliki file `index.html`**. Seluruh file sumber disimpan di subfolder `collections/<kategori>/<nama-repository>/`, termasuk gambar, audio, arsip ZIP, notebook, dan berkas biner lain jika ada.
 
 ## Aturan keselamatan

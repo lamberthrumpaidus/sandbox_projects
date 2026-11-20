@@ -1,0 +1,1579 @@
+{
+  "total_file": 193,
+  "repository_sumber": 40,
+  "jumlah_kelompok": 14,
+  "tidak_memindahkan_file": true,
+  "kategori": {
+    "01-python": [
+      {
+        "proyek": "Matematika",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Matematika.py",
+        "path": "collections/01-programming-languages/Matematika/Matematika.py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Matematika/Matematika.py",
+        "ukuran_bytes": 4564
+      },
+      {
+        "proyek": "Python",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Biner.py",
+        "path": "collections/01-programming-languages/Python/Biner.py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Biner.py",
+        "ukuran_bytes": 540
+      },
+      {
+        "proyek": "Python",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Bunga.py",
+        "path": "collections/01-programming-languages/Python/Bunga.py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Bunga.py",
+        "ukuran_bytes": 4122
+      },
+      {
+        "proyek": "Python",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Detection Input.py",
+        "path": "collections/01-programming-languages/Python/Detection Input.py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Detection%20Input.py",
+        "ukuran_bytes": 149
+      },
+      {
+        "proyek": "Python",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Faktor Persekuat Besar.py",
+        "path": "collections/01-programming-languages/Python/Faktor Persekuat Besar.py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Faktor%20Persekuat%20Besar.py",
+        "ukuran_bytes": 356
+      },
+      {
+        "proyek": "Python",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Faktorial.py",
+        "path": "collections/01-programming-languages/Python/Faktorial.py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Faktorial.py",
+        "ukuran_bytes": 125
+      },
+      {
+        "proyek": "Python",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Kalkulator.py",
+        "path": "collections/01-programming-languages/Python/Kalkulator.py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Kalkulator.py",
+        "ukuran_bytes": 799
+      },
+      {
+        "proyek": "Python",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Make A Random Sentence.py",
+        "path": "collections/01-programming-languages/Python/Make A Random Sentence.py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Make%20A%20Random%20Sentence.py",
+        "ukuran_bytes": 407
+      },
+      {
+        "proyek": "Python",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Make A Random Story .py",
+        "path": "collections/01-programming-languages/Python/Make A Random Story .py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Make%20A%20Random%20Story%20.py",
+        "ukuran_bytes": 641
+      },
+      {
+        "proyek": "Python",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Mawar.py",
+        "path": "collections/01-programming-languages/Python/Mawar.py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Mawar.py",
+        "ukuran_bytes": 645
+      },
+      {
+        "proyek": "Python",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Menghitung Akar.py",
+        "path": "collections/01-programming-languages/Python/Menghitung Akar.py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Menghitung%20Akar.py",
+        "ukuran_bytes": 116
+      },
+      {
+        "proyek": "Python",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Menghitung Arus Tegangan Hambatan.py",
+        "path": "collections/01-programming-languages/Python/Menghitung Arus Tegangan Hambatan.py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Menghitung%20Arus%20Tegangan%20Hambatan.py",
+        "ukuran_bytes": 1792
+      },
+      {
+        "proyek": "Python",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Menghitung Rumus Luas Bangun Datar.py",
+        "path": "collections/01-programming-languages/Python/Menghitung Rumus Luas Bangun Datar.py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Menghitung%20Rumus%20Luas%20Bangun%20Datar.py",
+        "ukuran_bytes": 2575
+      },
+      {
+        "proyek": "Python",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Mobil.py",
+        "path": "collections/01-programming-languages/Python/Mobil.py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Mobil.py",
+        "ukuran_bytes": 2598
+      },
+      {
+        "proyek": "Python",
+        "kelompok_asli": "01-programming-languages",
+        "file": "String Aneh.py",
+        "path": "collections/01-programming-languages/Python/String Aneh.py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/String%20Aneh.py",
+        "ukuran_bytes": 256
+      },
+      {
+        "proyek": "Python",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Tebak Angka.py",
+        "path": "collections/01-programming-languages/Python/Tebak Angka.py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Tebak%20Angka.py",
+        "ukuran_bytes": 3081
+      },
+      {
+        "proyek": "Python",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Teka Teki Sodoku.py",
+        "path": "collections/01-programming-languages/Python/Teka Teki Sodoku.py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Teka%20Teki%20Sodoku.py",
+        "ukuran_bytes": 2273
+      },
+      {
+        "proyek": "Python",
+        "kelompok_asli": "01-programming-languages",
+        "file": "kalkulatorv2.py",
+        "path": "collections/01-programming-languages/Python/kalkulatorv2.py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/kalkulatorv2.py",
+        "ukuran_bytes": 2771
+      },
+      {
+        "proyek": "sandbox_projects",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Automasi Tugas dengan Python (Mengirim Email Otomatis).py",
+        "path": "collections/01-programming-languages/sandbox_projects/Automasi Tugas dengan Python (Mengirim Email Otomatis).py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Automasi%20Tugas%20dengan%20Python%20%28Mengirim%20Email%20Otomatis%29.py",
+        "ukuran_bytes": 944
+      },
+      {
+        "proyek": "sandbox_projects",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Flask Web Application (Sederhana).py",
+        "path": "collections/01-programming-languages/sandbox_projects/Flask Web Application (Sederhana).py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Flask%20Web%20Application%20%28Sederhana%29.py",
+        "ukuran_bytes": 201
+      },
+      {
+        "proyek": "sandbox_projects",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Mendeteksi Port Terbuka dengan Python (Menggunakan socket).py",
+        "path": "collections/01-programming-languages/sandbox_projects/Mendeteksi Port Terbuka dengan Python (Menggunakan socket).py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Mendeteksi%20Port%20Terbuka%20dengan%20Python%20%28Menggunakan%20socket%29.py",
+        "ukuran_bytes": 417
+      },
+      {
+        "proyek": "sandbox_projects",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Model Klasifikasi Sederhana dengan Scikit-learn.py",
+        "path": "collections/01-programming-languages/sandbox_projects/Model Klasifikasi Sederhana dengan Scikit-learn.py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Model%20Klasifikasi%20Sederhana%20dengan%20Scikit-learn.py",
+        "ukuran_bytes": 631
+      },
+      {
+        "proyek": "sandbox_projects",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Prediksi Harga dengan Regresi Linier (Sklearn).py",
+        "path": "collections/01-programming-languages/sandbox_projects/Prediksi Harga dengan Regresi Linier (Sklearn).py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Prediksi%20Harga%20dengan%20Regresi%20Linier%20%28Sklearn%29.py",
+        "ukuran_bytes": 531
+      },
+      {
+        "proyek": "sandbox_projects",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Scraping Informasi OSINT (Menggunakan BeautifulSoup untuk Mencari Informasi dari Halaman Web).py",
+        "path": "collections/01-programming-languages/sandbox_projects/Scraping Informasi OSINT (Menggunakan BeautifulSoup untuk Mencari Informasi dari Halaman Web).py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Scraping%20Informasi%20OSINT%20%28Menggunakan%20BeautifulSoup%20untuk%20Mencari%20Informasi%20dari%20Halaman%20Web%29.py",
+        "ukuran_bytes": 328
+      },
+      {
+        "proyek": "sandbox_projects",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Skrip Sederhana untuk Memproses Data (Menggunakan Pandas).py",
+        "path": "collections/01-programming-languages/sandbox_projects/Skrip Sederhana untuk Memproses Data (Menggunakan Pandas).py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Skrip%20Sederhana%20untuk%20Memproses%20Data%20%28Menggunakan%20Pandas%29.py",
+        "ukuran_bytes": 344
+      },
+      {
+        "proyek": "PlayStation-Sederhana",
+        "kelompok_asli": "02-desktop-games",
+        "file": "PlayStation-Sederhana.py",
+        "path": "collections/02-desktop-games/PlayStation-Sederhana/PlayStation-Sederhana.py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/PlayStation-Sederhana/PlayStation-Sederhana.py",
+        "ukuran_bytes": 8812
+      },
+      {
+        "proyek": "DownloadYoutube",
+        "kelompok_asli": "03-ai-data-and-automation",
+        "file": "youtubedownload.py",
+        "path": "collections/03-ai-data-and-automation/DownloadYoutube/youtubedownload.py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/DownloadYoutube/youtubedownload.py",
+        "ukuran_bytes": 1845
+      },
+      {
+        "proyek": "Python_Translate_File",
+        "kelompok_asli": "03-ai-data-and-automation",
+        "file": "translate.py",
+        "path": "collections/03-ai-data-and-automation/Python_Translate_File/translate.py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Python_Translate_File/translate.py",
+        "ukuran_bytes": 3507
+      }
+    ],
+    "02-c-cpp": [
+      {
+        "proyek": "CPP",
+        "kelompok_asli": "01-programming-languages",
+        "file": "ATM.cpp",
+        "path": "collections/01-programming-languages/CPP/ATM.cpp",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/CPP/ATM.cpp",
+        "ukuran_bytes": 3255
+      },
+      {
+        "proyek": "CPP",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Faktorial.cpp",
+        "path": "collections/01-programming-languages/CPP/Faktorial.cpp",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/CPP/Faktorial.cpp",
+        "ukuran_bytes": 307
+      },
+      {
+        "proyek": "CPP",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Kalkulator.cpp",
+        "path": "collections/01-programming-languages/CPP/Kalkulator.cpp",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/CPP/Kalkulator.cpp",
+        "ukuran_bytes": 739
+      },
+      {
+        "proyek": "CPP",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Konversi Nilai Ke Abjad.cpp",
+        "path": "collections/01-programming-languages/CPP/Konversi Nilai Ke Abjad.cpp",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/CPP/Konversi%20Nilai%20Ke%20Abjad.cpp",
+        "ukuran_bytes": 496
+      },
+      {
+        "proyek": "CPP",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Konversi Suhu.cpp",
+        "path": "collections/01-programming-languages/CPP/Konversi Suhu.cpp",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/CPP/Konversi%20Suhu.cpp",
+        "ukuran_bytes": 2385
+      },
+      {
+        "proyek": "CPP",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Membuat input didalam Kotak.cpp",
+        "path": "collections/01-programming-languages/CPP/Membuat input didalam Kotak.cpp",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/CPP/Membuat%20input%20didalam%20Kotak.cpp",
+        "ukuran_bytes": 1582
+      },
+      {
+        "proyek": "CPP",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Menampilkan Segita Tergantung Input.cpp",
+        "path": "collections/01-programming-languages/CPP/Menampilkan Segita Tergantung Input.cpp",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/CPP/Menampilkan%20Segita%20Tergantung%20Input.cpp",
+        "ukuran_bytes": 380
+      },
+      {
+        "proyek": "CPP",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Mencari Sisi Miring.cpp",
+        "path": "collections/01-programming-languages/CPP/Mencari Sisi Miring.cpp",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/CPP/Mencari%20Sisi%20Miring.cpp",
+        "ukuran_bytes": 337
+      },
+      {
+        "proyek": "CPP",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Menghitung Rumus Luas Bangun Datar.cpp",
+        "path": "collections/01-programming-languages/CPP/Menghitung Rumus Luas Bangun Datar.cpp",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/CPP/Menghitung%20Rumus%20Luas%20Bangun%20Datar.cpp",
+        "ukuran_bytes": 3403
+      },
+      {
+        "proyek": "CPP",
+        "kelompok_asli": "01-programming-languages",
+        "file": "MenghitungArusTeganganHambatan.cpp",
+        "path": "collections/01-programming-languages/CPP/MenghitungArusTeganganHambatan.cpp",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/CPP/MenghitungArusTeganganHambatan.cpp",
+        "ukuran_bytes": 2288
+      },
+      {
+        "proyek": "CPP",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Palindrom.cpp",
+        "path": "collections/01-programming-languages/CPP/Palindrom.cpp",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/CPP/Palindrom.cpp",
+        "ukuran_bytes": 734
+      },
+      {
+        "proyek": "CPP",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Penghitung Mundur.cpp",
+        "path": "collections/01-programming-languages/CPP/Penghitung Mundur.cpp",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/CPP/Penghitung%20Mundur.cpp",
+        "ukuran_bytes": 407
+      },
+      {
+        "proyek": "CPP",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Snake Game.cpp",
+        "path": "collections/01-programming-languages/CPP/Snake Game.cpp",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/CPP/Snake%20Game.cpp",
+        "ukuran_bytes": 3073
+      },
+      {
+        "proyek": "CPP",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Tangga Nada .cpp",
+        "path": "collections/01-programming-languages/CPP/Tangga Nada .cpp",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/CPP/Tangga%20Nada%20.cpp",
+        "ukuran_bytes": 979
+      },
+      {
+        "proyek": "CPP",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Tebak Angka.cpp",
+        "path": "collections/01-programming-languages/CPP/Tebak Angka.cpp",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/CPP/Tebak%20Angka.cpp",
+        "ukuran_bytes": 2262
+      },
+      {
+        "proyek": "CPP",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Tik Tac Toe.cpp",
+        "path": "collections/01-programming-languages/CPP/Tik Tac Toe.cpp",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/CPP/Tik%20Tac%20Toe.cpp",
+        "ukuran_bytes": 2223
+      },
+      {
+        "proyek": "CPP",
+        "kelompok_asli": "01-programming-languages",
+        "file": "deret.cpp",
+        "path": "collections/01-programming-languages/CPP/deret.cpp",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/CPP/deret.cpp",
+        "ukuran_bytes": 321
+      },
+      {
+        "proyek": "CPP",
+        "kelompok_asli": "01-programming-languages",
+        "file": "luas lingkaran.cpp",
+        "path": "collections/01-programming-languages/CPP/luas lingkaran.cpp",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/CPP/luas%20lingkaran.cpp",
+        "ukuran_bytes": 246
+      },
+      {
+        "proyek": "CPP",
+        "kelompok_asli": "01-programming-languages",
+        "file": "menghitung pangkat.cpp",
+        "path": "collections/01-programming-languages/CPP/menghitung pangkat.cpp",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/CPP/menghitung%20pangkat.cpp",
+        "ukuran_bytes": 288
+      },
+      {
+        "proyek": "CPP",
+        "kelompok_asli": "01-programming-languages",
+        "file": "sortir.cpp",
+        "path": "collections/01-programming-languages/CPP/sortir.cpp",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/CPP/sortir.cpp",
+        "ukuran_bytes": 359
+      },
+      {
+        "proyek": "FINAL_PROJECT_ALGORITMA",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Avarage-Score-App.cpp",
+        "path": "collections/01-programming-languages/FINAL_PROJECT_ALGORITMA/Avarage-Score-App.cpp",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/FINAL_PROJECT_ALGORITMA/Avarage-Score-App.cpp",
+        "ukuran_bytes": 6207
+      },
+      {
+        "proyek": "FINAL_PROJECT_ALGORITMA",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Avarage-Score-AppV2.cpp",
+        "path": "collections/01-programming-languages/FINAL_PROJECT_ALGORITMA/Avarage-Score-AppV2.cpp",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/FINAL_PROJECT_ALGORITMA/Avarage-Score-AppV2.cpp",
+        "ukuran_bytes": 5571
+      },
+      {
+        "proyek": "sandbox_projects",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Contoh Program C untuk Mengakses GPIO di Raspberry Pi (LED Blink).c",
+        "path": "collections/01-programming-languages/sandbox_projects/Contoh Program C untuk Mengakses GPIO di Raspberry Pi (LED Blink).c",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Contoh%20Program%20C%20untuk%20Mengakses%20GPIO%20di%20Raspberry%20Pi%20%28LED%20Blink%29.c",
+        "ukuran_bytes": 372
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "main.cpp",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/main.cpp",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/main.cpp",
+        "ukuran_bytes": 6232
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "properties.h",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/properties.h",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/properties.h",
+        "ukuran_bytes": 211
+      },
+      {
+        "proyek": "Mini-PlayStation",
+        "kelompok_asli": "02-desktop-games",
+        "file": "Mini-PlayStation.cpp",
+        "path": "collections/02-desktop-games/Mini-PlayStation/Mini-PlayStation.cpp",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/Mini-PlayStation/Mini-PlayStation.cpp",
+        "ukuran_bytes": 13347
+      }
+    ],
+    "03-csharp": [
+      {
+        "proyek": "Calculator",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Program.cs",
+        "path": "collections/01-programming-languages/Calculator/Program.cs",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Calculator/Program.cs",
+        "ukuran_bytes": 479
+      },
+      {
+        "proyek": "Pemrograman_Praktikum",
+        "kelompok_asli": "01-programming-languages",
+        "file": "PlaneTicket.cs",
+        "path": "collections/01-programming-languages/Pemrograman_Praktikum/Class Member/PlaneTicket.cs",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Pemrograman_Praktikum/Class%20Member/PlaneTicket.cs",
+        "ukuran_bytes": 1264
+      },
+      {
+        "proyek": "Pemrograman_Praktikum",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Program.cs",
+        "path": "collections/01-programming-languages/Pemrograman_Praktikum/Class Member/Program.cs",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Pemrograman_Praktikum/Class%20Member/Program.cs",
+        "ukuran_bytes": 593
+      },
+      {
+        "proyek": "Pemrograman_Praktikum",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Dosen.cs",
+        "path": "collections/01-programming-languages/Pemrograman_Praktikum/Dosen.cs",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Pemrograman_Praktikum/Dosen.cs",
+        "ukuran_bytes": 536
+      },
+      {
+        "proyek": "Pemrograman_Praktikum",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Mahasiswa.cs",
+        "path": "collections/01-programming-languages/Pemrograman_Praktikum/Mahasiswa.cs",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Pemrograman_Praktikum/Mahasiswa.cs",
+        "ukuran_bytes": 608
+      },
+      {
+        "proyek": "Pemrograman_Praktikum",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Program.cs",
+        "path": "collections/01-programming-languages/Pemrograman_Praktikum/Program.cs",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Pemrograman_Praktikum/Program.cs",
+        "ukuran_bytes": 1225
+      },
+      {
+        "proyek": "Pemrograman_Praktikum",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Mahasiswa.cs",
+        "path": "collections/01-programming-languages/Pemrograman_Praktikum/TUGAS CLASS OBJECT MAHASISWA 5826/Mahasiswa.cs",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Pemrograman_Praktikum/TUGAS%20CLASS%20OBJECT%20MAHASISWA%205826/Mahasiswa.cs",
+        "ukuran_bytes": 829
+      },
+      {
+        "proyek": "Pemrograman_Praktikum",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Program.cs",
+        "path": "collections/01-programming-languages/Pemrograman_Praktikum/TUGAS CLASS OBJECT MAHASISWA 5826/Program.cs",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Pemrograman_Praktikum/TUGAS%20CLASS%20OBJECT%20MAHASISWA%205826/Program.cs",
+        "ukuran_bytes": 810
+      },
+      {
+        "proyek": "Pemrograman_Praktikum",
+        "kelompok_asli": "01-programming-languages",
+        "file": "mobil.cs",
+        "path": "collections/01-programming-languages/Pemrograman_Praktikum/mobil.cs",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Pemrograman_Praktikum/mobil.cs",
+        "ukuran_bytes": 525
+      }
+    ],
+    "04-javascript": [
+      {
+        "proyek": "JavaScript",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Kalkulator.js",
+        "path": "collections/01-programming-languages/JavaScript/Kalkulator.js",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/JavaScript/Kalkulator.js",
+        "ukuran_bytes": 826
+      },
+      {
+        "proyek": "JavaScript",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Palindrom.js",
+        "path": "collections/01-programming-languages/JavaScript/Palindrom.js",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/JavaScript/Palindrom.js",
+        "ukuran_bytes": 582
+      },
+      {
+        "proyek": "JavaScript",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Pesan Rahasia.js",
+        "path": "collections/01-programming-languages/JavaScript/Pesan Rahasia.js",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/JavaScript/Pesan%20Rahasia.js",
+        "ukuran_bytes": 0
+      },
+      {
+        "proyek": "JavaScript",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Tebak Angka.js",
+        "path": "collections/01-programming-languages/JavaScript/Tebak Angka.js",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/JavaScript/Tebak%20Angka.js",
+        "ukuran_bytes": 1204
+      },
+      {
+        "proyek": "sandbox_projects",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Simple Next.js",
+        "path": "collections/01-programming-languages/sandbox_projects/Simple Next.js",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Simple%20Next.js",
+        "ukuran_bytes": 216
+      },
+      {
+        "proyek": "WA-Bot-Char-AI",
+        "kelompok_asli": "03-ai-data-and-automation",
+        "file": "gptrp.js",
+        "path": "collections/03-ai-data-and-automation/WA-Bot-Char-AI/gptrp.js",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/WA-Bot-Char-AI/gptrp.js",
+        "ukuran_bytes": 745
+      },
+      {
+        "proyek": "WA-Bot-Char-AI",
+        "kelompok_asli": "03-ai-data-and-automation",
+        "file": "index.js",
+        "path": "collections/03-ai-data-and-automation/WA-Bot-Char-AI/index.js",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/WA-Bot-Char-AI/index.js",
+        "ukuran_bytes": 6267
+      },
+      {
+        "proyek": "Spotify_AdBlock",
+        "kelompok_asli": "06-spotify-customization",
+        "file": "adblock.js",
+        "path": "collections/06-spotify-customization/Spotify_AdBlock/adblock.js",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_AdBlock/adblock.js",
+        "ukuran_bytes": 1688
+      },
+      {
+        "proyek": "Spotify_NoAD_CustomTheme",
+        "kelompok_asli": "06-spotify-customization",
+        "file": "extension.js",
+        "path": "collections/06-spotify-customization/Spotify_NoAD_CustomTheme/CustomApps/marketplace/extension.js",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_NoAD_CustomTheme/CustomApps/marketplace/extension.js",
+        "ukuran_bytes": 103996
+      },
+      {
+        "proyek": "Spotify_NoAD_CustomTheme",
+        "kelompok_asli": "06-spotify-customization",
+        "file": "index.js",
+        "path": "collections/06-spotify-customization/Spotify_NoAD_CustomTheme/CustomApps/marketplace/index.js",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_NoAD_CustomTheme/CustomApps/marketplace/index.js",
+        "ukuran_bytes": 294961
+      }
+    ],
+    "05-css-shell": [
+      {
+        "proyek": "Shadowed-Orchid",
+        "kelompok_asli": "06-spotify-customization",
+        "file": "user.css",
+        "path": "collections/06-spotify-customization/Shadowed-Orchid/user.css",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Shadowed-Orchid/user.css",
+        "ukuran_bytes": 9124
+      },
+      {
+        "proyek": "Spotify_NoAD_CustomTheme",
+        "kelompok_asli": "06-spotify-customization",
+        "file": "style.css",
+        "path": "collections/06-spotify-customization/Spotify_NoAD_CustomTheme/CustomApps/marketplace/style.css",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_NoAD_CustomTheme/CustomApps/marketplace/style.css",
+        "ukuran_bytes": 34897
+      },
+      {
+        "proyek": "Spotify_NoAD_CustomTheme",
+        "kelompok_asli": "06-spotify-customization",
+        "file": "user.css",
+        "path": "collections/06-spotify-customization/Spotify_NoAD_CustomTheme/Themes/Shadowed Orchid/user.css",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_NoAD_CustomTheme/Themes/Shadowed%20Orchid/user.css",
+        "ukuran_bytes": 9124
+      },
+      {
+        "proyek": "uDork",
+        "kelompok_asli": "08-security-research",
+        "file": "uDork.sh",
+        "path": "collections/08-security-research/uDork/uDork.sh",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/uDork/uDork.sh",
+        "ukuran_bytes": 15187
+      }
+    ],
+    "06-dokumentasi": [
+      {
+        "proyek": "CPP",
+        "kelompok_asli": "01-programming-languages",
+        "file": "README.md",
+        "path": "collections/01-programming-languages/CPP/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/CPP/README.md",
+        "ukuran_bytes": 1743
+      },
+      {
+        "proyek": "FINAL_PROJECT_ALGORITMA",
+        "kelompok_asli": "01-programming-languages",
+        "file": "README.md",
+        "path": "collections/01-programming-languages/FINAL_PROJECT_ALGORITMA/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/FINAL_PROJECT_ALGORITMA/README.md",
+        "ukuran_bytes": 2676
+      },
+      {
+        "proyek": "JavaScript",
+        "kelompok_asli": "01-programming-languages",
+        "file": "README.md",
+        "path": "collections/01-programming-languages/JavaScript/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/JavaScript/README.md",
+        "ukuran_bytes": 1911
+      },
+      {
+        "proyek": "Matematika",
+        "kelompok_asli": "01-programming-languages",
+        "file": "README.md",
+        "path": "collections/01-programming-languages/Matematika/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Matematika/README.md",
+        "ukuran_bytes": 2230
+      },
+      {
+        "proyek": "Python",
+        "kelompok_asli": "01-programming-languages",
+        "file": "README.md",
+        "path": "collections/01-programming-languages/Python/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/README.md",
+        "ukuran_bytes": 1755
+      },
+      {
+        "proyek": "sandbox_projects",
+        "kelompok_asli": "01-programming-languages",
+        "file": "README.md",
+        "path": "collections/01-programming-languages/sandbox_projects/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/README.md",
+        "ukuran_bytes": 1873
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "README.md",
+        "path": "collections/02-desktop-games/FlappyGhost/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/README.md",
+        "ukuran_bytes": 2108
+      },
+      {
+        "proyek": "Mini-PlayStation",
+        "kelompok_asli": "02-desktop-games",
+        "file": "README.md",
+        "path": "collections/02-desktop-games/Mini-PlayStation/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/Mini-PlayStation/README.md",
+        "ukuran_bytes": 1918
+      },
+      {
+        "proyek": "PlayStation-Sederhana",
+        "kelompok_asli": "02-desktop-games",
+        "file": "README.md",
+        "path": "collections/02-desktop-games/PlayStation-Sederhana/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/PlayStation-Sederhana/README.md",
+        "ukuran_bytes": 2594
+      },
+      {
+        "proyek": "ChatGPT",
+        "kelompok_asli": "03-ai-data-and-automation",
+        "file": "README.md",
+        "path": "collections/03-ai-data-and-automation/ChatGPT/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/ChatGPT/README.md",
+        "ukuran_bytes": 4768
+      },
+      {
+        "proyek": "DownloadYoutube",
+        "kelompok_asli": "03-ai-data-and-automation",
+        "file": "README.md",
+        "path": "collections/03-ai-data-and-automation/DownloadYoutube/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/DownloadYoutube/README.md",
+        "ukuran_bytes": 1445
+      },
+      {
+        "proyek": "Membuat-Karakter_AI",
+        "kelompok_asli": "03-ai-data-and-automation",
+        "file": "README.md",
+        "path": "collections/03-ai-data-and-automation/Membuat-Karakter_AI/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Membuat-Karakter_AI/README.md",
+        "ukuran_bytes": 2083
+      },
+      {
+        "proyek": "Prediksi_Keterlambatan_e-commerce",
+        "kelompok_asli": "03-ai-data-and-automation",
+        "file": "README.md",
+        "path": "collections/03-ai-data-and-automation/Prediksi_Keterlambatan_e-commerce/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Prediksi_Keterlambatan_e-commerce/README.md",
+        "ukuran_bytes": 3062
+      },
+      {
+        "proyek": "Python_Translate_File",
+        "kelompok_asli": "03-ai-data-and-automation",
+        "file": "README.md",
+        "path": "collections/03-ai-data-and-automation/Python_Translate_File/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Python_Translate_File/README.md",
+        "ukuran_bytes": 4484
+      },
+      {
+        "proyek": "WA-Bot-Char-AI",
+        "kelompok_asli": "03-ai-data-and-automation",
+        "file": "README.md",
+        "path": "collections/03-ai-data-and-automation/WA-Bot-Char-AI/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/WA-Bot-Char-AI/README.md",
+        "ukuran_bytes": 846
+      },
+      {
+        "proyek": "ai-char-Lam",
+        "kelompok_asli": "03-ai-data-and-automation",
+        "file": "README.md",
+        "path": "collections/03-ai-data-and-automation/ai-char-Lam/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/ai-char-Lam/README.md",
+        "ukuran_bytes": 1372
+      },
+      {
+        "proyek": "Cek-Keaslian-Windows",
+        "kelompok_asli": "04-windows-guides",
+        "file": "README.md",
+        "path": "collections/04-windows-guides/Cek-Keaslian-Windows/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/04-windows-guides/Cek-Keaslian-Windows/README.md",
+        "ukuran_bytes": 1286
+      },
+      {
+        "proyek": "Instal-ulang-windows",
+        "kelompok_asli": "04-windows-guides",
+        "file": "README.md",
+        "path": "collections/04-windows-guides/Instal-ulang-windows/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/04-windows-guides/Instal-ulang-windows/README.md",
+        "ukuran_bytes": 3397
+      },
+      {
+        "proyek": "Lock_Folders_-WINDOWS-",
+        "kelompok_asli": "04-windows-guides",
+        "file": "README.md",
+        "path": "collections/04-windows-guides/Lock_Folders_-WINDOWS-/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/04-windows-guides/Lock_Folders_-WINDOWS-/README.md",
+        "ukuran_bytes": 2088
+      },
+      {
+        "proyek": "Melihat-isi-Wa-yang-dihapus",
+        "kelompok_asli": "04-windows-guides",
+        "file": "README.md",
+        "path": "collections/04-windows-guides/Melihat-isi-Wa-yang-dihapus/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/04-windows-guides/Melihat-isi-Wa-yang-dihapus/README.md",
+        "ukuran_bytes": 3580
+      },
+      {
+        "proyek": "Shortcut-KeyWindows11",
+        "kelompok_asli": "04-windows-guides",
+        "file": "README.md",
+        "path": "collections/04-windows-guides/Shortcut-KeyWindows11/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/04-windows-guides/Shortcut-KeyWindows11/README.md",
+        "ukuran_bytes": 4146
+      },
+      {
+        "proyek": "Tips-and-Trik-agar-Windows11-lancar",
+        "kelompok_asli": "04-windows-guides",
+        "file": "README.md",
+        "path": "collections/04-windows-guides/Tips-and-Trik-agar-Windows11-lancar/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/04-windows-guides/Tips-and-Trik-agar-Windows11-lancar/README.md",
+        "ukuran_bytes": 8660
+      },
+      {
+        "proyek": "Winutil",
+        "kelompok_asli": "04-windows-guides",
+        "file": "README.md",
+        "path": "collections/04-windows-guides/Winutil/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/04-windows-guides/Winutil/README.md",
+        "ukuran_bytes": 1446
+      },
+      {
+        "proyek": "Cara-Gunakan-TorBrowser",
+        "kelompok_asli": "05-operating-systems-and-privacy",
+        "file": "README.md",
+        "path": "collections/05-operating-systems-and-privacy/Cara-Gunakan-TorBrowser/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/05-operating-systems-and-privacy/Cara-Gunakan-TorBrowser/README.md",
+        "ukuran_bytes": 2163
+      },
+      {
+        "proyek": "Instal-ulang-macOS",
+        "kelompok_asli": "05-operating-systems-and-privacy",
+        "file": "README.md",
+        "path": "collections/05-operating-systems-and-privacy/Instal-ulang-macOS/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/05-operating-systems-and-privacy/Instal-ulang-macOS/README.md",
+        "ukuran_bytes": 3427
+      },
+      {
+        "proyek": "Install-Linux",
+        "kelompok_asli": "05-operating-systems-and-privacy",
+        "file": "README.md",
+        "path": "collections/05-operating-systems-and-privacy/Install-Linux/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/05-operating-systems-and-privacy/Install-Linux/README.md",
+        "ukuran_bytes": 4294
+      },
+      {
+        "proyek": "Linux-VS-Windows-VS-macOS",
+        "kelompok_asli": "05-operating-systems-and-privacy",
+        "file": "README.md",
+        "path": "collections/05-operating-systems-and-privacy/Linux-VS-Windows-VS-macOS/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/05-operating-systems-and-privacy/Linux-VS-Windows-VS-macOS/README.md",
+        "ukuran_bytes": 3801
+      },
+      {
+        "proyek": "Custome-Spotify",
+        "kelompok_asli": "06-spotify-customization",
+        "file": "README.md",
+        "path": "collections/06-spotify-customization/Custome-Spotify/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Custome-Spotify/README.md",
+        "ukuran_bytes": 1334
+      },
+      {
+        "proyek": "Shadowed-Orchid",
+        "kelompok_asli": "06-spotify-customization",
+        "file": "README.md",
+        "path": "collections/06-spotify-customization/Shadowed-Orchid/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Shadowed-Orchid/README.md",
+        "ukuran_bytes": 3388
+      },
+      {
+        "proyek": "Spotify_AdBlock",
+        "kelompok_asli": "06-spotify-customization",
+        "file": "LICENSE",
+        "path": "collections/06-spotify-customization/Spotify_AdBlock/LICENSE",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_AdBlock/LICENSE",
+        "ukuran_bytes": 1060
+      },
+      {
+        "proyek": "Spotify_AdBlock",
+        "kelompok_asli": "06-spotify-customization",
+        "file": "README.md",
+        "path": "collections/06-spotify-customization/Spotify_AdBlock/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_AdBlock/README.md",
+        "ukuran_bytes": 2501
+      },
+      {
+        "proyek": "Spotify_NoAD_CustomTheme",
+        "kelompok_asli": "06-spotify-customization",
+        "file": "README.md",
+        "path": "collections/06-spotify-customization/Spotify_NoAD_CustomTheme/CustomApps/marketplace/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_NoAD_CustomTheme/CustomApps/marketplace/README.md",
+        "ukuran_bytes": 1850
+      },
+      {
+        "proyek": "Spotify_NoAD_CustomTheme",
+        "kelompok_asli": "06-spotify-customization",
+        "file": "README.md",
+        "path": "collections/06-spotify-customization/Spotify_NoAD_CustomTheme/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_NoAD_CustomTheme/README.md",
+        "ukuran_bytes": 958
+      },
+      {
+        "proyek": "Remove_Tiktok_Liked_Videos",
+        "kelompok_asli": "07-social-media-tools",
+        "file": "README.md",
+        "path": "collections/07-social-media-tools/Remove_Tiktok_Liked_Videos/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/07-social-media-tools/Remove_Tiktok_Liked_Videos/README.md",
+        "ukuran_bytes": 931
+      },
+      {
+        "proyek": "Tiktok_Remove_Repost",
+        "kelompok_asli": "07-social-media-tools",
+        "file": "README.md",
+        "path": "collections/07-social-media-tools/Tiktok_Remove_Repost/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/07-social-media-tools/Tiktok_Remove_Repost/README.md",
+        "ukuran_bytes": 931
+      },
+      {
+        "proyek": "uDork",
+        "kelompok_asli": "08-security-research",
+        "file": "README.md",
+        "path": "collections/08-security-research/uDork/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/uDork/README.md",
+        "ukuran_bytes": 3648
+      },
+      {
+        "proyek": "Lisensi-pada-Github",
+        "kelompok_asli": "09-developer-resources",
+        "file": "README.md",
+        "path": "collections/09-developer-resources/Lisensi-pada-Github/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/09-developer-resources/Lisensi-pada-Github/README.md",
+        "ukuran_bytes": 4194
+      },
+      {
+        "proyek": "lamberthrumpaidus",
+        "kelompok_asli": "09-developer-resources",
+        "file": "README.md",
+        "path": "collections/09-developer-resources/lamberthrumpaidus/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/09-developer-resources/lamberthrumpaidus/README.md",
+        "ukuran_bytes": 2503
+      },
+      {
+        "proyek": "Make-Music-SUNO.AI",
+        "kelompok_asli": "10-music-tools",
+        "file": "README.md",
+        "path": "collections/10-music-tools/Make-Music-SUNO.AI/README.md",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/10-music-tools/Make-Music-SUNO.AI/README.md",
+        "ukuran_bytes": 2110
+      },
+      {
+        "proyek": "Alat-Pengukur-Detak-Jantung-Berbasis-Inframerah",
+        "kelompok_asli": "11-hardware-iot",
+        "file": "LICENSE",
+        "path": "collections/11-hardware-iot/Alat-Pengukur-Detak-Jantung-Berbasis-Inframerah/LICENSE",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/11-hardware-iot/Alat-Pengukur-Detak-Jantung-Berbasis-Inframerah/LICENSE",
+        "ukuran_bytes": 1060
+      }
+    ],
+    "07-data": [
+      {
+        "proyek": "Prediksi_Keterlambatan_e-commerce",
+        "kelompok_asli": "03-ai-data-and-automation",
+        "file": "Train.csv",
+        "path": "collections/03-ai-data-and-automation/Prediksi_Keterlambatan_e-commerce/Train.csv",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Prediksi_Keterlambatan_e-commerce/Train.csv",
+        "ukuran_bytes": 440462
+      },
+      {
+        "proyek": "Prediksi_Keterlambatan_e-commerce",
+        "kelompok_asli": "03-ai-data-and-automation",
+        "file": "UAS_BIG_DATA.ipynb",
+        "path": "collections/03-ai-data-and-automation/Prediksi_Keterlambatan_e-commerce/UAS_BIG_DATA.ipynb",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Prediksi_Keterlambatan_e-commerce/UAS_BIG_DATA.ipynb",
+        "ukuran_bytes": 41526
+      }
+    ],
+    "08-gambar": [
+      {
+        "proyek": "FINAL_PROJECT_ALGORITMA",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Screenshot.png",
+        "path": "collections/01-programming-languages/FINAL_PROJECT_ALGORITMA/Screenshot.png",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/FINAL_PROJECT_ALGORITMA/Screenshot.png",
+        "ukuran_bytes": 25278
+      },
+      {
+        "proyek": "FINAL_PROJECT_ALGORITMA",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Screenshot1.png",
+        "path": "collections/01-programming-languages/FINAL_PROJECT_ALGORITMA/Screenshot1.png",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/FINAL_PROJECT_ALGORITMA/Screenshot1.png",
+        "ukuran_bytes": 31617
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "FLowChart.jpg",
+        "path": "collections/02-desktop-games/FlappyGhost/FLowChart.jpg",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FLowChart.jpg",
+        "ukuran_bytes": 39521
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "3cherry.png",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/3cherry.png",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/3cherry.png",
+        "ukuran_bytes": 6850
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "bg.png",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/bg.png",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/bg.png",
+        "ukuran_bytes": 386251
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "burger.png",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/burger.png",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/burger.png",
+        "ukuran_bytes": 11857
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "cherry.png",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/cherry.png",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/cherry.png",
+        "ukuran_bytes": 16216
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "enemysweet.png",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/enemysweet.png",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/enemysweet.png",
+        "ukuran_bytes": 84351
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "ghost.png",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/ghost.png",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/ghost.png",
+        "ukuran_bytes": 11113
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "heart.png",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/heart.png",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/heart.png",
+        "ukuran_bytes": 131105
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "heartbreak.png",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/heartbreak.png",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/heartbreak.png",
+        "ukuran_bytes": 260545
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "cat.png",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/cat.png",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/cat.png",
+        "ukuran_bytes": 2491
+      },
+      {
+        "proyek": "Shadowed-Orchid",
+        "kelompok_asli": "06-spotify-customization",
+        "file": "Shadowed Orchid.png",
+        "path": "collections/06-spotify-customization/Shadowed-Orchid/Shadowed Orchid.png",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Shadowed-Orchid/Shadowed%20Orchid.png",
+        "ukuran_bytes": 831852
+      },
+      {
+        "proyek": "Spotify_AdBlock",
+        "kelompok_asli": "06-spotify-customization",
+        "file": "Screenshot 2026-05-04 110120.png",
+        "path": "collections/06-spotify-customization/Spotify_AdBlock/Screenshot 2026-05-04 110120.png",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_AdBlock/Screenshot%202026-05-04%20110120.png",
+        "ukuran_bytes": 506161
+      },
+      {
+        "proyek": "Spotify_NoAD_CustomTheme",
+        "kelompok_asli": "06-spotify-customization",
+        "file": "Shadowed Orchid.png",
+        "path": "collections/06-spotify-customization/Spotify_NoAD_CustomTheme/Themes/Shadowed Orchid/Shadowed Orchid.png",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_NoAD_CustomTheme/Themes/Shadowed%20Orchid/Shadowed%20Orchid.png",
+        "ukuran_bytes": 831852
+      }
+    ],
+    "09-audio-font": [
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "MementoMori-Regular.ttf",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/MementoMori-Regular.ttf",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/MementoMori-Regular.ttf",
+        "ukuran_bytes": 20452
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "end.wav",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/end.wav",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/end.wav",
+        "ukuran_bytes": 210976
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "enter.wav",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/enter.wav",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/enter.wav",
+        "ukuran_bytes": 37672
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "gameover.wav",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/gameover.wav",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/gameover.wav",
+        "ukuran_bytes": 238670
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "menu.wav",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/menu.wav",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/menu.wav",
+        "ukuran_bytes": 1442518
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "oink.wav",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/oink.wav",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/oink.wav",
+        "ukuran_bytes": 42358
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "sweetheart.TTF",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/sweetheart.TTF",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/assets/sweetheart.TTF",
+        "ukuran_bytes": 30728
+      }
+    ],
+    "10-arsip-aplikasi": [
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "nyanGame.exe",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/x64/Debug/nyanGame.exe",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/x64/Debug/nyanGame.exe",
+        "ukuran_bytes": 104448
+      },
+      {
+        "proyek": "Shadowed-Orchid",
+        "kelompok_asli": "06-spotify-customization",
+        "file": "Shadowed Orchid.zip",
+        "path": "collections/06-spotify-customization/Shadowed-Orchid/Shadowed Orchid.zip",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Shadowed-Orchid/Shadowed%20Orchid.zip",
+        "ukuran_bytes": 820564
+      },
+      {
+        "proyek": "Spotify_NoAD_CustomTheme",
+        "kelompok_asli": "06-spotify-customization",
+        "file": "Shadowed Orchid.zip",
+        "path": "collections/06-spotify-customization/Spotify_NoAD_CustomTheme/Themes/Shadowed Orchid.zip",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_NoAD_CustomTheme/Themes/Shadowed%20Orchid.zip",
+        "ukuran_bytes": 820564
+      }
+    ],
+    "11-konfigurasi": [
+      {
+        "proyek": "Calculator",
+        "kelompok_asli": "01-programming-languages",
+        "file": "calculator.csproj",
+        "path": "collections/01-programming-languages/Calculator/calculator.csproj",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Calculator/calculator.csproj",
+        "ukuran_bytes": 239
+      },
+      {
+        "proyek": "Calculator",
+        "kelompok_asli": "01-programming-languages",
+        "file": "calculator.csproj.nuget.dgspec.json",
+        "path": "collections/01-programming-languages/Calculator/obj/calculator.csproj.nuget.dgspec.json",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Calculator/obj/calculator.csproj.nuget.dgspec.json",
+        "ukuran_bytes": 2064
+      },
+      {
+        "proyek": "Calculator",
+        "kelompok_asli": "01-programming-languages",
+        "file": "calculator.csproj.nuget.g.props",
+        "path": "collections/01-programming-languages/Calculator/obj/calculator.csproj.nuget.g.props",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Calculator/obj/calculator.csproj.nuget.g.props",
+        "ukuran_bytes": 1289
+      },
+      {
+        "proyek": "Calculator",
+        "kelompok_asli": "01-programming-languages",
+        "file": "calculator.csproj.nuget.g.targets",
+        "path": "collections/01-programming-languages/Calculator/obj/calculator.csproj.nuget.g.targets",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Calculator/obj/calculator.csproj.nuget.g.targets",
+        "ukuran_bytes": 149
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "ProjectUAS.sln",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/ProjectUAS.sln",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/ProjectUAS.sln",
+        "ukuran_bytes": 1445
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "nyanGame.vcxproj",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/nyanGame.vcxproj",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/nyanGame.vcxproj",
+        "ukuran_bytes": 7354
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "nyanGame.vcxproj.filters",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/nyanGame.vcxproj.filters",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/nyanGame.vcxproj.filters",
+        "ukuran_bytes": 1103
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "nyanGame.vcxproj.user",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/nyanGame.vcxproj.user",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/nyanGame.vcxproj.user",
+        "ukuran_bytes": 168
+      },
+      {
+        "proyek": "WA-Bot-Char-AI",
+        "kelompok_asli": "03-ai-data-and-automation",
+        "file": "package.json",
+        "path": "collections/03-ai-data-and-automation/WA-Bot-Char-AI/package.json",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/WA-Bot-Char-AI/package.json",
+        "ukuran_bytes": 611
+      },
+      {
+        "proyek": "Shadowed-Orchid",
+        "kelompok_asli": "06-spotify-customization",
+        "file": "color.ini",
+        "path": "collections/06-spotify-customization/Shadowed-Orchid/color.ini",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Shadowed-Orchid/color.ini",
+        "ukuran_bytes": 557
+      },
+      {
+        "proyek": "Shadowed-Orchid",
+        "kelompok_asli": "06-spotify-customization",
+        "file": "config.ini",
+        "path": "collections/06-spotify-customization/Shadowed-Orchid/config.ini",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Shadowed-Orchid/config.ini",
+        "ukuran_bytes": 160
+      },
+      {
+        "proyek": "Spotify_NoAD_CustomTheme",
+        "kelompok_asli": "06-spotify-customization",
+        "file": "manifest.json",
+        "path": "collections/06-spotify-customization/Spotify_NoAD_CustomTheme/CustomApps/marketplace/manifest.json",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_NoAD_CustomTheme/CustomApps/marketplace/manifest.json",
+        "ukuran_bytes": 1305
+      },
+      {
+        "proyek": "Spotify_NoAD_CustomTheme",
+        "kelompok_asli": "06-spotify-customization",
+        "file": "color.ini",
+        "path": "collections/06-spotify-customization/Spotify_NoAD_CustomTheme/Themes/Shadowed Orchid/color.ini",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_NoAD_CustomTheme/Themes/Shadowed%20Orchid/color.ini",
+        "ukuran_bytes": 557
+      },
+      {
+        "proyek": "Spotify_NoAD_CustomTheme",
+        "kelompok_asli": "06-spotify-customization",
+        "file": "config.ini",
+        "path": "collections/06-spotify-customization/Spotify_NoAD_CustomTheme/Themes/Shadowed Orchid/config.ini",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_NoAD_CustomTheme/Themes/Shadowed%20Orchid/config.ini",
+        "ukuran_bytes": 160
+      },
+      {
+        "proyek": "Spotify_NoAD_CustomTheme",
+        "kelompok_asli": "06-spotify-customization",
+        "file": "color.ini",
+        "path": "collections/06-spotify-customization/Spotify_NoAD_CustomTheme/Themes/marketplace/color.ini",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_NoAD_CustomTheme/Themes/marketplace/color.ini",
+        "ukuran_bytes": 15
+      }
+    ],
+    "12-build-debug": [
+      {
+        "proyek": "Calculator",
+        "kelompok_asli": "01-programming-languages",
+        "file": "project.assets.json",
+        "path": "collections/01-programming-languages/Calculator/obj/project.assets.json",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Calculator/obj/project.assets.json",
+        "ukuran_bytes": 2080
+      },
+      {
+        "proyek": "Calculator",
+        "kelompok_asli": "01-programming-languages",
+        "file": "project.nuget.cache",
+        "path": "collections/01-programming-languages/Calculator/obj/project.nuget.cache",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Calculator/obj/project.nuget.cache",
+        "ukuran_bytes": 262
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "backup.obj",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/backup.obj",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/backup.obj",
+        "ukuran_bytes": 382887
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "main.obj",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/main.obj",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/main.obj",
+        "ukuran_bytes": 316268
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "nyanGame.exe.recipe",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/nyanGame.exe.recipe",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/nyanGame.exe.recipe",
+        "ukuran_bytes": 279
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "nyanGame.ilk",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/nyanGame.ilk",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/nyanGame.ilk",
+        "ukuran_bytes": 3885488
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "nyanGame.log",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/nyanGame.log",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/nyanGame.log",
+        "ukuran_bytes": 63
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "CL.command.1.tlog",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/nyanGame.tlog/CL.command.1.tlog",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/nyanGame.tlog/CL.command.1.tlog",
+        "ukuran_bytes": 3982
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "CL.read.1.tlog",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/nyanGame.tlog/CL.read.1.tlog",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/nyanGame.tlog/CL.read.1.tlog",
+        "ukuran_bytes": 42924
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "CL.write.1.tlog",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/nyanGame.tlog/CL.write.1.tlog",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/nyanGame.tlog/CL.write.1.tlog",
+        "ukuran_bytes": 620
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "Cl.items.tlog",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/nyanGame.tlog/Cl.items.tlog",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/nyanGame.tlog/Cl.items.tlog",
+        "ukuran_bytes": 75
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "link.command.1.tlog",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/nyanGame.tlog/link.command.1.tlog",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/nyanGame.tlog/link.command.1.tlog",
+        "ukuran_bytes": 4962
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "link.read.1.tlog",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/nyanGame.tlog/link.read.1.tlog",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/nyanGame.tlog/link.read.1.tlog",
+        "ukuran_bytes": 1952
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "link.write.1.tlog",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/nyanGame.tlog/link.write.1.tlog",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/nyanGame.tlog/link.write.1.tlog",
+        "ukuran_bytes": 336
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "nyanGame.lastbuildstate",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/nyanGame.tlog/nyanGame.lastbuildstate",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/nyanGame.tlog/nyanGame.lastbuildstate",
+        "ukuran_bytes": 143
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "vc143.idb",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/vc143.idb",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/vc143.idb",
+        "ukuran_bytes": 650240
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "vc143.pdb",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/vc143.pdb",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/nyanGame/x64/Debug/vc143.pdb",
+        "ukuran_bytes": 577536
+      },
+      {
+        "proyek": "FlappyGhost",
+        "kelompok_asli": "02-desktop-games",
+        "file": "nyanGame.pdb",
+        "path": "collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/x64/Debug/nyanGame.pdb",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/x64/Debug/nyanGame.pdb",
+        "ukuran_bytes": 14397440
+      }
+    ],
+    "13-referensi-keamanan": [
+      {
+        "proyek": "uDork",
+        "kelompok_asli": "08-security-research",
+        "file": "admin.txt",
+        "path": "collections/08-security-research/uDork/dorks/admin.txt",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/uDork/dorks/admin.txt",
+        "ukuran_bytes": 9760
+      },
+      {
+        "proyek": "uDork",
+        "kelompok_asli": "08-security-research",
+        "file": "custom.txt",
+        "path": "collections/08-security-research/uDork/dorks/custom.txt",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/uDork/dorks/custom.txt",
+        "ukuran_bytes": 29372
+      },
+      {
+        "proyek": "uDork",
+        "kelompok_asli": "08-security-research",
+        "file": "devices.txt",
+        "path": "collections/08-security-research/uDork/dorks/devices.txt",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/uDork/dorks/devices.txt",
+        "ukuran_bytes": 24534
+      },
+      {
+        "proyek": "uDork",
+        "kelompok_asli": "08-security-research",
+        "file": "directories.txt",
+        "path": "collections/08-security-research/uDork/dorks/directories.txt",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/uDork/dorks/directories.txt",
+        "ukuran_bytes": 13713
+      },
+      {
+        "proyek": "uDork",
+        "kelompok_asli": "08-security-research",
+        "file": "error_messages.txt",
+        "path": "collections/08-security-research/uDork/dorks/error_messages.txt",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/uDork/dorks/error_messages.txt",
+        "ukuran_bytes": 5915
+      },
+      {
+        "proyek": "uDork",
+        "kelompok_asli": "08-security-research",
+        "file": "filetype.txt",
+        "path": "collections/08-security-research/uDork/dorks/filetype.txt",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/uDork/dorks/filetype.txt",
+        "ukuran_bytes": 55
+      },
+      {
+        "proyek": "uDork",
+        "kelompok_asli": "08-security-research",
+        "file": "intext.txt",
+        "path": "collections/08-security-research/uDork/dorks/intext.txt",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/uDork/dorks/intext.txt",
+        "ukuran_bytes": 489
+      },
+      {
+        "proyek": "uDork",
+        "kelompok_asli": "08-security-research",
+        "file": "intitle.txt",
+        "path": "collections/08-security-research/uDork/dorks/intitle.txt",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/uDork/dorks/intitle.txt",
+        "ukuran_bytes": 9179
+      },
+      {
+        "proyek": "uDork",
+        "kelompok_asli": "08-security-research",
+        "file": "inurl.txt",
+        "path": "collections/08-security-research/uDork/dorks/inurl.txt",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/uDork/dorks/inurl.txt",
+        "ukuran_bytes": 4321
+      },
+      {
+        "proyek": "uDork",
+        "kelompok_asli": "08-security-research",
+        "file": "passwords.txt",
+        "path": "collections/08-security-research/uDork/dorks/passwords.txt",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/uDork/dorks/passwords.txt",
+        "ukuran_bytes": 16033
+      },
+      {
+        "proyek": "uDork",
+        "kelompok_asli": "08-security-research",
+        "file": "portal_logins.txt",
+        "path": "collections/08-security-research/uDork/dorks/portal_logins.txt",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/uDork/dorks/portal_logins.txt",
+        "ukuran_bytes": 38496
+      },
+      {
+        "proyek": "uDork",
+        "kelompok_asli": "08-security-research",
+        "file": "usernames.txt",
+        "path": "collections/08-security-research/uDork/dorks/usernames.txt",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/uDork/dorks/usernames.txt",
+        "ukuran_bytes": 1851
+      },
+      {
+        "proyek": "uDork",
+        "kelompok_asli": "08-security-research",
+        "file": "vulnerable_files.txt",
+        "path": "collections/08-security-research/uDork/dorks/vulnerable_files.txt",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/uDork/dorks/vulnerable_files.txt",
+        "ukuran_bytes": 2792
+      },
+      {
+        "proyek": "uDork",
+        "kelompok_asli": "08-security-research",
+        "file": "vulnerable_networks.txt",
+        "path": "collections/08-security-research/uDork/dorks/vulnerable_networks.txt",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/uDork/dorks/vulnerable_networks.txt",
+        "ukuran_bytes": 5097
+      },
+      {
+        "proyek": "uDork",
+        "kelompok_asli": "08-security-research",
+        "file": "vulnerable_servers.txt",
+        "path": "collections/08-security-research/uDork/dorks/vulnerable_servers.txt",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/uDork/dorks/vulnerable_servers.txt",
+        "ukuran_bytes": 6032
+      },
+      {
+        "proyek": "uDork",
+        "kelompok_asli": "08-security-research",
+        "file": "webservers.txt",
+        "path": "collections/08-security-research/uDork/dorks/webservers.txt",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/uDork/dorks/webservers.txt",
+        "ukuran_bytes": 6121
+      }
+    ],
+    "14-lainnya": []
+  }
+}
