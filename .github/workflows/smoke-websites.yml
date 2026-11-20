@@ -1,0 +1,32 @@
+name: Verify upgraded websites in Chromium
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/smoke-websites.yml"
+      - "scripts/smoke_websites.mjs"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  smoke:
+    name: Test five websites in browser
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install browser testing dependencies
+        run: |
+          npm install --no-save --no-package-lock playwright@1.56.1
+          npx playwright install --with-deps chromium
+      - name: Fetch published GitHub sources
+        run: |
+          mkdir -p sites
+          for name in Rubaka Arcade_Collection_Game Omni_Science pixelpay 3D-Portfolio; do
+            git clone --depth 1 --single-branch --branch main "https://github.com/lamberthrumpaidus/$name.git" "sites/$name"
+          done
+      - name: Verify branding, interaction, and mobile layout
+        run: node scripts/smoke_websites.mjs
