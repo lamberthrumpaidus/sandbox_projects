@@ -18,14 +18,15 @@ def candidates() -> list[str]:
     manifest = json.loads(MANIFEST.read_text(encoding="utf-8"))
     protected = set(manifest["protected_repositories_with_index_html"])
     protected.add(manifest["destination"])
+    protected.add("lamberthrumpaidus")
     names = list(dict.fromkeys(r["name"] for group in manifest["groups"] for r in group["repositories"]))
     result = [name for name in names if name not in protected]
-    if len(names) != 40 or len(result) != 39 or len(protected) != 8:
+    if len(names) != 40 or len(result) != 38 or len(protected) != 9:
         raise RuntimeError("Repository safety verification failed")
     return result
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Back up 39 repository histories before optional GitHub deletion.")
+    parser = argparse.ArgumentParser(description="Back up 38 repository histories before optional GitHub deletion.")
     parser.add_argument("--execute", action="store_true", help="Back up and ask to confirm deletions")
     parser.add_argument("--backup-dir", type=Path)
     args = parser.parse_args()
@@ -59,10 +60,10 @@ def main() -> None:
         refs = run("git", "show-ref", cwd=destination)
         if not refs:
             raise RuntimeError("No Git refs were saved for " + name)
-    print("All 39 mirrors validated successfully.")
+    print("All 38 mirrors validated successfully.")
     print("Complete Git history backup:", backup)
     print("Deletion also removes GitHub-hosted issues, PRs, repository settings and old URLs.")
-    typed = input("To delete the 39 original repositories, type HAPUS 39 REPOSITORY: ")
+    typed = input("To delete the 38 original repositories, type HAPUS 38 REPOSITORY: ")
     if typed != "HAPUS 39 REPOSITORY":
         print("Cancelled. Original repositories remain untouched.")
         return
