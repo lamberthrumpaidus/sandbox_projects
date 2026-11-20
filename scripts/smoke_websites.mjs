@@ -82,6 +82,10 @@ for (const project of projects) {
       assert(Number(await page.locator("#arcade-visible-count").innerText()) === 1, "Arcade filtering failed");
       await page.locator(".arcade-game-tile:not([hidden]) .btn-menu").first().click();
       assert(await page.locator("#tictactoe").evaluate(el => getComputedStyle(el).display !== "none"), "Arcade game switch failed");
+      await page.evaluate(() => GameApp.switch("cocokkartu"));
+      assert(await page.locator("#memory-board .memory-card").count() === 16, "Memory game missing cards");
+      await page.locator("#memory-board .memory-card").first().click();
+      assert(await page.locator("#memory-board .memory-card.flipped").count() === 1, "Memory game flip failed");
     } else if (project === "Rubaka") {
       await page.locator("#rb-help-toggle").click();
       assert(await page.locator("#rb-help").isVisible(), "Rubaka help failed to open");
@@ -99,6 +103,7 @@ for (const project of projects) {
     await page.waitForTimeout(160);
     const overflow=await page.evaluate(()=>document.documentElement.scrollWidth-document.documentElement.clientWidth);
     assert(overflow < 85, project + ": substantial horizontal overflow on mobile: " + overflow + "px");
+    if (errors.length && project !== "3D-Portfolio") throw new Error("Unhandled JavaScript error: " + errors.slice(0,3).join(" | "));
     if (errors.length) console.log(project + " browser warnings/errors: " + errors.slice(0,3).join(" | "));
     console.log("PASS " + project + " — app/credit logos, interaction and mobile layout");
   } catch(error) {
