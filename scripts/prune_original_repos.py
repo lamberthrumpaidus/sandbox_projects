@@ -18,6 +18,7 @@ def candidates() -> list[str]:
     manifest = json.loads(MANIFEST.read_text(encoding="utf-8"))
     protected = set(manifest["protected_repositories_with_index_html"])
     protected.add(manifest["destination"])
+    protected.add(OWNER)
     protected.add("lamberthrumpaidus")
     names = list(dict.fromkeys(r["name"] for group in manifest["groups"] for r in group["repositories"]))
     result = [name for name in names if name not in protected]
@@ -33,7 +34,7 @@ def main() -> None:
     if not MANIFEST.is_file():
         raise SystemExit("Source manifest is missing")
     names = candidates()
-    print("Website repositories and sandbox_projects are permanently excluded.")
+    print("Seven website repositories, sandbox_projects, and the GitHub profile repository are protected.")
     print("Deletion candidates:", len(names))
     for name in names:
         print(" ", OWNER + "/" + name)
@@ -64,7 +65,7 @@ def main() -> None:
     print("Complete Git history backup:", backup)
     print("Deletion also removes GitHub-hosted issues, PRs, repository settings and old URLs.")
     typed = input("To delete the 38 original repositories, type HAPUS 38 REPOSITORY: ")
-    if typed != "HAPUS 39 REPOSITORY":
+    if typed != "HAPUS 38 REPOSITORY":
         print("Cancelled. Original repositories remain untouched.")
         return
     for name in names:
