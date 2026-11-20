@@ -1,0 +1,231 @@
+{
+  "description": "Organized, read-only copies of non-website repositories. Source repositories remain unchanged.",
+  "owner": "lamberthrumpaidus",
+  "destination": "sandbox_projects",
+  "protected_repositories_with_index_html": [
+    "Rubaka",
+    "Portfolio",
+    "3D-Portfolio",
+    "Arcade_Collection_Game",
+    "Omni_Science",
+    "pixelpay",
+    "LANDLORD"
+  ],
+  "groups": [
+    {
+      "folder": "01-programming-languages",
+      "repositories": [
+        {
+          "name": "Python",
+          "branch": "main"
+        },
+        {
+          "name": "CPP",
+          "branch": "main"
+        },
+        {
+          "name": "JavaScript",
+          "branch": "main"
+        },
+        {
+          "name": "FINAL_PROJECT_ALGORITMA",
+          "branch": "main"
+        },
+        {
+          "name": "Calculator",
+          "branch": "master"
+        },
+        {
+          "name": "Pemrograman_Praktikum",
+          "branch": "main"
+        },
+        {
+          "name": "Matematika",
+          "branch": "main"
+        },
+        {
+          "name": "sandbox_projects",
+          "branch": "main"
+        }
+      ]
+    },
+    {
+      "folder": "02-desktop-games",
+      "repositories": [
+        {
+          "name": "FlappyGhost",
+          "branch": "main"
+        },
+        {
+          "name": "Mini-PlayStation",
+          "branch": "main"
+        },
+        {
+          "name": "PlayStation-Sederhana",
+          "branch": "main"
+        }
+      ]
+    },
+    {
+      "folder": "03-ai-data-and-automation",
+      "repositories": [
+        {
+          "name": "WA-Bot-Char-AI",
+          "branch": "main"
+        },
+        {
+          "name": "ai-char-Lam",
+          "branch": "main"
+        },
+        {
+          "name": "Membuat-Karakter_AI",
+          "branch": "main"
+        },
+        {
+          "name": "ChatGPT",
+          "branch": "main"
+        },
+        {
+          "name": "Prediksi_Keterlambatan_e-commerce",
+          "branch": "main"
+        },
+        {
+          "name": "Python_Translate_File",
+          "branch": "main"
+        },
+        {
+          "name": "DownloadYoutube",
+          "branch": "main"
+        }
+      ]
+    },
+    {
+      "folder": "04-windows-guides",
+      "repositories": [
+        {
+          "name": "Shortcut-KeyWindows11",
+          "branch": "main"
+        },
+        {
+          "name": "Tips-and-Trik-agar-Windows11-lancar",
+          "branch": "main"
+        },
+        {
+          "name": "Melihat-isi-Wa-yang-dihapus",
+          "branch": "main"
+        },
+        {
+          "name": "Instal-ulang-windows",
+          "branch": "main"
+        },
+        {
+          "name": "Cek-Keaslian-Windows",
+          "branch": "main"
+        },
+        {
+          "name": "Winutil",
+          "branch": "main"
+        },
+        {
+          "name": "Lock_Folders_-WINDOWS-",
+          "branch": "main"
+        }
+      ]
+    },
+    {
+      "folder": "05-operating-systems-and-privacy",
+      "repositories": [
+        {
+          "name": "Install-Linux",
+          "branch": "main"
+        },
+        {
+          "name": "Instal-ulang-macOS",
+          "branch": "main"
+        },
+        {
+          "name": "Linux-VS-Windows-VS-macOS",
+          "branch": "main"
+        },
+        {
+          "name": "Cara-Gunakan-TorBrowser",
+          "branch": "main"
+        }
+      ]
+    },
+    {
+      "folder": "06-spotify-customization",
+      "repositories": [
+        {
+          "name": "Custome-Spotify",
+          "branch": "main"
+        },
+        {
+          "name": "Shadowed-Orchid",
+          "branch": "main"
+        },
+        {
+          "name": "Spotify_NoAD_CustomTheme",
+          "branch": "main"
+        },
+        {
+          "name": "Spotify_AdBlock",
+          "branch": "main"
+        }
+      ]
+    },
+    {
+      "folder": "07-social-media-tools",
+      "repositories": [
+        {
+          "name": "Tiktok_Remove_Repost",
+          "branch": "main"
+        },
+        {
+          "name": "Remove_Tiktok_Liked_Videos",
+          "branch": "main"
+        }
+      ]
+    },
+    {
+      "folder": "08-security-research",
+      "repositories": [
+        {
+          "name": "uDork",
+          "branch": "main"
+        }
+      ]
+    },
+    {
+      "folder": "09-developer-resources",
+      "repositories": [
+        {
+          "name": "Lisensi-pada-Github",
+          "branch": "main"
+        },
+        {
+          "name": "lamberthrumpaidus",
+          "branch": "main"
+        }
+      ]
+    },
+    {
+      "folder": "10-music-tools",
+      "repositories": [
+        {
+          "name": "Make-Music-SUNO.AI",
+          "branch": "main"
+        }
+      ]
+    },
+    {
+      "folder": "11-hardware-iot",
+      "repositories": [
+        {
+          "name": "Alat-Pengukur-Detak-Jantung-Berbasis-Inframerah",
+          "branch": "main"
+        }
+      ]
+    }
+  ]
+}
