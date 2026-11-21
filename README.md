@@ -37,6 +37,3 @@ git clone https://github.com/lamberthrumpaidus/sandbox_projects.git
 
 **Catatan:** Ini adalah arsip kode proyek, bukan salinan lengkap semua fitur GitHub. Informasi sumber awal tetap tercatat di [manifest](collections/manifest.json) dan [laporan arsip](collections/sync-report.json). Cadangan riwayat Git lengkap disimpan terpisah oleh pemiliknya.
 
----
-
-<p align="center"><sub>Curated by <a href="https://github.com/lamberthrumpaidus/lamberthrumpaidus">Lamberth Rumpaidus</a></sub></p>
