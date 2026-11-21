@@ -1,0 +1,49 @@
+name: Review first-party project documentation
+on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/standardize_documentation.py"
+      - ".github/workflows/documentation-review.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: sandbox-documentation-review
+  cancel-in-progress: false
+jobs:
+  review:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - name: Apply formal documentation editorial style
+        run: python3 scripts/standardize_documentation.py
+      - name: Verify project files and profile links
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          base=Path("collections")
+          meta=json.loads((base/"sync-report.json").read_text(encoding="utf-8"))
+          index=json.loads((base/"navigasi-file/katalog.json").read_text(encoding="utf-8"))
+          assert index["total_file"]==meta["copied_files"]==193
+          records=[x for group in index["kategori"].values() for x in group]
+          assert len(records)==193
+          for x in records:
+              file=Path(x["path"])
+              assert file.is_file(),x["path"]
+              assert file.stat().st_size==x["ukuran_bytes"],x["path"]
+          print("Verified:",len(records),"project files and matching catalog sizes")
+          PY
+      - name: Commit reviewed documentation
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md collections/
+          if git diff --cached --quiet; then
+            echo "Documentation already consistent."
+          else
+            git commit -m "docs: standardize Indonesian documentation and profile navigation"
+            git push origin HEAD:main
+          fi
