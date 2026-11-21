@@ -1,0 +1,37 @@
+name: Verify complete L/R branding across all websites
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/verify-lr-branding.yml"
+      - "scripts/verify_lr_logo.mjs"
+      - "scripts/check_live_branding.mjs"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  audit:
+    name: Check eight sites and profile logo in Chromium
+    runs-on: ubuntu-24.04
+    timeout-minutes: 23
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Install browser test tooling
+        run: |
+          npm install --no-save --no-package-lock playwright@1.56.1
+          npx playwright install --with-deps chromium
+      - name: Fetch the eight repositories for rendering
+        run: |
+          mkdir -p sites
+          for name in lamberthrumpaidus Portfolio 3D-Portfolio LANDLORD Rubaka Arcade_Collection_Game Omni_Science pixelpay; do
+            git clone --quiet --depth 1 --single-branch --branch main "https://github.com/lamberthrumpaidus/$name.git" "sites/$name"
+          done
+      - name: Verify logos contain both upper and lower halves
+        run: node scripts/verify_lr_logo.mjs
+      - name: Check live Netlify deployment status for known domains
+        if: always()
+        continue-on-error: true
+        run: node scripts/check_live_branding.mjs
