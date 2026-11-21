@@ -174,7 +174,7 @@ def root():
     (ROOT/"README.md").write_text("\n".join(lines),encoding="utf-8")
 
 def validate():
-    files=[ROOT/"README.md",BASE/"README.md",nav for nav in (BASE/"navigasi-file").glob("**/README.md")]
+    files=[ROOT/"README.md",BASE/"README.md"] + list((BASE/"navigasi-file").glob("**/README.md"))
     files+=list(BASE.glob("[0-9][0-9]-*/README.md"))+list(BASE.glob("[0-9][0-9]-*/*/README.md"))
     files=list(set(files))
     if len(files)!=65:raise RuntimeError("Jumlah README pertama: "+str(len(files)))
