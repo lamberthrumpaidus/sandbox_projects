@@ -44,12 +44,18 @@ for(const spec of projects){
     const logo=page.locator(spec.selector).first();
     await logo.waitFor({state:"attached",timeout:15000});
     const img=await logo.evaluate(async el=>{
-      await el.decode();
-      const width=el.naturalWidth,height=el.naturalHeight;
+      el.loading="eager";
+      const image=new Image();
+      image.src=el.currentSrc||el.src;
+      await Promise.race([
+        image.decode(),
+        new Promise((_,reject)=>setTimeout(()=>reject(new Error("Logo image failed to decode within 12 seconds")),12000))
+      ]);
+      const width=image.naturalWidth,height=image.naturalHeight;
       const canvas=document.createElement("canvas");
       canvas.width=width;canvas.height=height;
       const ctx=canvas.getContext("2d",{willReadFrequently:true});
-      ctx.drawImage(el,0,0);
+      ctx.drawImage(image,0,0);
       const pixels=ctx.getImageData(0,0,width,height).data;
       let above=0,below=0,lowerRows=0;
       for(let y=0;y<height;y++)for(let x=0;x<width;x++){
