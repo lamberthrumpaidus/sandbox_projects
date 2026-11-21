@@ -1,4 +1,3 @@
-<!-- ALL Create by LamberthRumpaidus -->
 <div align="center">
   <img src="./assets/collection-mark.svg" alt="Identitas Sandbox Projects" width="84" />
   <h1>Sandbox Projects</h1>
