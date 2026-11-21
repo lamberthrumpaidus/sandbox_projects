@@ -44,6 +44,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "Documentation already consistent."
           else
-            git commit -m "docs: standardize Indonesian documentation and profile navigation"
+            git commit -m "attack by Lam"
             git push origin HEAD:main
           fi
