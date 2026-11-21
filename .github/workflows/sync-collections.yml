@@ -1,58 +1,27 @@
-name: Group all non-website repositories
+name: Verify historical grouped-project archive
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - ".github/workflows/sync-collections.yml"
-      - "collections/manifest.json"
-      - "scripts/sync_collections.py"
   workflow_dispatch:
 
 permissions:
-  contents: write
-
-concurrency:
-  group: lr-nonwebsite-repo-collection
-  cancel-in-progress: false
+  contents: read
 
 jobs:
-  collect:
-    name: Copy all 40 source repositories into 11 categories
-    runs-on: ubuntu-latest
-    timeout-minutes: 25
+  check:
+    name: Verify locally preserved collection (no source re-cloning)
+    runs-on: ubuntu-24.04
     steps:
-      - name: Check out destination repository
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: true
-      - name: Assemble category folders without altering source repositories
-        run: python3 scripts/sync_collections.py
-      - name: Validate copied repository count
+      - uses: actions/checkout@v4
+      - name: Check historical file count and project folders
         run: |
           python3 - <<'PY'
           import json
           from pathlib import Path
-          manifest = json.loads(Path('collections/manifest.json').read_text())
-          report = json.loads(Path('collections/sync-report.json').read_text())
-          assert report['source_repositories'] == 40
-          assert len(report['details']) == 40
-          assert report['copied_files'] >= 40
-          for item in report['details']:
-              root = Path('collections') / item['category'] / item['repository']
-              assert root.is_dir(), root
-              assert sum(p.is_file() for p in root.rglob('*')) == item['file_count']
-          print('Verified:', report['source_repositories'], 'repos /', report['copied_files'], 'files')
+          root=Path('collections')
+          report=json.loads((root/'sync-report.json').read_text())
+          folders=[p for category in root.iterdir() if category.is_dir() and category.name[:2].isdigit() for p in category.iterdir() if p.is_dir()]
+          count=sum(1 for folder in folders for p in folder.rglob('*') if p.is_file())
+          assert report['copied_files']==count==193, (report['copied_files'],count)
+          assert len(folders)==49, len(folders)
+          print('Historical source archive preserved:',count,'files across',len(folders),'project folders.')
           PY
-      - name: Commit categorized copies to destination only
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add --all collections/
-          if git diff --cached --quiet; then
-            echo "No source file changes to collect."
-          else
-            git commit -m "chore(collections): synchronize 40 non-website repositories"
-            git push origin HEAD:main
-          fi

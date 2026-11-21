@@ -5,6 +5,8 @@ on:
     paths:
       - "scripts/build_navigation.py"
       - ".github/workflows/build-navigation.yml"
+      - "collections/0*/**"
+      - "!collections/0*/README.md"
   workflow_dispatch:
 permissions:
   contents: write

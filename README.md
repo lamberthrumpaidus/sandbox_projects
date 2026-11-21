@@ -1,61 +1,65 @@
-# Sandbox Projects
+# Sandbox Projects — Koleksi Proyek Terstruktur
 
+Koleksi source code, latihan, eksperimen, dan aset yang disusun **berdasarkan jenis proyek**. Setiap proyek punya folder sendiri; seluruh file pendukung tetap berada di dalam folder proyek tersebut.
 
-## Koleksi repository yang sudah dikelompokkan
+**11 kategori · 49 folder proyek · 193 file asli · arsip dari 40 repository sumber.**
 
-[Koleksi 40 proyek dan katalog 193 file](collections/navigasi-file/README.md)
+## Buka kategori
 
-![Sandbox Projects](https://img.shields.io/badge/Status-Active-green)
+| Jenis proyek | Jumlah proyek | Jumlah file |
+|---|---:|---:|
+| [Bahasa pemrograman & aplikasi dasar](collections/01-programming-languages/README.md) | 10 | 69 |
+| [Game desktop](collections/02-desktop-games/README.md) | 3 | 45 |
+| [AI, data & otomatisasi](collections/03-ai-data-and-automation/README.md) | 11 | 18 |
+| [Panduan dan utilitas Windows](collections/04-windows-guides/README.md) | 7 | 7 |
+| [Sistem operasi & privasi](collections/05-operating-systems-and-privacy/README.md) | 4 | 4 |
+| [Kustomisasi Spotify](collections/06-spotify-customization/README.md) | 4 | 23 |
+| [Alat media sosial](collections/07-social-media-tools/README.md) | 2 | 2 |
+| [Riset keamanan & OSINT](collections/08-security-research/README.md) | 3 | 20 |
+| [Sumber daya developer & arsip profil](collections/09-developer-resources/README.md) | 2 | 2 |
+| [Alat musik](collections/10-music-tools/README.md) | 1 | 1 |
+| [Hardware & IoT](collections/11-hardware-iot/README.md) | 2 | 2 |
 
-Selamat datang di **Sandbox Projects**! 🚀
-Repositori ini adalah tempat eksperimen berbagai proyek kecil, skrip, dan eksplorasi teknologi baru. Semua kode di sini bersifat eksperimental, bisa berupa proof-of-concept, latihan, atau uji coba teknologi terbaru.
+## Cara mengakses proyek
 
-## 📌 Daftar Proyek
-Berikut beberapa kategori proyek yang ada di dalam repositori ini:
+1. Pilih salah satu kategori pada tabel di atas.
+2. Pilih **folder proyek** (misalnya `Flask-Web-App`, `Python`, `FlappyGhost`, atau `Raspberry-Pi-GPIO`).
+3. Buka kode dan aset di dalam folder proyek. Path relatif antarkode proyek asal dipertahankan.
 
-### 🔹 **Python Experiments**
-- Automasi tugas dengan Python
-- Skrip sederhana untuk memproses data
-- Algoritma dan struktur data
+**[Lihat semua folder proyek](collections/README.md)** · **[Katalog 193 file berdasarkan jenis](collections/navigasi-file/README.md)**
 
-### 🔹 **Web Development**
-- Eksperimen dengan framework seperti Next.js, Flask, atau Django
-- Proyek mini frontend & backend
+Contoh struktur:
 
-### 🔹 **Machine Learning & AI**
-- Model sederhana untuk klasifikasi dan prediksi
-- Uji coba algoritma deep learning
+```text
+sandbox_projects/
+├── collections/
+│   ├── 01-programming-languages/
+│   │   ├── CPP/
+│   │   ├── Python/
+│   │   └── Flask-Web-App/
+│   ├── 03-ai-data-and-automation/
+│   │   ├── Email-Automation/
+│   │   └── Pandas-Data-Processing/
+│   ├── 08-security-research/
+│   │   ├── uDork/
+│   │   └── Python-Port-Scanner/
+│   └── ... 8 kategori lainnya
+├── scripts/                # Alat pengelolaan repository
+├── .github/workflows/      # Pemeriksaan otomatis
+└── README.md
+```
 
-### 🔹 **Cybersecurity & Pentesting**
-- Skrip OSINT dan eksplorasi keamanan
-- Simulasi serangan dan pertahanan
+## Integritas dan cadangan
 
-### 🔹 **Embedded & System Programming**
-- Proyek terkait hardware & low-level programming
-- Eksperimen dengan C/C++ untuk sistem tertanam
+- Semua file proyek ditempatkan secara fisik dalam folder kategori/proyek. **Tidak ada lagi skrip yang tercecer di halaman utama.**
+- Sembilan skrip proyek kecil dipisahkan menurut fungsinya; salinan kembar pada root dan folder `sandbox_projects` yang lama dirapikan tanpa mengganti isi file.
+- `collections/manifest.json` dan `collections/sync-report.json` merupakan **catatan impor historis** dari 40 repository. Setelah repository asal dihapus, proses impor ulang tidak lagi otomatis.
+- Cadangan mirror Git lengkap yang dibuat pengguna sebelumnya tetap terpisah di komputer lokal. Perubahan struktur ini bisa ditelusuri melalui riwayat commit.
+- Repository website lain, termasuk Portfolio dan LANDLORD, tidak disentuh.
 
-## ⚡ Cara Menggunakan
-1. Clone repositori ini:
-   ```sh
-   git clone https://github.com/lamberthrumpaidus/sandbox-projects.git
-   ```
-2. Masuk ke folder proyek yang ingin dieksplorasi:
-   ```sh
-   cd sandbox-projects/some-project
-   ```
-3. Jalankan kode sesuai petunjuk di README masing-masing folder proyek.
+## Penggunaan lokal
 
-## 🎯 Kontribusi
-Jika kamu ingin berkontribusi atau menambahkan eksperimen baru, silakan:
-1. Fork repositori ini
-2. Tambahkan proyek atau perbaikan
-3. Buat pull request dengan deskripsi yang jelas
-
-## 📜 Lisensi
-Kode dalam repositori ini dirilis di bawah lisensi **MIT**. Silakan gunakan dan modifikasi sesuai kebutuhan.
-
-## 🚀 Kontak
-Jika ada pertanyaan atau ingin berdiskusi, hubungi saya melalui:
-- **GitHub**: [lamberthrumpaidus](https://github.com/lamberthrumpaidus)
-
-
+```bash
+git clone https://github.com/lamberthrumpaidus/sandbox_projects.git
+cd sandbox_projects
+```

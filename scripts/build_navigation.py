@@ -142,7 +142,7 @@ def main() -> None:
 
     readme = ROOT / "README.md"
     root_text = readme.read_text(encoding="utf-8")
-    root_marker = "[Koleksi 40 proyek dan katalog 193 file](collections/navigasi-file/README.md)"
+    root_marker = "[Katalog 193 file berdasarkan jenis](collections/navigasi-file/README.md)"
     if root_marker not in root_text:
         rows = root_text.splitlines(keepends=True)
         rows.insert(2, "\n## Koleksi repository yang sudah dikelompokkan\n\n" + root_marker + "\n\n")

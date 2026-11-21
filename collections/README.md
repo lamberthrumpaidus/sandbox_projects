@@ -1,61 +1,64 @@
-# L/R — Koleksi Repository berdasarkan Kategori
+# Koleksi proyek berdasarkan jenis
 
+**11 kategori / 49 folder proyek / 193 file.** Semua kode, gambar, audio, dan berkas pendukung telah ditempatkan pada folder proyek yang sesuai. Daftar di bawah berisi **folder fisik**, bukan pintasan buatan.
 
-## Navigasi cepat
+[Buka katalog berdasarkan jenis file](navigasi-file/README.md) · [Kembali ke halaman utama](../README.md)
 
-[Buka katalog berdasarkan jenis file](navigasi-file/README.md)
+## Daftar kategori
 
-Koleksi ini menyatukan **salinan file** dari 40 repository publik yang **tidak memiliki file `index.html`**. Seluruh file sumber disimpan di subfolder `collections/<kategori>/<nama-repository>/`, termasuk gambar, audio, arsip ZIP, notebook, dan berkas biner lain jika ada.
+| Kategori | Folder proyek | File |
+|---|---:|---:|
+| [Bahasa pemrograman & aplikasi dasar](01-programming-languages/README.md) | 10 | 69 |
+| [Game desktop](02-desktop-games/README.md) | 3 | 45 |
+| [AI, data & otomatisasi](03-ai-data-and-automation/README.md) | 11 | 18 |
+| [Panduan dan utilitas Windows](04-windows-guides/README.md) | 7 | 7 |
+| [Sistem operasi & privasi](05-operating-systems-and-privacy/README.md) | 4 | 4 |
+| [Kustomisasi Spotify](06-spotify-customization/README.md) | 4 | 23 |
+| [Alat media sosial](07-social-media-tools/README.md) | 2 | 2 |
+| [Riset keamanan & OSINT](08-security-research/README.md) | 3 | 20 |
+| [Sumber daya developer & arsip profil](09-developer-resources/README.md) | 2 | 2 |
+| [Alat musik](10-music-tools/README.md) | 1 | 1 |
+| [Hardware & IoT](11-hardware-iot/README.md) | 2 | 2 |
 
-## Aturan keselamatan
+## Daftar proyek per kategori
 
-- Tujuh repository website **dikecualikan sepenuhnya**: `Rubaka`, `Portfolio`, `3D-Portfolio`, `Arcade_Collection_Game`, `Omni_Science`, `pixelpay`, dan `LANDLORD`.
-- Tidak ada repository sumber yang diubah, diganti nama, diarsipkan, atau dihapus.
-- Setiap repository memiliki folder sendiri agar nama file sama tidak saling menimpa.
-- Koleksi ini menyalin *file pada branch utama yang terdaftar*, bukan menggabungkan seluruh histori commit atau semua branch.
-- File asli yang sudah berada di root `sandbox_projects` tetap dipertahankan; salinannya ditempatkan di `collections/01-programming-languages/sandbox_projects/`.
-- `collections/sync-report.json` berisi jumlah file dan SHA commit sumber untuk audit hasil (dibuat setelah sinkronisasi berhasil).
+### [Bahasa pemrograman & aplikasi dasar](01-programming-languages/README.md)
+[CPP](01-programming-languages/CPP/) · [Calculator](01-programming-languages/Calculator/) · [FINAL_PROJECT_ALGORITMA](01-programming-languages/FINAL_PROJECT_ALGORITMA/) · [Flask-Web-App](01-programming-languages/Flask-Web-App/) · [JavaScript](01-programming-languages/JavaScript/) · [Matematika](01-programming-languages/Matematika/) · [Pemrograman_Praktikum](01-programming-languages/Pemrograman_Praktikum/) · [Python](01-programming-languages/Python/) · [Simple-Nextjs](01-programming-languages/Simple-Nextjs/) · [sandbox_projects](01-programming-languages/sandbox_projects/)
 
-## 11 kategori
+### [Game desktop](02-desktop-games/README.md)
+[FlappyGhost](02-desktop-games/FlappyGhost/) · [Mini-PlayStation](02-desktop-games/Mini-PlayStation/) · [PlayStation-Sederhana](02-desktop-games/PlayStation-Sederhana/)
 
-| Folder | Isi | Repository |
-|---|---|---:|
-| `01-programming-languages` | Bahasa pemrograman, praktikum, algoritma, kalkulator | 8 |
-| `02-desktop-games` | Game desktop dan proyek PlayStation sederhana | 3 |
-| `03-ai-data-and-automation` | AI, data, bot, skrip unduhan dan penerjemah | 7 |
-| `04-windows-guides` | Windows, konfigurasi, tutorial dan utilitas | 7 |
-| `05-operating-systems-and-privacy` | Linux, macOS, perbandingan OS, Tor | 4 |
-| `06-spotify-customization` | Tema, ekstensi, personalisasi Spotify | 4 |
-| `07-social-media-tools` | Panduan dan alat TikTok | 2 |
-| `08-security-research` | Penelitian dan alat pencarian keamanan | 1 |
-| `09-developer-resources` | Lisensi dan README profil GitHub | 2 |
-| `10-music-tools` | Tutorial dan alat musik | 1 |
-| `11-hardware-iot` | Proyek perangkat keras/IoT | 1 |
+### [AI, data & otomatisasi](03-ai-data-and-automation/README.md)
+[ChatGPT](03-ai-data-and-automation/ChatGPT/) · [DownloadYoutube](03-ai-data-and-automation/DownloadYoutube/) · [Email-Automation](03-ai-data-and-automation/Email-Automation/) · [House-Price-Regression](03-ai-data-and-automation/House-Price-Regression/) · [Membuat-Karakter_AI](03-ai-data-and-automation/Membuat-Karakter_AI/) · [Pandas-Data-Processing](03-ai-data-and-automation/Pandas-Data-Processing/) · [Prediksi_Keterlambatan_e-commerce](03-ai-data-and-automation/Prediksi_Keterlambatan_e-commerce/) · [Python_Translate_File](03-ai-data-and-automation/Python_Translate_File/) · [Scikit-Learn-Classification](03-ai-data-and-automation/Scikit-Learn-Classification/) · [WA-Bot-Char-AI](03-ai-data-and-automation/WA-Bot-Char-AI/) · [ai-char-Lam](03-ai-data-and-automation/ai-char-Lam/)
 
-## Cara kerja
+### [Panduan dan utilitas Windows](04-windows-guides/README.md)
+[Cek-Keaslian-Windows](04-windows-guides/Cek-Keaslian-Windows/) · [Instal-ulang-windows](04-windows-guides/Instal-ulang-windows/) · [Lock_Folders_-WINDOWS-](04-windows-guides/Lock_Folders_-WINDOWS-/) · [Melihat-isi-Wa-yang-dihapus](04-windows-guides/Melihat-isi-Wa-yang-dihapus/) · [Shortcut-KeyWindows11](04-windows-guides/Shortcut-KeyWindows11/) · [Tips-and-Trik-agar-Windows11-lancar](04-windows-guides/Tips-and-Trik-agar-Windows11-lancar/) · [Winutil](04-windows-guides/Winutil/)
 
-1. Daftar sumber: `collections/manifest.json`.
-2. Penyalin: `scripts/sync_collections.py`.
-3. GitHub Actions mengunduh repository sumber publik pada branch yang tercantum, kemudian menyalin file berdasarkan kategori.
-4. Hasilnya di-commit ke repository ini oleh `github-actions[bot]`.
+### [Sistem operasi & privasi](05-operating-systems-and-privacy/README.md)
+[Cara-Gunakan-TorBrowser](05-operating-systems-and-privacy/Cara-Gunakan-TorBrowser/) · [Instal-ulang-macOS](05-operating-systems-and-privacy/Instal-ulang-macOS/) · [Install-Linux](05-operating-systems-and-privacy/Install-Linux/) · [Linux-VS-Windows-VS-macOS](05-operating-systems-and-privacy/Linux-VS-Windows-VS-macOS/)
 
-**Perhatian:** jangan hapus repository asal sebelum jumlah file dan fitur yang diperlukan diverifikasi secara mandiri. Bila ada repo yang nantinya menambahkan `index.html`, penyalinan dihentikan dan repo tersebut harus dikeluarkan dari daftar.
+### [Kustomisasi Spotify](06-spotify-customization/README.md)
+[Custome-Spotify](06-spotify-customization/Custome-Spotify/) · [Shadowed-Orchid](06-spotify-customization/Shadowed-Orchid/) · [Spotify_AdBlock](06-spotify-customization/Spotify_AdBlock/) · [Spotify_NoAD_CustomTheme](06-spotify-customization/Spotify_NoAD_CustomTheme/)
 
+### [Alat media sosial](07-social-media-tools/README.md)
+[Remove_Tiktok_Liked_Videos](07-social-media-tools/Remove_Tiktok_Liked_Videos/) · [Tiktok_Remove_Repost](07-social-media-tools/Tiktok_Remove_Repost/)
 
-## Menghapus repository sumber (opsional, tidak dijalankan otomatis)
+### [Riset keamanan & OSINT](08-security-research/README.md)
+[OSINT-Web-Scraper](08-security-research/OSINT-Web-Scraper/) · [Python-Port-Scanner](08-security-research/Python-Port-Scanner/) · [uDork](08-security-research/uDork/)
 
-Dari 40 sumber yang disalin, **38 repository biasa** memenuhi syarat untuk menjadi kandidat penghapusan. Repository pusat `sandbox_projects` dan repository profil khusus `lamberthrumpaidus` tetap dilindungi, selain ketujuh repository website. Repository profil khusus tidak boleh dihapus hanya karena `README.md`-nya sudah disalin: penghapusan akan menghilangkan tampilan profil GitHub tersebut.
+### [Sumber daya developer & arsip profil](09-developer-resources/README.md)
+[Lisensi-pada-Github](09-developer-resources/Lisensi-pada-Github/) · [lamberthrumpaidus](09-developer-resources/lamberthrumpaidus/)
 
-Program [`scripts/prune_original_repos.py`](../scripts/prune_original_repos.py) adalah **dry-run secara default**. Dengan opsi `--execute`, program akan:
-1. Membuat cadangan **full Git mirror** dari setiap repository sumber (semua commit, branch, dan tag).
-2. Memeriksa tiap cadangan dengan `git fsck --full`.
-3. Meminta konfirmasi ketik `HAPUS 38 REPOSITORY` sebelum menghapus sumber melalui GitHub CLI.
+### [Alat musik](10-music-tools/README.md)
+[Make-Music-SUNO.AI](10-music-tools/Make-Music-SUNO.AI/)
 
-Contoh pada terminal lokal:
+### [Hardware & IoT](11-hardware-iot/README.md)
+[Alat-Pengukur-Detak-Jantung-Berbasis-Inframerah](11-hardware-iot/Alat-Pengukur-Detak-Jantung-Berbasis-Inframerah/) · [Raspberry-Pi-GPIO](11-hardware-iot/Raspberry-Pi-GPIO/)
 
-```bash
-python scripts/prune_original_repos.py
-python scripts/prune_original_repos.py --execute --backup-dir ./cadangan-github
-```
+---
 
-Dibutuhkan `git`, Python 3, GitHub CLI (`gh`), dan otorisasi `delete_repo`. Cadangan mirror **tidak menyertakan issues, PR, pengaturan repository, atau tautan lama**. Simpan atau ekspor data tersebut secara terpisah jika diperlukan. Penghapusan repository tidak dapat dibatalkan secara aman hanya dengan adanya salinan berkas di koleksi.
+**Catatan:** file proyek telah benar-benar dipindahkan sesuai kategorinya. `manifest.json` dan `sync-report.json` adalah laporan sumber pertama kali digabungkan, bukan jalur baru untuk mengunduh ulang repository yang sudah dihapus.
+
+Alat administrasi tetap disimpan di `scripts/`, dan konfigurasi otomatisasi tetap di `.github/`.
+
+[Skrip cadangan riwayat Git sebelum penghapusan](../scripts/prune_original_repos.py)
