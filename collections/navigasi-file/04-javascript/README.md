@@ -13,6 +13,12 @@
 | [Pesan Rahasia.js](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/JavaScript/Pesan%20Rahasia.js) | 0 B | collections/01-programming-languages/JavaScript/Pesan Rahasia.js |
 | [Tebak Angka.js](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/JavaScript/Tebak%20Angka.js) | 1.2 KB | collections/01-programming-languages/JavaScript/Tebak Angka.js |
 
+## Simple-Nextjs (1 file)
+
+| File | Ukuran | Asal |
+|---|---:|---|
+| [Simple Next.js](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Simple-Nextjs/Simple%20Next.js) | 216 B | collections/01-programming-languages/Simple-Nextjs/Simple Next.js |
+
 ## Spotify_AdBlock (1 file)
 
 | File | Ukuran | Asal |
@@ -32,10 +38,4 @@
 |---|---:|---|
 | [gptrp.js](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/WA-Bot-Char-AI/gptrp.js) | 745 B | collections/03-ai-data-and-automation/WA-Bot-Char-AI/gptrp.js |
 | [index.js](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/WA-Bot-Char-AI/index.js) | 6.1 KB | collections/03-ai-data-and-automation/WA-Bot-Char-AI/index.js |
-
-## sandbox_projects (1 file)
-
-| File | Ukuran | Asal |
-|---|---:|---|
-| [Simple Next.js](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Simple%20Next.js) | 216 B | collections/01-programming-languages/sandbox_projects/Simple Next.js |
 

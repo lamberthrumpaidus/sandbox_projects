@@ -49,9 +49,9 @@
 |---|---:|---|
 | [Mini-PlayStation.cpp](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/Mini-PlayStation/Mini-PlayStation.cpp) | 13.0 KB | collections/02-desktop-games/Mini-PlayStation/Mini-PlayStation.cpp |
 
-## sandbox_projects (1 file)
+## Raspberry-Pi-GPIO (1 file)
 
 | File | Ukuran | Asal |
 |---|---:|---|
-| [Contoh Program C untuk Mengakses GPIO di Raspberry Pi (LED Blink).c](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Contoh%20Program%20C%20untuk%20Mengakses%20GPIO%20di%20Raspberry%20Pi%20%28LED%20Blink%29.c) | 372 B | collections/01-programming-languages/sandbox_projects/Contoh Program C untuk Mengakses GPIO di Raspberry Pi (LED Blink).c |
+| [Contoh Program C untuk Mengakses GPIO di Raspberry Pi (LED Blink).c](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/11-hardware-iot/Raspberry-Pi-GPIO/Contoh%20Program%20C%20untuk%20Mengakses%20GPIO%20di%20Raspberry%20Pi%20%28LED%20Blink%29.c) | 372 B | collections/11-hardware-iot/Raspberry-Pi-GPIO/Contoh Program C untuk Mengakses GPIO di Raspberry Pi (LED Blink).c |
 

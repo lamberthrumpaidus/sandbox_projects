@@ -10,11 +10,41 @@
 |---|---:|---|
 | [youtubedownload.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/DownloadYoutube/youtubedownload.py) | 1.8 KB | collections/03-ai-data-and-automation/DownloadYoutube/youtubedownload.py |
 
+## Email-Automation (1 file)
+
+| File | Ukuran | Asal |
+|---|---:|---|
+| [Automasi Tugas dengan Python (Mengirim Email Otomatis).py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Email-Automation/Automasi%20Tugas%20dengan%20Python%20%28Mengirim%20Email%20Otomatis%29.py) | 944 B | collections/03-ai-data-and-automation/Email-Automation/Automasi Tugas dengan Python (Mengirim Email Otomatis).py |
+
+## Flask-Web-App (1 file)
+
+| File | Ukuran | Asal |
+|---|---:|---|
+| [Flask Web Application (Sederhana).py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Flask-Web-App/Flask%20Web%20Application%20%28Sederhana%29.py) | 201 B | collections/01-programming-languages/Flask-Web-App/Flask Web Application (Sederhana).py |
+
+## House-Price-Regression (1 file)
+
+| File | Ukuran | Asal |
+|---|---:|---|
+| [Prediksi Harga dengan Regresi Linier (Sklearn).py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/House-Price-Regression/Prediksi%20Harga%20dengan%20Regresi%20Linier%20%28Sklearn%29.py) | 531 B | collections/03-ai-data-and-automation/House-Price-Regression/Prediksi Harga dengan Regresi Linier (Sklearn).py |
+
 ## Matematika (1 file)
 
 | File | Ukuran | Asal |
 |---|---:|---|
 | [Matematika.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Matematika/Matematika.py) | 4.5 KB | collections/01-programming-languages/Matematika/Matematika.py |
+
+## OSINT-Web-Scraper (1 file)
+
+| File | Ukuran | Asal |
+|---|---:|---|
+| [Scraping Informasi OSINT (Menggunakan BeautifulSoup untuk Mencari Informasi dari Halaman Web).py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/OSINT-Web-Scraper/Scraping%20Informasi%20OSINT%20%28Menggunakan%20BeautifulSoup%20untuk%20Mencari%20Informasi%20dari%20Halaman%20Web%29.py) | 328 B | collections/08-security-research/OSINT-Web-Scraper/Scraping Informasi OSINT (Menggunakan BeautifulSoup untuk Mencari Informasi dari Halaman Web).py |
+
+## Pandas-Data-Processing (1 file)
+
+| File | Ukuran | Asal |
+|---|---:|---|
+| [Skrip Sederhana untuk Memproses Data (Menggunakan Pandas).py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Pandas-Data-Processing/Skrip%20Sederhana%20untuk%20Memproses%20Data%20%28Menggunakan%20Pandas%29.py) | 344 B | collections/03-ai-data-and-automation/Pandas-Data-Processing/Skrip Sederhana untuk Memproses Data (Menggunakan Pandas).py |
 
 ## PlayStation-Sederhana (1 file)
 
@@ -44,21 +74,21 @@
 | [Teka Teki Sodoku.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Teka%20Teki%20Sodoku.py) | 2.2 KB | collections/01-programming-languages/Python/Teka Teki Sodoku.py |
 | [kalkulatorv2.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/kalkulatorv2.py) | 2.7 KB | collections/01-programming-languages/Python/kalkulatorv2.py |
 
+## Python-Port-Scanner (1 file)
+
+| File | Ukuran | Asal |
+|---|---:|---|
+| [Mendeteksi Port Terbuka dengan Python (Menggunakan socket).py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/Python-Port-Scanner/Mendeteksi%20Port%20Terbuka%20dengan%20Python%20%28Menggunakan%20socket%29.py) | 417 B | collections/08-security-research/Python-Port-Scanner/Mendeteksi Port Terbuka dengan Python (Menggunakan socket).py |
+
 ## Python_Translate_File (1 file)
 
 | File | Ukuran | Asal |
 |---|---:|---|
 | [translate.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Python_Translate_File/translate.py) | 3.4 KB | collections/03-ai-data-and-automation/Python_Translate_File/translate.py |
 
-## sandbox_projects (7 file)
+## Scikit-Learn-Classification (1 file)
 
 | File | Ukuran | Asal |
 |---|---:|---|
-| [Automasi Tugas dengan Python (Mengirim Email Otomatis).py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Automasi%20Tugas%20dengan%20Python%20%28Mengirim%20Email%20Otomatis%29.py) | 944 B | collections/01-programming-languages/sandbox_projects/Automasi Tugas dengan Python (Mengirim Email Otomatis).py |
-| [Flask Web Application (Sederhana).py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Flask%20Web%20Application%20%28Sederhana%29.py) | 201 B | collections/01-programming-languages/sandbox_projects/Flask Web Application (Sederhana).py |
-| [Mendeteksi Port Terbuka dengan Python (Menggunakan socket).py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Mendeteksi%20Port%20Terbuka%20dengan%20Python%20%28Menggunakan%20socket%29.py) | 417 B | collections/01-programming-languages/sandbox_projects/Mendeteksi Port Terbuka dengan Python (Menggunakan socket).py |
-| [Model Klasifikasi Sederhana dengan Scikit-learn.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Model%20Klasifikasi%20Sederhana%20dengan%20Scikit-learn.py) | 631 B | collections/01-programming-languages/sandbox_projects/Model Klasifikasi Sederhana dengan Scikit-learn.py |
-| [Prediksi Harga dengan Regresi Linier (Sklearn).py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Prediksi%20Harga%20dengan%20Regresi%20Linier%20%28Sklearn%29.py) | 531 B | collections/01-programming-languages/sandbox_projects/Prediksi Harga dengan Regresi Linier (Sklearn).py |
-| [Scraping Informasi OSINT (Menggunakan BeautifulSoup untuk Mencari Informasi dari Halaman Web).py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Scraping%20Informasi%20OSINT%20%28Menggunakan%20BeautifulSoup%20untuk%20Mencari%20Informasi%20dari%20Halaman%20Web%29.py) | 328 B | collections/01-programming-languages/sandbox_projects/Scraping Informasi OSINT (Menggunakan BeautifulSoup untuk Mencari Informasi dari Halaman Web).py |
-| [Skrip Sederhana untuk Memproses Data (Menggunakan Pandas).py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Skrip%20Sederhana%20untuk%20Memproses%20Data%20%28Menggunakan%20Pandas%29.py) | 344 B | collections/01-programming-languages/sandbox_projects/Skrip Sederhana untuk Memproses Data (Menggunakan Pandas).py |
+| [Model Klasifikasi Sederhana dengan Scikit-learn.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Scikit-Learn-Classification/Model%20Klasifikasi%20Sederhana%20dengan%20Scikit-learn.py) | 631 B | collections/03-ai-data-and-automation/Scikit-Learn-Classification/Model Klasifikasi Sederhana dengan Scikit-learn.py |
 

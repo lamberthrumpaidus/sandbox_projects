@@ -6,6 +6,14 @@
   "kategori": {
     "01-python": [
       {
+        "proyek": "Flask-Web-App",
+        "kelompok_asli": "01-programming-languages",
+        "file": "Flask Web Application (Sederhana).py",
+        "path": "collections/01-programming-languages/Flask-Web-App/Flask Web Application (Sederhana).py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Flask-Web-App/Flask%20Web%20Application%20%28Sederhana%29.py",
+        "ukuran_bytes": 201
+      },
+      {
         "proyek": "Matematika",
         "kelompok_asli": "01-programming-languages",
         "file": "Matematika.py",
@@ -150,62 +158,6 @@
         "ukuran_bytes": 2771
       },
       {
-        "proyek": "sandbox_projects",
-        "kelompok_asli": "01-programming-languages",
-        "file": "Automasi Tugas dengan Python (Mengirim Email Otomatis).py",
-        "path": "collections/01-programming-languages/sandbox_projects/Automasi Tugas dengan Python (Mengirim Email Otomatis).py",
-        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Automasi%20Tugas%20dengan%20Python%20%28Mengirim%20Email%20Otomatis%29.py",
-        "ukuran_bytes": 944
-      },
-      {
-        "proyek": "sandbox_projects",
-        "kelompok_asli": "01-programming-languages",
-        "file": "Flask Web Application (Sederhana).py",
-        "path": "collections/01-programming-languages/sandbox_projects/Flask Web Application (Sederhana).py",
-        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Flask%20Web%20Application%20%28Sederhana%29.py",
-        "ukuran_bytes": 201
-      },
-      {
-        "proyek": "sandbox_projects",
-        "kelompok_asli": "01-programming-languages",
-        "file": "Mendeteksi Port Terbuka dengan Python (Menggunakan socket).py",
-        "path": "collections/01-programming-languages/sandbox_projects/Mendeteksi Port Terbuka dengan Python (Menggunakan socket).py",
-        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Mendeteksi%20Port%20Terbuka%20dengan%20Python%20%28Menggunakan%20socket%29.py",
-        "ukuran_bytes": 417
-      },
-      {
-        "proyek": "sandbox_projects",
-        "kelompok_asli": "01-programming-languages",
-        "file": "Model Klasifikasi Sederhana dengan Scikit-learn.py",
-        "path": "collections/01-programming-languages/sandbox_projects/Model Klasifikasi Sederhana dengan Scikit-learn.py",
-        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Model%20Klasifikasi%20Sederhana%20dengan%20Scikit-learn.py",
-        "ukuran_bytes": 631
-      },
-      {
-        "proyek": "sandbox_projects",
-        "kelompok_asli": "01-programming-languages",
-        "file": "Prediksi Harga dengan Regresi Linier (Sklearn).py",
-        "path": "collections/01-programming-languages/sandbox_projects/Prediksi Harga dengan Regresi Linier (Sklearn).py",
-        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Prediksi%20Harga%20dengan%20Regresi%20Linier%20%28Sklearn%29.py",
-        "ukuran_bytes": 531
-      },
-      {
-        "proyek": "sandbox_projects",
-        "kelompok_asli": "01-programming-languages",
-        "file": "Scraping Informasi OSINT (Menggunakan BeautifulSoup untuk Mencari Informasi dari Halaman Web).py",
-        "path": "collections/01-programming-languages/sandbox_projects/Scraping Informasi OSINT (Menggunakan BeautifulSoup untuk Mencari Informasi dari Halaman Web).py",
-        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Scraping%20Informasi%20OSINT%20%28Menggunakan%20BeautifulSoup%20untuk%20Mencari%20Informasi%20dari%20Halaman%20Web%29.py",
-        "ukuran_bytes": 328
-      },
-      {
-        "proyek": "sandbox_projects",
-        "kelompok_asli": "01-programming-languages",
-        "file": "Skrip Sederhana untuk Memproses Data (Menggunakan Pandas).py",
-        "path": "collections/01-programming-languages/sandbox_projects/Skrip Sederhana untuk Memproses Data (Menggunakan Pandas).py",
-        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Skrip%20Sederhana%20untuk%20Memproses%20Data%20%28Menggunakan%20Pandas%29.py",
-        "ukuran_bytes": 344
-      },
-      {
         "proyek": "PlayStation-Sederhana",
         "kelompok_asli": "02-desktop-games",
         "file": "PlayStation-Sederhana.py",
@@ -222,12 +174,60 @@
         "ukuran_bytes": 1845
       },
       {
+        "proyek": "Email-Automation",
+        "kelompok_asli": "03-ai-data-and-automation",
+        "file": "Automasi Tugas dengan Python (Mengirim Email Otomatis).py",
+        "path": "collections/03-ai-data-and-automation/Email-Automation/Automasi Tugas dengan Python (Mengirim Email Otomatis).py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Email-Automation/Automasi%20Tugas%20dengan%20Python%20%28Mengirim%20Email%20Otomatis%29.py",
+        "ukuran_bytes": 944
+      },
+      {
+        "proyek": "House-Price-Regression",
+        "kelompok_asli": "03-ai-data-and-automation",
+        "file": "Prediksi Harga dengan Regresi Linier (Sklearn).py",
+        "path": "collections/03-ai-data-and-automation/House-Price-Regression/Prediksi Harga dengan Regresi Linier (Sklearn).py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/House-Price-Regression/Prediksi%20Harga%20dengan%20Regresi%20Linier%20%28Sklearn%29.py",
+        "ukuran_bytes": 531
+      },
+      {
+        "proyek": "Pandas-Data-Processing",
+        "kelompok_asli": "03-ai-data-and-automation",
+        "file": "Skrip Sederhana untuk Memproses Data (Menggunakan Pandas).py",
+        "path": "collections/03-ai-data-and-automation/Pandas-Data-Processing/Skrip Sederhana untuk Memproses Data (Menggunakan Pandas).py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Pandas-Data-Processing/Skrip%20Sederhana%20untuk%20Memproses%20Data%20%28Menggunakan%20Pandas%29.py",
+        "ukuran_bytes": 344
+      },
+      {
         "proyek": "Python_Translate_File",
         "kelompok_asli": "03-ai-data-and-automation",
         "file": "translate.py",
         "path": "collections/03-ai-data-and-automation/Python_Translate_File/translate.py",
         "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Python_Translate_File/translate.py",
         "ukuran_bytes": 3507
+      },
+      {
+        "proyek": "Scikit-Learn-Classification",
+        "kelompok_asli": "03-ai-data-and-automation",
+        "file": "Model Klasifikasi Sederhana dengan Scikit-learn.py",
+        "path": "collections/03-ai-data-and-automation/Scikit-Learn-Classification/Model Klasifikasi Sederhana dengan Scikit-learn.py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Scikit-Learn-Classification/Model%20Klasifikasi%20Sederhana%20dengan%20Scikit-learn.py",
+        "ukuran_bytes": 631
+      },
+      {
+        "proyek": "OSINT-Web-Scraper",
+        "kelompok_asli": "08-security-research",
+        "file": "Scraping Informasi OSINT (Menggunakan BeautifulSoup untuk Mencari Informasi dari Halaman Web).py",
+        "path": "collections/08-security-research/OSINT-Web-Scraper/Scraping Informasi OSINT (Menggunakan BeautifulSoup untuk Mencari Informasi dari Halaman Web).py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/OSINT-Web-Scraper/Scraping%20Informasi%20OSINT%20%28Menggunakan%20BeautifulSoup%20untuk%20Mencari%20Informasi%20dari%20Halaman%20Web%29.py",
+        "ukuran_bytes": 328
+      },
+      {
+        "proyek": "Python-Port-Scanner",
+        "kelompok_asli": "08-security-research",
+        "file": "Mendeteksi Port Terbuka dengan Python (Menggunakan socket).py",
+        "path": "collections/08-security-research/Python-Port-Scanner/Mendeteksi Port Terbuka dengan Python (Menggunakan socket).py",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/Python-Port-Scanner/Mendeteksi%20Port%20Terbuka%20dengan%20Python%20%28Menggunakan%20socket%29.py",
+        "ukuran_bytes": 417
       }
     ],
     "02-c-cpp": [
@@ -408,14 +408,6 @@
         "ukuran_bytes": 5571
       },
       {
-        "proyek": "sandbox_projects",
-        "kelompok_asli": "01-programming-languages",
-        "file": "Contoh Program C untuk Mengakses GPIO di Raspberry Pi (LED Blink).c",
-        "path": "collections/01-programming-languages/sandbox_projects/Contoh Program C untuk Mengakses GPIO di Raspberry Pi (LED Blink).c",
-        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Contoh%20Program%20C%20untuk%20Mengakses%20GPIO%20di%20Raspberry%20Pi%20%28LED%20Blink%29.c",
-        "ukuran_bytes": 372
-      },
-      {
         "proyek": "FlappyGhost",
         "kelompok_asli": "02-desktop-games",
         "file": "main.cpp",
@@ -438,6 +430,14 @@
         "path": "collections/02-desktop-games/Mini-PlayStation/Mini-PlayStation.cpp",
         "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/Mini-PlayStation/Mini-PlayStation.cpp",
         "ukuran_bytes": 13347
+      },
+      {
+        "proyek": "Raspberry-Pi-GPIO",
+        "kelompok_asli": "11-hardware-iot",
+        "file": "Contoh Program C untuk Mengakses GPIO di Raspberry Pi (LED Blink).c",
+        "path": "collections/11-hardware-iot/Raspberry-Pi-GPIO/Contoh Program C untuk Mengakses GPIO di Raspberry Pi (LED Blink).c",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/11-hardware-iot/Raspberry-Pi-GPIO/Contoh%20Program%20C%20untuk%20Mengakses%20GPIO%20di%20Raspberry%20Pi%20%28LED%20Blink%29.c",
+        "ukuran_bytes": 372
       }
     ],
     "03-csharp": [
@@ -548,11 +548,11 @@
         "ukuran_bytes": 1204
       },
       {
-        "proyek": "sandbox_projects",
+        "proyek": "Simple-Nextjs",
         "kelompok_asli": "01-programming-languages",
         "file": "Simple Next.js",
-        "path": "collections/01-programming-languages/sandbox_projects/Simple Next.js",
-        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/Simple%20Next.js",
+        "path": "collections/01-programming-languages/Simple-Nextjs/Simple Next.js",
+        "url": "https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Simple-Nextjs/Simple%20Next.js",
         "ukuran_bytes": 216
       },
       {
