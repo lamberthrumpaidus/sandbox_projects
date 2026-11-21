@@ -4,7 +4,7 @@ Catatan penggunaan utilitas PowerShell untuk Windows.
 
 [Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
-##  Penggunaan
+## Penggunaan
 
 Winutil harus dijalankan dalam mode Administrator karena melakukan penyesuaian sistem secara keseluruhan. Berikut adalah beberapa cara untuk melakukannya:
 
@@ -35,7 +35,7 @@ irm "https://christitus.com/windev" | iex
 
 Jika Anda mengalami masalah, silakan merujuk ke [Masalah yang Dikenal](https://christitus.com/win#known-issues).
 
-##  Dokumentasi
+## Dokumentasi
 
 - [Dokumentasi Resmi Winutil](https://christitus.com/win)
 - [Tutorial YouTube](https://www.youtube.com/)

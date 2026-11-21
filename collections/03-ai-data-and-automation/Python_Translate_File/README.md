@@ -4,7 +4,7 @@ Eksperimen penerjemahan dokumen PDF menjadi DOCX.
 
 [Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
-##  Fitur Utama
+## Fitur Utama
 
 *  **Dukung PDF ke DOCX penuh halaman**
 *  **Pilih bahasa dengan nama biasa**, bukan kode ISO (contoh: “Indonesia”, “Spanyol”)
@@ -15,7 +15,7 @@ Eksperimen penerjemahan dokumen PDF menjadi DOCX.
 
 ---
 
-##  Struktur Proyek
+## Struktur Proyek
 
 ```
 Python_Translate_File/
@@ -28,7 +28,7 @@ Python_Translate_File/
 
 ---
 
-##  Instalasi
+## Instalasi
 
 1. Pastikan Python ≥ 3.8 sudah terpasang.
 
@@ -42,9 +42,9 @@ Python_Translate_File/
 
 ---
 
-##  Cara Menjalankan
+## Cara Menjalankan
 
-###  Mode Interaktif
+### Mode Interaktif
 
 Langsung jalankan perintah:
 
@@ -68,7 +68,7 @@ Faludi_Terjemahan.docx
 
 ---
 
-###  Mode Otomatis (CLI)
+### Mode Otomatis (CLI)
 
 Anda juga bisa langsung tentukan argumen tanpa input manual:
 
@@ -81,7 +81,7 @@ python translate_pdf_to_docx.py --input faludi.pdf --output hasil.docx --lang Pr
 
 ---
 
-##  Contoh Hasil
+## Contoh Hasil
 
 **Input (Bahasa Inggris):**
 
@@ -97,7 +97,7 @@ Teori perencanaan menjelaskan bagaimana keputusan dibuat dan dibenarkan.
 
 ---
 
-##  Bahasa yang Didukung
+## Bahasa yang Didukung
 
 | Bahasa              | Penulisan                         | Kode Otomatis |
 | :------------------ | :-------------------------------- | :------------ |
@@ -115,7 +115,7 @@ Teori perencanaan menjelaskan bagaimana keputusan dibuat dan dibenarkan.
 
 ---
 
-##  Catatan Penting
+## Catatan Penting
 
 * Pastikan file PDF **berisi teks yang dapat diekstrak** (bukan hasil scan).
 * Gunakan koneksi internet yang stabil agar proses terjemahan tidak terputus.
@@ -124,7 +124,7 @@ Teori perencanaan menjelaskan bagaimana keputusan dibuat dan dibenarkan.
 
 ---
 
-##  Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 | Library                                | Fungsi                                     |
 | :------------------------------------- | :----------------------------------------- |
@@ -135,7 +135,7 @@ Teori perencanaan menjelaskan bagaimana keputusan dibuat dan dibenarkan.
 
 ---
 
-##  Lisensi
+## Lisensi
 
 Proyek ini dirilis di bawah **MIT License**.
 Silakan gunakan, modifikasi, atau sebarkan dengan tetap mencantumkan atribusi pembuat.

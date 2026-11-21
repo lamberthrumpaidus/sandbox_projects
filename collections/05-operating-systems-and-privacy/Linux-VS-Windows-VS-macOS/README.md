@@ -4,16 +4,15 @@ Perbandingan Linux, Windows, dan macOS dari segi penggunaan.
 
 [Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
-##  Daftar Isi
+## Daftar Isi
 
 1. [Kelebihan dan Kekurangan Linux](#kelebihan-dan-kekurangan-linux)
 2. [Kelebihan dan Kekurangan Windows](#kelebihan-dan-kekurangan-windows)
 3. [Kelebihan dan Kekurangan macOS](#kelebihan-dan-kekurangan-macos)
 4. [Rekomendasi Berdasarkan Penggunaan](#rekomenasi-berdasarkan-penggunaan)
 5. [Kesimpulan](#kesimpulan)
-6. [Hubungi Saya](#hubungi-saya)
 
-##  Kelebihan dan Kekurangan Linux
+## Kelebihan dan Kekurangan Linux
 
 ### Kelebihan:
 - **Open Source**: Dapat diunduh dan dimodifikasi secara gratis.
@@ -26,7 +25,7 @@ Perbandingan Linux, Windows, dan macOS dari segi penggunaan.
 - **Dukungan Software**: Beberapa aplikasi populer mungkin tidak tersedia atau memiliki alternatif terbatas.
 - **Kompatibilitas Hardware**: Beberapa perangkat keras mungkin tidak didukung.
 
-##  Kelebihan dan Kekurangan Windows
+## Kelebihan dan Kekurangan Windows
 
 ### Kelebihan:
 - **Popularitas**: Banyak pengguna dan dukungan dari pengembang perangkat lunak.
@@ -38,7 +37,7 @@ Perbandingan Linux, Windows, dan macOS dari segi penggunaan.
 - **Keamanan**: Rentan terhadap virus dan malware, memerlukan perangkat lunak antivirus.
 - **Kinerja**: Mungkin memerlukan lebih banyak sumber daya dibandingkan dengan Linux.
 
-##  Kelebihan dan Kekurangan macOS
+## Kelebihan dan Kekurangan macOS
 
 ### Kelebihan:
 - **Desain Antarmuka**: Antarmuka yang elegan dan intuitif.
@@ -50,7 +49,7 @@ Perbandingan Linux, Windows, dan macOS dari segi penggunaan.
 - **Keterbatasan Kustomisasi**: Tidak sefleksibel Linux dalam hal penyesuaian.
 - **Kompatibilitas Software**: Beberapa aplikasi Windows mungkin tidak tersedia.
 
-##  Rekomendasi Berdasarkan Penggunaan
+## Rekomendasi Berdasarkan Penggunaan
 
 - **Pengguna Umum**: Jika Anda mencari kemudahan penggunaan dan akses ke banyak aplikasi, **Windows** adalah pilihan yang baik. Namun, jika Anda adalah pengguna yang menyukai desain dan ekosistem Apple, pertimbangkan **macOS**.
 
@@ -60,7 +59,7 @@ Perbandingan Linux, Windows, dan macOS dari segi penggunaan.
 
 - **Efisiensi**: **Linux** umumnya lebih efisien dalam penggunaan sumber daya, menjadikannya pilihan ideal untuk server dan sistem dengan spesifikasi rendah.
 
-##  Kesimpulan
+## Kesimpulan
 
 Setiap sistem operasi memiliki kelebihan dan kekurangan masing-masing. Pilihan terbaik tergantung pada kebutuhan dan preferensi Anda:
 
@@ -69,7 +68,3 @@ Setiap sistem operasi memiliki kelebihan dan kekurangan masing-masing. Pilihan t
 - **macOS**: Pilihan terbaik untuk pengguna yang sudah berada dalam ekosistem Apple.
 
 Jika Anda masih ragu, pertimbangkan untuk mencoba setiap sistem operasi di mesin virtual atau menggunakan Live USB untuk mengeksplorasi fitur masing-masing sebelum membuat keputusan akhir.
-
-##  Hubungi Saya
-
-Jika Anda memiliki pertanyaan atau memerlukan bantuan lebih lanjut, jangan ragu untuk menghubungi saya di GitHub.

@@ -4,34 +4,27 @@ Contoh program untuk pembelajaran Python dan algoritma dasar.
 
 [Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
-## Deskripsi
+## Contoh program
 
-Repository "python" ini berisi berbagai program yang dikembangkan dengan menggunakan bahasa pemrograman Python. Program-program tersebut mencakup berbagai topik dan kasus penggunaan yang berbeda. Dalam repository ini, Anda akan menemukan contoh-contoh kode, proyek-proyek, dan berbagai alat yang dibangun dengan Python.
+- [Biner.py](./Biner.py)
+- [Bunga.py](./Bunga.py)
+- [Detection Input.py](./Detection%20Input.py)
+- [Faktor Persekuat Besar.py](./Faktor%20Persekuat%20Besar.py)
+- [Faktorial.py](./Faktorial.py)
+- [Kalkulator.py](./Kalkulator.py)
+- [kalkulatorv2.py](./kalkulatorv2.py)
+- [Make A Random Sentence.py](./Make%20A%20Random%20Sentence.py)
+- [Make A Random Story .py](./Make%20A%20Random%20Story%20.py)
+- [Mawar.py](./Mawar.py)
+- [Menghitung Akar.py](./Menghitung%20Akar.py)
+- [Menghitung Arus Tegangan Hambatan.py](./Menghitung%20Arus%20Tegangan%20Hambatan.py)
 
----
-## Bahasa Pemrograman
+Berkas lainnya tersedia di direktori proyek.
 
-Seluruh program dalam repository ini dikembangkan menggunakan bahasa pemrograman Python.
+## Penggunaan
 
----
-## Cara Menggunakan Program
+Pastikan Python terpasang, kemudian jalankan berkas yang dipilih:
 
-**Langkah 1:** Instal Python (jika belum diinstal) dari [situs web resmi Python](https://www.python.org/).
-
-**Langkah 2:** Clone repositori ini ke komputer Anda:
-
-**Langkah 3:** git clone https://github.com/LamberthRumpaidus/python.git
-
-**Langkah 4:** cd python
-
-**Langkah 5:** python nama_program.py
-
----
-## Tujuan
-
-Tujuan dari repository ini adalah untuk memberikan sumber daya dan referensi bagi mereka yang ingin mempelajari atau mengembangkan aplikasi menggunakan Python. Anda dapat menemukan contoh kode untuk memahami berbagai konsep dalam bahasa Python atau proyek-proyek lengkap yang dapat Anda pelajari.
-
----
-## Kontribusi
-
-Kami sangat menghargai kontribusi dari komunitas. Jika Anda ingin berkontribusi dengan menambahkan program-program Python ke repositori ini atau memperbaiki program-program yang ada, silakan buka masalah (issue) atau kirimkan permintaan tarik (pull request). Kontribusi Anda sangat berarti bagi kami.
+```bash
+python nama_program.py
+```

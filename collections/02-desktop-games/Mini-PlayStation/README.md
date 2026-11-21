@@ -33,7 +33,7 @@ Lamberth Rumpaidus membuat Mini PlayStation karena saya ingin menciptakan sesuat
 
 **Langkah 2:** Clone repositori ini ke komputer Anda:
 
-**Langkah 3:** git clone https://github.com/LamberthRumpaidus/Mini-PlayStation.git
+**Langkah 3:** git clone https://github.com/lamberthrumpaidus/sandbox_projects.git
 
 **Langkah 4:** cd cpp
 

@@ -14,13 +14,13 @@ Daftar berkas dalam kategori ini, dikelompokkan menurut proyek.
 
 | Berkas | Ukuran |
 |---|---:|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/CPP/README.md) | 1.6 KB |
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/CPP/README.md) | 1.0 KB |
 
 ## Cara-Gunakan-TorBrowser
 
 | Berkas | Ukuran |
 |---|---:|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/05-operating-systems-and-privacy/Cara-Gunakan-TorBrowser/README.md) | 2.0 KB |
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/05-operating-systems-and-privacy/Cara-Gunakan-TorBrowser/README.md) | 1.9 KB |
 
 ## Cek-Keaslian-Windows
 
@@ -62,31 +62,31 @@ Daftar berkas dalam kategori ini, dikelompokkan menurut proyek.
 
 | Berkas | Ukuran |
 |---|---:|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/05-operating-systems-and-privacy/Instal-ulang-macOS/README.md) | 3.2 KB |
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/05-operating-systems-and-privacy/Instal-ulang-macOS/README.md) | 3.1 KB |
 
 ## Instal-ulang-windows
 
 | Berkas | Ukuran |
 |---|---:|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/04-windows-guides/Instal-ulang-windows/README.md) | 3.1 KB |
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/04-windows-guides/Instal-ulang-windows/README.md) | 3.0 KB |
 
 ## Install-Linux
 
 | Berkas | Ukuran |
 |---|---:|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/05-operating-systems-and-privacy/Install-Linux/README.md) | 4.1 KB |
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/05-operating-systems-and-privacy/Install-Linux/README.md) | 3.9 KB |
 
 ## JavaScript
 
 | Berkas | Ukuran |
 |---|---:|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/JavaScript/README.md) | 1.7 KB |
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/JavaScript/README.md) | 493 B |
 
 ## Linux-VS-Windows-VS-macOS
 
 | Berkas | Ukuran |
 |---|---:|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/05-operating-systems-and-privacy/Linux-VS-Windows-VS-macOS/README.md) | 3.6 KB |
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/05-operating-systems-and-privacy/Linux-VS-Windows-VS-macOS/README.md) | 3.4 KB |
 
 ## Lisensi-pada-Github
 
@@ -110,7 +110,7 @@ Daftar berkas dalam kategori ini, dikelompokkan menurut proyek.
 
 | Berkas | Ukuran |
 |---|---:|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Matematika/README.md) | 2.0 KB |
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Matematika/README.md) | 1.9 KB |
 
 ## Melihat-isi-Wa-yang-dihapus
 
@@ -146,7 +146,7 @@ Daftar berkas dalam kategori ini, dikelompokkan menurut proyek.
 
 | Berkas | Ukuran |
 |---|---:|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/README.md) | 1.6 KB |
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/README.md) | 929 B |
 
 ## Python_Translate_File
 
@@ -208,7 +208,7 @@ Daftar berkas dalam kategori ini, dikelompokkan menurut proyek.
 
 | Berkas | Ukuran |
 |---|---:|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/04-windows-guides/Winutil/README.md) | 1.4 KB |
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/04-windows-guides/Winutil/README.md) | 1.3 KB |
 
 ## ai-char-Lam
 
@@ -226,7 +226,7 @@ Daftar berkas dalam kategori ini, dikelompokkan menurut proyek.
 
 | Berkas | Ukuran |
 |---|---:|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/README.md) | 1.6 KB |
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/README.md) | 290 B |
 
 ## uDork
 

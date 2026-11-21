@@ -4,7 +4,7 @@ Implementasi fungsi matematika dasar, geometri, dan statistika dengan Python.
 
 [Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
-##  Fitur
+## Fitur
 
 - **Operasi Aritmetika Dasar**: Penjumlahan, pengurangan, perkalian, pembagian, dan lainnya.
 - **Perhitungan Geometri**: Hitung luas, keliling, dan volume untuk berbagai bentuk.
@@ -13,7 +13,7 @@ Implementasi fungsi matematika dasar, geometri, dan statistika dengan Python.
 - **Matematika Lanjutan**: Bekerja dengan turunan, integral, dan probabilitas.
 - **Antarmuka Baris Perintah Interaktif**: Pilih fungsi dan masukkan parameter dengan mudah.
 
-##  Instalasi
+## Instalasi
 
 Clone repositori dengan perintah berikut:
 
@@ -21,7 +21,7 @@ Clone repositori dengan perintah berikut:
 git clone https://github.com/lamberthrumpaidus/Matematika
 ```
 
-##  Penggunaan
+## Penggunaan
 
 ### Contoh Dasar
 
@@ -57,7 +57,7 @@ Saat Anda menjalankan program, akan muncul daftar fungsi yang tersedia:
 
 Anda akan diminta untuk memasukkan parameter yang diperlukan untuk fungsi yang dipilih. Misalnya, untuk penjumlahan, Anda perlu memasukkan dua angka.
 
-##  Contoh
+## Contoh
 
 Berikut beberapa contoh operasi yang dapat Anda lakukan:
 
@@ -65,13 +65,9 @@ Berikut beberapa contoh operasi yang dapat Anda lakukan:
 - **Luas Lingkaran**: Hitung luas lingkaran berdasarkan jari-jari.
 - **Persamaan Kuadrat**: Selesaikan persamaan kuadrat.
 
-##  Penanganan Kesalahan
+## Penanganan Kesalahan
 
 Kelas ini mencakup penanganan kesalahan dasar untuk masalah umum, seperti:
 - Pembagian dengan nol
 - Nilai negatif untuk akar kuadrat
 - Input parameter yang tidak valid
-
-##  Hubungi Saya
-
-Jika ada pertanyaan atau saran, silakan hubungi saya di GitHub.

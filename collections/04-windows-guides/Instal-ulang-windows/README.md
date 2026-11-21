@@ -4,7 +4,7 @@ Panduan persiapan dan pemasangan ulang Windows.
 
 [Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
-##  Daftar Isi
+## Daftar Isi
 
 1. [Persyaratan Sistem](#persyaratan-sistem)
 2. [Cadangan Data](#cadangan-data)
@@ -13,7 +13,7 @@ Panduan persiapan dan pemasangan ulang Windows.
 5. [Aktivasi Windows](#aktivasi-windows)
 6. [Pemecahan Masalah](#pemecahan-masalah)
 
-##  Persyaratan Sistem
+## Persyaratan Sistem
 
 Sebelum memulai, pastikan sistem Anda memenuhi persyaratan minimum untuk Windows 10 atau Windows 11:
 
@@ -27,14 +27,14 @@ Sebelum memulai, pastikan sistem Anda memenuhi persyaratan minimum untuk Windows
 - **Kartu Grafis**: DirectX 12 compatible graphics / WDDM 2.x
 - **Tampilan**: > 9” dengan resolusi 720p
 
-##  Cadangan Data
+## Cadangan Data
 
 Sebelum melakukan instalasi ulang, penting untuk mencadangkan data Anda:
 
 1. Salin file penting ke hard drive eksternal atau cloud storage.
 2. Pastikan Anda memiliki semua kunci lisensi dan informasi akun yang diperlukan.
 
-##  Membuat Media Instalasi
+## Membuat Media Instalasi
 
 Anda dapat membuat media instalasi dengan menggunakan alat Microsoft Media Creation Tool.
 
@@ -43,7 +43,7 @@ Anda dapat membuat media instalasi dengan menggunakan alat Microsoft Media Creat
 3. Pilih bahasa, edisi, dan arsitektur (32-bit atau 64-bit).
 4. Pilih untuk membuat USB flash drive atau file ISO.
 
-##  Proses Instalasi Ulang
+## Proses Instalasi Ulang
 
 Setelah membuat media instalasi, ikuti langkah-langkah berikut:
 
@@ -66,21 +66,17 @@ Setelah membuat media instalasi, ikuti langkah-langkah berikut:
 5. **Ikuti Petunjuk di Layar**:
    - Tunggu proses instalasi selesai. Komputer akan restart beberapa kali.
 
-##  Aktivasi Windows
+## Aktivasi Windows
 
 Setelah instalasi selesai, Anda perlu mengaktifkan Windows:
 
 1. Masukkan kunci produk jika diminta.
 2. Anda dapat mengaktifkan Windows melalui **Settings** > **Update & Security** > **Activation**.
 
-##  Pemecahan Masalah
+## Pemecahan Masalah
 
 Jika Anda mengalami masalah selama instalasi, pertimbangkan hal-hal berikut:
 
 - Pastikan perangkat keras Anda memenuhi persyaratan minimum.
 - Periksa koneksi internet jika aktivasi diperlukan.
 - Gunakan opsi **Repair your computer** pada layar instalasi jika mengalami kesalahan.
-
-##  Hubungi Saya
-
-Jika Anda memiliki pertanyaan atau perlu bantuan lebih lanjut, jangan ragu untuk menghubungi saya di GitHub.

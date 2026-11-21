@@ -4,7 +4,7 @@ Dokumentasi eksperimen modifikasi antarmuka Spotify.
 
 [Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
-##  Tampilan Aplikasi
+## Tampilan Aplikasi
 <div align="center">
   <img src="Screenshot 2026-05-04 110120.png" width="800" alt="Spotify AdBlock Preview" style="border: 2px solid #3b82f6; border-radius: 10px;">
   <p><i>Adblock by Lamberth Rumpaidus telah terpasang dan aktif sempurna</i></p>
@@ -12,7 +12,7 @@ Dokumentasi eksperimen modifikasi antarmuka Spotify.
 
 ---
 
-##  Fitur Utama
+## Fitur Utama
 Ekstensi ini dirancang khusus untuk memodifikasi client Spotify Desktop melalui Spicetify dengan fitur:
 
 *  **Blokir Iklan Audio:** Menghilangkan jeda iklan suara antar lagu secara otomatis.
@@ -22,13 +22,13 @@ Ekstensi ini dirancang khusus untuk memodifikasi client Spotify Desktop melalui 
 
 ---
 
-##  Persyaratan Sistem
+## Persyaratan Sistem
 1. **Spotify Desktop** (Versi resmi dari Spotify.com, bukan versi Microsoft Store).
 2. **Spicetify CLI** terpasang. [Cara Install Spicetify](https://spicetify.app/docs/getting-started).
 
 ---
 
-##  Panduan Instalasi
+## Panduan Instalasi
 
 ### 1. Simpan File Script
 Unduh file `adblock.js` dan letakkan di folder ekstensi Spicetify Anda:
@@ -57,13 +57,13 @@ Jika iklan masih muncul, bersihkan sisa-sisa iklan di memori Spotify:
 
 ---
 
-##  Cara Cek Status
+## Cara Cek Status
 Setelah Spotify terbuka, tekan tombol **`Ctrl + Shift + I`**. Klik pada tab **Console**. Jika berhasil, Anda akan melihat pesan:
 > `Adblock oleh Lamberth Rumpaidus: Aktif`
 
 ---
 
-##  Lisensi & Disclaimer
+## Lisensi & Disclaimer
 Proyek ini dibuat untuk tujuan edukasi. Penggunaan script modifikasi pada pihak ketiga merupakan tanggung jawab pengguna masing-masing.
 
 ---
