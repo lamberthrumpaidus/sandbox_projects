@@ -184,8 +184,74 @@ def validate():
         if "Universitas Amikom" in s or "bukan pintasan buatan" in s:raise RuntimeError("Kalimat tidak sesuai: "+str(file))
     print("README kurasi diverifikasi:",len(files))
 
+def polish_archives():
+    total=0
+    generic={"CPP":(".cpp","C++"),"JavaScript":(".js","JavaScript"),"Python":(".py","Python")}
+    for category in BASE.iterdir():
+        if not (category.is_dir() and re.match(r"^\d\d-",category.name)):
+            continue
+        for project in category.iterdir():
+            file=project/"README.md"
+            if not file.is_file() or project.name not in PROJECTS:
+                continue
+            title,summary=PROJECTS[project.name]
+            raw=file.read_text(encoding="utf-8")
+            if project.name in generic:
+                ext,lang=generic[project.name]
+                programs=sorted((p for p in project.iterdir() if p.is_file() and p.suffix.lower()==ext),key=lambda p:p.name.casefold())
+                if not programs: raise RuntimeError("No program files for "+project.name)
+                lines=["# "+title,"",summary,"","[Profil utama]("+PROFILE+") · [Indeks proyek](../../../README.md)","","## Contoh program",""]
+                for p in programs[:12]:
+                    lines.append("- ["+p.name+"](./"+quote(p.name)+")")
+                if len(programs)>12:lines.extend(["", "Berkas lainnya tersedia di direktori proyek."])
+                lines+=["","## Penggunaan",""]
+                if ext==".cpp":
+                    lines+=["Instal kompiler C++, lalu kompilasikan salah satu contoh dengan perintah berikut:","",
+                    chr(96)*3+"bash","g++ nama_program.cpp -o nama_program",chr(96)*3]
+                elif ext==".py":
+                    lines+=["Pastikan Python terpasang, kemudian jalankan berkas yang dipilih:","",
+                    chr(96)*3+"bash","python nama_program.py",chr(96)*3]
+                else:
+                    lines+=["Pelajari kode pada setiap berkas. Cara menjalankannya bergantung pada apakah contoh menggunakan Node.js atau API browser."]
+                revised="\n".join(lines).rstrip()+"\n"
+            elif project.name=="sandbox_projects":
+                revised=("# "+title+"\n\n"+summary+"\n\n"
+                "[Profil utama]("+PROFILE+") · [Indeks proyek](../../../README.md)\n\n"
+                "Dokumentasi koleksi terstruktur dapat dilihat melalui [halaman utama Sandbox Projects](../../../README.md).\n")
+            else:
+                out=[]
+                fenced=False
+                skipping=False
+                for line in raw.splitlines():
+                    if line.lstrip().startswith(chr(96)*3):
+                        fenced=not fenced
+                    if not fenced:
+                        heading=re.match(r"^(#{1,4})\s+(.+)$",line)
+                        if heading:
+                            level,heading_text=heading.groups()
+                            if len(level)<=2 and re.match(r"(?i)^(hubungi saya|kontak|tentang penulis)\s*$",heading_text):
+                                skipping=True
+                                continue
+                            if skipping and len(level)<=2:skipping=False
+                            if not skipping:line=level+" "+heading_text.strip()
+                        if skipping:continue
+                        if re.search(r"(?i)^(?:\d+\.\s*)?\[Hubungi Saya\]\(#hubungi-saya\)",line.strip()):continue
+                        if re.search(r"(?i)\b(?:silakan berkunjung kembali|sangat mengesankan|sangat adiktif)\b",line):continue
+                        if re.search(r"(?i)github\.com/(?:LamberthRumpaidus|LamberthPaulinusRumpaidus)/[^\s)]+\.(?:git)",line):
+                            line=re.sub(r"(?i)git clone https://github\.com/(?:LamberthRumpaidus|LamberthPaulinusRumpaidus)/[^\s)]+",
+                            "git clone https://github.com/lamberthrumpaidus/sandbox_projects.git",line)
+                        line=re.sub(r"(?i)\bKamu\b","Anda",line)
+                    out.append(line)
+                revised=re.sub(r"\n{3,}","\n\n","\n".join(out)).rstrip()+"\n"
+            if revised.count(PROFILE)!=1:raise RuntimeError("Profile duplication in "+str(file))
+            if revised!=raw:
+                file.write_text(revised,encoding="utf-8")
+                total+=1
+    return total
+
 if __name__=="__main__":
     print("Arsip yang disunting:",archives())
+    print("Arsip yang dipoles kembali:",polish_archives())
     indexes()
     root()
     validate()
