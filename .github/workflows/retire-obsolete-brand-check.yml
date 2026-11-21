@@ -1,0 +1,20 @@
+name: Retire obsolete branding check
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/retire-obsolete-brand-check.yml"
+permissions:
+  actions: write
+  contents: read
+jobs:
+  stop:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 3
+    steps:
+      - name: Cancel outdated hanging browser verification
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          gh api --method POST repos/lamberthrumpaidus/sandbox_projects/actions/runs/44914221543/cancel
