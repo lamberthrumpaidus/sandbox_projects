@@ -1,3 +1,4 @@
+// ALL Create by LamberthRumpaidus
 import { chromium } from "playwright";
 import fs from "node:fs";
 import http from "node:http";
@@ -60,7 +61,7 @@ for (const project of projects) {
     await page.goto(url, {waitUntil:"domcontentloaded",timeout:35000});
     await page.locator("img[src*='app-logo']").first().waitFor({state:"attached",timeout:12000});
     const logos = await page.locator("img[src*='app-logo']").count();
-    const credits = await page.locator("img[src*='brand-lr']").count();
+    const credits = await page.locator("img[src*='lr-credit-logo-v2']").count();
     assert(logos >= 1, project + ": missing dedicated app logo");
     assert(credits >= 1, project + ": missing creator credit logo");
     if (project === "Omni_Science") {

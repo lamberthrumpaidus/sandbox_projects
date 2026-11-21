@@ -1,3 +1,4 @@
+// ALL Create by LamberthRumpaidus
 import { createHash } from "node:crypto";
 const sites=[
   ["Portfolio","https://lamberthrumpaidus.netlify.app/"],

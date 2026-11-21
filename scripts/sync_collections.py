@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# ALL Create by LamberthRumpaidus
 """Collect all files from non-website repositories without touching their originals.
 
 Runs in the destination GitHub Actions workspace. Copies tracked files from the

@@ -1,3 +1,4 @@
+# ALL Create by LamberthRumpaidus
 from pathlib import Path
 from collections import defaultdict
 from urllib.parse import quote
