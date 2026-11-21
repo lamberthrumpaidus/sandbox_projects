@@ -1,10 +1,11 @@
-# JavaScript 
+# Latihan JavaScript
+
+Kumpulan latihan logika dan pemrograman JavaScript.
+
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
 ## Deskripsi
 Repositori "javascript" ini berisi berbagai program yang dikembangkan menggunakan bahasa pemrograman JavaScript. Program-program tersebut mencakup berbagai topik dan kasus penggunaan. Di dalam repositori ini, Anda akan menemukan contoh kode, proyek-proyek, dan berbagai alat yang dibangun dengan JavaScript.
-
-## Tentang Penulis
-Repositori ini dibuat oleh [lamberthrumpaidus](https://github.com/lamberthrumpaidus), seorang pengembang perangkat lunak dengan minat dalam bahasa pemrograman JavaScript, yang berbagi berbagai program yang dikembangkan dengan bahasa ini.
 
 ## Bahasa Pemrograman
 Semua program dalam repositori ini dikembangkan menggunakan bahasa pemrograman JavaScript.
@@ -21,5 +22,3 @@ Tujuan dari repositori ini adalah memberikan sumber daya dan referensi bagi mere
 
 ## Kontribusi
 Kami sangat menghargai kontribusi dari komunitas. Jika Anda ingin berkontribusi dengan menambahkan program-program JavaScript ke repositori ini atau meningkatkan program-program yang sudah ada, silakan buka isu atau kirimkan permintaan tarik. Kontribusi Anda sangat berharga bagi kami.
-
-Terima kasih telah mengunjungi repositori JavaScript kami!

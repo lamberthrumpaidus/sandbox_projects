@@ -1,12 +1,16 @@
 # PlayStation Sederhana
 
+Koleksi permainan sederhana berbasis Python.
+
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
+
 ## Deskripsi
 
 PlayStation Sederhana adalah koleksi permainan sederhana yang dibuat menggunakan Python. Program ini menyajikan berbagai permainan yang dapat dimainkan langsung di terminal, memberikan hiburan yang menyenangkan.
 
 ## Latar Belakang
 
-PlayStation Sederhana merupakan pengembangan lanjutan dari [Mini PlayStation](https://github.com/lamberthrumpaidus/Mini-PlayStation). Proyek ini bertujuan untuk menyempurnakan pengalaman bermain dengan menambahkan lebih banyak fitur, permainan yang lebih beragam, serta antarmuka yang lebih ramah pengguna. Dengan PlayStation Sederhana, saya ingin menciptakan sesuatu yang lebih menarik dan menghibur bagi semua orang, sambil terus meningkatkan keterampilan pemrograman dan kreativitas [saya](https://github.com/lamberthrumpaidus/).
+PlayStation Sederhana merupakan pengembangan lanjutan dari [Mini PlayStation](https://github.com/lamberthrumpaidus/Mini-PlayStation). Proyek ini bertujuan untuk menyempurnakan pengalaman bermain dengan menambahkan lebih banyak fitur, permainan yang lebih beragam, serta antarmuka yang lebih ramah pengguna. Dengan PlayStation Sederhana, saya ingin menciptakan sesuatu yang lebih menarik dan menghibur bagi semua orang, sambil terus meningkatkan keterampilan pemrograman dan kreativitas Lamberth Rumpaidus.
 
 ## Fitur Utama
 
@@ -54,7 +58,3 @@ git clone https://github.com/LamberthRumpaidus/playstation-sederhana.git
 
 3. Masukkan kata sandi saat diminta (kata sandi default adalah "lam").
 4. Pilih permainan yang ingin dimainkan sesuai dengan nomor yang ditampilkan.
-
-## Kontak
-
-Jika Anda memiliki pertanyaan atau saran, silakan hubungi [Saya](https://github.com/lamberthrumpaidus).

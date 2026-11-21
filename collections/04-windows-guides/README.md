@@ -1,10 +1,12 @@
-# Panduan dan utilitas Windows
+# Panduan Windows
 
-[Kembali ke halaman utama](../../README.md) · [Semua kategori](../README.md)
+Panduan penggunaan dan pemeliharaan Windows.
 
-**7 folder proyek · 7 file.**
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks kategori](../README.md)
 
-| Folder proyek | Jumlah file |
+## Daftar proyek
+
+| Proyek | Jumlah berkas |
 |---|---:|
 | [Cek-Keaslian-Windows](./Cek-Keaslian-Windows/) | 1 |
 | [Instal-ulang-windows](./Instal-ulang-windows/) | 1 |
@@ -13,5 +15,3 @@
 | [Shortcut-KeyWindows11](./Shortcut-KeyWindows11/) | 1 |
 | [Tips-and-Trik-agar-Windows11-lancar](./Tips-and-Trik-agar-Windows11-lancar/) | 1 |
 | [Winutil](./Winutil/) | 1 |
-
-Semua tautan di atas menunjuk ke **folder fisik proyek**, bukan hanya indeks file.

@@ -1,6 +1,8 @@
-# Penjelasan Lisensi pada GitHub
+# Lisensi GitHub
 
-Panduan ini menjelaskan berbagai jenis lisensi yang sering digunakan di GitHub, serta bagaimana cara memilih dan menggunakan lisensi yang tepat untuk proyek Anda.
+Penjelasan jenis lisensi perangkat lunak dan penerapannya.
+
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
 ## Daftar Lisensi
 
@@ -86,4 +88,4 @@ Untuk memilih lisensi yang tepat untuk proyek Anda, pertimbangkan hal-hal beriku
 - **Jenis Proyek**: Apakah proyek Anda perangkat lunak, dokumentasi, atau karya kreatif lainnya?
 - **Komunitas Pengguna**: Apa yang diharapkan oleh komunitas pengguna Anda dalam hal kebebasan dan kontrol?
 
-Untuk informasi lebih lanjut tentang lisensi, Anda dapat mengunjungi [choosealicense](https://choosealicense.com) dan apabila anda memiliki pertanyaan lebih lanjut hubungi saya di [sini](https://github.com/lamberthrumpaidus)
+Untuk informasi lebih lanjut tentang lisensi, Anda dapat mengunjungi [choosealicense](https://choosealicense.com) dan apabila anda memiliki pertanyaan lebih lanjut hubungi saya di sini

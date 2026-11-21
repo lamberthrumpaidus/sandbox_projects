@@ -1,8 +1,10 @@
 # Winutil
 
-Winutil adalah skrip PowerShell yang dirancang untuk memudahkan berbagai tugas utilitas pada sistem Windows Anda. Skrip ini memerlukan hak akses administrator untuk melakukan perubahan sistem.
+Catatan penggunaan utilitas PowerShell untuk Windows.
 
-## 💡 Penggunaan
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
+
+##  Penggunaan
 
 Winutil harus dijalankan dalam mode Administrator karena melakukan penyesuaian sistem secara keseluruhan. Berikut adalah beberapa cara untuk melakukannya:
 
@@ -33,7 +35,7 @@ irm "https://christitus.com/windev" | iex
 
 Jika Anda mengalami masalah, silakan merujuk ke [Masalah yang Dikenal](https://christitus.com/win#known-issues).
 
-## 🎓 Dokumentasi
+##  Dokumentasi
 
 - [Dokumentasi Resmi Winutil](https://christitus.com/win)
 - [Tutorial YouTube](https://www.youtube.com/)
@@ -41,4 +43,4 @@ Jika Anda mengalami masalah, silakan merujuk ke [Masalah yang Dikenal](https://c
 
 ## Bantuan
 
-Jika Anda memerlukan bantuan lebih lanjut atau memiliki pertanyaan, jangan ragu untuk menghubungi [saya](https://github.com/lamberthrumpaidus).
+Jika Anda memerlukan bantuan lebih lanjut atau memiliki pertanyaan, jangan ragu untuk menghubungi Lamberth Rumpaidus.

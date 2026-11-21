@@ -1,14 +1,14 @@
-# Sistem operasi & privasi
+# Sistem operasi dan privasi
 
-[Kembali ke halaman utama](../../README.md) · [Semua kategori](../README.md)
+Materi Linux, macOS, dan privasi.
 
-**4 folder proyek · 4 file.**
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks kategori](../README.md)
 
-| Folder proyek | Jumlah file |
+## Daftar proyek
+
+| Proyek | Jumlah berkas |
 |---|---:|
 | [Cara-Gunakan-TorBrowser](./Cara-Gunakan-TorBrowser/) | 1 |
 | [Instal-ulang-macOS](./Instal-ulang-macOS/) | 1 |
 | [Install-Linux](./Install-Linux/) | 1 |
 | [Linux-VS-Windows-VS-macOS](./Linux-VS-Windows-VS-macOS/) | 1 |
-
-Semua tautan di atas menunjuk ke **folder fisik proyek**, bukan hanya indeks file.

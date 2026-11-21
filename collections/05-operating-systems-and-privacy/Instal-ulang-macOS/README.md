@@ -1,8 +1,10 @@
-# 🍏 Panduan Instalasi Ulang macOS
+# Instalasi ulang macOS
 
-Selamat datang di panduan lengkap untuk menginstal ulang macOS! Di sini, Anda akan menemukan langkah-langkah terperinci untuk melakukan instalasi ulang sistem operasi Apple, baik untuk versi terbaru maupun yang lebih lama. Mari kita mulai!
+Panduan pencadangan data dan instalasi ulang macOS.
 
-## 🚀 Daftar Isi
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
+
+##  Daftar Isi
 
 1. [Persyaratan Sistem](#persyaratan-sistem)
 2. [Cadangan Data](#cadangan-data)
@@ -11,7 +13,7 @@ Selamat datang di panduan lengkap untuk menginstal ulang macOS! Di sini, Anda ak
 5. [Aktivasi macOS](#aktivasi-macos)
 6. [Pemecahan Masalah](#pemecahan-masalah)
 
-## 🛠️ Persyaratan Sistem
+##  Persyaratan Sistem
 
 Sebelum memulai, pastikan Mac Anda memenuhi persyaratan sistem minimum untuk versi macOS yang ingin Anda instal.
 
@@ -19,7 +21,7 @@ Sebelum memulai, pastikan Mac Anda memenuhi persyaratan sistem minimum untuk ver
 - **Ruang Penyimpanan**: Minimal 20 GB ruang kosong untuk instalasi.
 - **Koneksi Internet**: Diperlukan untuk mengunduh file instalasi.
 
-## 💾 Cadangan Data
+##  Cadangan Data
 
 Sebelum melakukan instalasi ulang, penting untuk mencadangkan data Anda:
 
@@ -27,7 +29,7 @@ Sebelum melakukan instalasi ulang, penting untuk mencadangkan data Anda:
 2. Salin file penting ke cloud storage atau perangkat penyimpanan eksternal lainnya.
 3. Pastikan Anda memiliki semua informasi akun yang diperlukan.
 
-## 🥳 Membuat Media Instalasi
+##  Membuat Media Instalasi
 
 Anda dapat membuat media instalasi dengan menggunakan USB flash drive dan aplikasi **Disk Utility**.
 
@@ -44,7 +46,7 @@ Anda dapat membuat media instalasi dengan menggunakan USB flash drive dan aplika
    sudo /Applications/Install\ macOS\ <NamaVersi>.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
    ```
 
-## 🔄 Proses Instalasi Ulang
+##  Proses Instalasi Ulang
 
 Setelah membuat media instalasi, ikuti langkah-langkah berikut:
 
@@ -64,14 +66,14 @@ Setelah membuat media instalasi, ikuti langkah-langkah berikut:
 4. **Ikuti Petunjuk di Layar**:
    - Tunggu proses instalasi selesai. Mac akan restart beberapa kali.
 
-## 🔑 Aktivasi macOS
+##  Aktivasi macOS
 
 Setelah instalasi selesai, Anda perlu mengaktifkan macOS:
 
 1. Masukkan Apple ID dan kata sandi jika diminta.
 2. Ikuti langkah-langkah pengaturan awal untuk menyelesaikan instalasi.
 
-## 🛠️ Pemecahan Masalah
+##  Pemecahan Masalah
 
 Jika Anda mengalami masalah selama instalasi, pertimbangkan hal-hal berikut:
 
@@ -79,6 +81,6 @@ Jika Anda mengalami masalah selama instalasi, pertimbangkan hal-hal berikut:
 - Periksa koneksi internet jika pengunduhan diperlukan.
 - Gunakan opsi **Disk Utility** untuk memperbaiki disk jika terjadi kesalahan.
 
-## 📞 Hubungi Saya
+##  Hubungi Saya
 
-Jika Anda memiliki pertanyaan atau perlu bantuan lebih lanjut, jangan ragu untuk menghubungi saya di [GitHub](https://github.com/lamberthrumpaidus).
+Jika Anda memiliki pertanyaan atau perlu bantuan lebih lanjut, jangan ragu untuk menghubungi saya di GitHub.

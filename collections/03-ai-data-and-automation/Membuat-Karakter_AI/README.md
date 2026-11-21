@@ -1,4 +1,8 @@
-# Cara Membuat Karakter AI
+# Pembuatan karakter AI
+
+Panduan penyusunan karakter percakapan menggunakan Character.AI.
+
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
 ## Deskripsi
 Panduan ini menjelaskan langkah-langkah untuk membuat karakter AI menggunakan platform Character AI. Dengan mengikuti langkah-langkah ini, Anda dapat membuat karakter unik yang dapat berinteraksi dengan pengguna.
@@ -31,6 +35,3 @@ Panduan ini menjelaskan langkah-langkah untuk membuat karakter AI menggunakan pl
 - **Berikan Detail yang Jelas:** Semakin banyak detail yang Anda berikan tentang karakter, semakin baik interaksinya.
 - **Uji Coba Berkala:** Lakukan pengujian dan penyesuaian secara berkala untuk meningkatkan pengalaman pengguna.
 - **Dengarkan Masukan:** Terima masukan dari pengguna untuk memperbaiki dan mengembangkan karakter lebih lanjut.
-
-## Kontak
-Jika Anda memiliki pertanyaan atau membutuhkan bantuan lebih lanjut, silakan hubungi [saya](https://github.com/lamberthrumpaidus).

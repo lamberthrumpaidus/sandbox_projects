@@ -1,4 +1,8 @@
-# Flappy Ghost - Final Project Kelompok 10
+# Flappy Ghost
+
+Permainan C++ untuk menghindari rintangan dengan mengendalikan lompatan karakter.
+
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
 ## Deskripsi Singkat
 

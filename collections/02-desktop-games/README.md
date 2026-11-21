@@ -1,13 +1,13 @@
-# Game desktop
+# Permainan desktop
 
-[Kembali ke halaman utama](../../README.md) · [Semua kategori](../README.md)
+Kumpulan aplikasi permainan untuk komputer.
 
-**3 folder proyek · 45 file.**
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks kategori](../README.md)
 
-| Folder proyek | Jumlah file |
+## Daftar proyek
+
+| Proyek | Jumlah berkas |
 |---|---:|
 | [FlappyGhost](./FlappyGhost/) | 41 |
 | [Mini-PlayStation](./Mini-PlayStation/) | 2 |
 | [PlayStation-Sederhana](./PlayStation-Sederhana/) | 2 |
-
-Semua tautan di atas menunjuk ke **folder fisik proyek**, bukan hanya indeks file.

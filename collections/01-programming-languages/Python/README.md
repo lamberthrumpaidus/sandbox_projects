@@ -1,14 +1,12 @@
-# Python 
+# Latihan Python
 
----
+Contoh program untuk pembelajaran Python dan algoritma dasar.
+
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
+
 ## Deskripsi
 
 Repository "python" ini berisi berbagai program yang dikembangkan dengan menggunakan bahasa pemrograman Python. Program-program tersebut mencakup berbagai topik dan kasus penggunaan yang berbeda. Dalam repository ini, Anda akan menemukan contoh-contoh kode, proyek-proyek, dan berbagai alat yang dibangun dengan Python.
-
----
-## Tentang Penulis
-
-Repository ini dibuat oleh [lamberthrumpaidus](https://github.com/lamberthrumpaidus), seorang pengembang perangkat lunak yang memiliki minat dalam bahasa pemrograman Python dan berbagi berbagai program yang dikembangkan dengan bahasa ini.
 
 ---
 ## Bahasa Pemrograman
@@ -37,5 +35,3 @@ Tujuan dari repository ini adalah untuk memberikan sumber daya dan referensi bag
 ## Kontribusi
 
 Kami sangat menghargai kontribusi dari komunitas. Jika Anda ingin berkontribusi dengan menambahkan program-program Python ke repositori ini atau memperbaiki program-program yang ada, silakan buka masalah (issue) atau kirimkan permintaan tarik (pull request). Kontribusi Anda sangat berarti bagi kami.
-
-Terima kasih telah mengunjungi repositori Python kami!

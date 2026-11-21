@@ -1,11 +1,10 @@
-# 🔒 Lock & Unlock Folder `lam_folder` di Windows
+# Pengaturan folder Windows
 
-Panduan ini menjelaskan cara **mengunci** dan **membuka kunci** folder bernama `lam_folder` atau **`(ganti dengan nama folder anda)`** di Windows.
-Dua metode tersedia: menggunakan **Command Prompt langsung** atau dengan **script `.bat` otomatis**.
+Contoh pengaturan akses folder melalui skrip dan perintah Windows.
 
----
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
-## 📌 Prasyarat
+##  Prasyarat
 
 * Sistem Operasi: Windows 7 / 8 / 10 / 11
 * Hak akses sebagai **Administrator**
@@ -13,7 +12,7 @@ Dua metode tersedia: menggunakan **Command Prompt langsung** atau dengan **scrip
 
 ---
 
-## 🖥️ Versi Tanpa .bat (Manual CMD)
+##  Versi Tanpa .bat (Manual CMD)
 
 1. Masuk ke folder yang ingin dikunci (`lam_folder`).
 2. Klik **Address Bar** di bagian atas Windows Explorer.
@@ -25,7 +24,7 @@ Dua metode tersedia: menggunakan **Command Prompt langsung** atau dengan **scrip
 
    → Tekan **Enter**, maka Command Prompt terbuka di lokasi folder.
 
-### 🔒 Lock Folder
+###  Lock Folder
 
 Jalankan perintah berikut untuk mengunci:
 
@@ -33,7 +32,7 @@ Jalankan perintah berikut untuk mengunci:
 icacls "lam_folder" /deny Everyone:(F)
 ```
 
-### 🔓 Unlock Folder
+###  Unlock Folder
 
 Jalankan perintah berikut untuk membuka kunci:
 
@@ -43,7 +42,7 @@ icacls "lam_folder" /grant Everyone:(F)
 
 ---
 
-## ⚡ Versi Dengan .bat (Script Otomatis)
+##  Versi Dengan .bat (Script Otomatis)
 
 ### 1. Lock Folder Script
 
@@ -71,7 +70,7 @@ echo Folder lam_folder berhasil dibuka!
 pause
 ```
 
-### 📂 Cara Menggunakan
+###  Cara Menggunakan
 
 1. Pastikan folder **`lam_folder`** sudah ada di lokasi yang sama dengan file `.bat`.
 2. Klik 2x `lock_lam_folder_icacls.bat` → folder terkunci.
@@ -79,7 +78,7 @@ pause
 
 ---
 
-## ⚠️ Catatan Penting
+##  Catatan Penting
 
 * **Run as Administrator** sangat disarankan agar tidak gagal.
 * Jika ingin folder selain `lam_folder`, cukup ganti nama folder di dalam kode.

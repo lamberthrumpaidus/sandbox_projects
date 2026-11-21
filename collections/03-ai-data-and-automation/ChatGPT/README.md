@@ -1,4 +1,8 @@
-# Panduan Lengkap Penggunaan ChatGPT
+# Panduan ChatGPT
+
+Panduan menyusun permintaan dan mengevaluasi jawaban dalam penggunaan ChatGPT.
+
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
 ## Pengenalan
 
@@ -103,4 +107,4 @@ ChatGPT dapat diakses melalui:
 ChatGPT adalah alat yang sangat berguna untuk berbagai kebutuhan. Dengan memahami cara berinteraksi dan memanfaatkan kemampuannya, Anda dapat memperoleh manfaat maksimal. Jangan ragu untuk bereksperimen dengan berbagai jenis pertanyaan dan permintaan untuk menemukan cara terbaik dalam menggunakan ChatGPT.
 
 ## 10. Kontak dan Informasi Tambahan
-Jika Anda memiliki pertanyaan lebih lanjut, silakan hubungi [saya](https://github.com/lamberthrumpaidus).
+Jika Anda memiliki pertanyaan lebih lanjut, silakan hubungi Lamberth Rumpaidus.

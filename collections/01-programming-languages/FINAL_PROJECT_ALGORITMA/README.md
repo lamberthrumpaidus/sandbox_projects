@@ -1,9 +1,8 @@
-<div align="center">
-  <h1>🚀 Average Score App 🚀</h1>
-  <p><b>Program akhir semester 1 dari Kelompok 10</b></p>
-</div>
+# Perhitungan nilai rata-rata
 
----
+Aplikasi konsol untuk menghitung nilai rata-rata, dikerjakan sebagai proyek kelompok.
+
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
 ## Deskripsi Aplikasi
 

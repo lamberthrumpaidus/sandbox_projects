@@ -1,8 +1,8 @@
-# Tema Shadowed Orchid untuk Spotify
+# Tema Shadowed Orchid
 
-![Shadowed Orchid Theme Screenshot](Shadowed%20Orchid.png)
+Dokumentasi tema Shadowed Orchid untuk Spotify.
 
-Selamat datang di **Shadowed Orchid**, tema yang saya kembangkan sendiri untuk meningkatkan pengalaman mendengarkan musik Anda di Spotify. Dengan nuansa ungu gelap yang elegan, tema ini dirancang untuk menciptakan suasana yang nyaman dan memikat saat menikmati musik favorit Anda.
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
 ## Deskripsi Tema
 
@@ -94,4 +94,4 @@ Shadowed Orchid/
 
 ## Kontribusi
 
-Saya terbuka untuk umpan balik dan saran. Jika Anda memiliki ide untuk meningkatkan tema ini atau menemukan bug, jangan ragu untuk membuka isu di [GitHub](https://github.com/lamberthrumpaidus).
+Saya terbuka untuk umpan balik dan saran. Jika Anda memiliki ide untuk meningkatkan tema ini atau menemukan bug, jangan ragu untuk membuka isu di GitHub.

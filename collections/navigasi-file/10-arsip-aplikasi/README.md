@@ -1,24 +1,23 @@
-# ZIP & aplikasi
+# Arsip dan aplikasi
 
-3 file — Arsip ZIP dan executable.
+Daftar berkas dalam kategori ini, dikelompokkan menurut proyek.
 
-[Semua kategori](../README.md) | [Koleksi utama](../../README.md)
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Seluruh jenis berkas](../README.md) · [Indeks proyek](../../README.md)
 
-## FlappyGhost (1 file)
+## FlappyGhost
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [nyanGame.exe](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/x64/Debug/nyanGame.exe) | 102.0 KB | collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/x64/Debug/nyanGame.exe |
+| Berkas | Ukuran |
+|---|---:|
+| [nyanGame.exe](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/FlappyGhost_UAS/x64/Debug/nyanGame.exe) | 102.0 KB |
 
-## Shadowed-Orchid (1 file)
+## Shadowed-Orchid
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [Shadowed Orchid.zip](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Shadowed-Orchid/Shadowed%20Orchid.zip) | 801.3 KB | collections/06-spotify-customization/Shadowed-Orchid/Shadowed Orchid.zip |
+| Berkas | Ukuran |
+|---|---:|
+| [Shadowed Orchid.zip](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Shadowed-Orchid/Shadowed%20Orchid.zip) | 801.3 KB |
 
-## Spotify_NoAD_CustomTheme (1 file)
+## Spotify_NoAD_CustomTheme
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [Shadowed Orchid.zip](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_NoAD_CustomTheme/Themes/Shadowed%20Orchid.zip) | 801.3 KB | collections/06-spotify-customization/Spotify_NoAD_CustomTheme/Themes/Shadowed Orchid.zip |
-
+| Berkas | Ukuran |
+|---|---:|
+| [Shadowed Orchid.zip](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_NoAD_CustomTheme/Themes/Shadowed%20Orchid.zip) | 801.3 KB |

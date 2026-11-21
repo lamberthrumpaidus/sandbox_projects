@@ -1,10 +1,12 @@
-# AI, data & otomatisasi
+# Data dan otomatisasi
 
-[Kembali ke halaman utama](../../README.md) · [Semua kategori](../README.md)
+Pemrosesan data, AI, dan otomasi.
 
-**11 folder proyek · 18 file.**
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks kategori](../README.md)
 
-| Folder proyek | Jumlah file |
+## Daftar proyek
+
+| Proyek | Jumlah berkas |
 |---|---:|
 | [ai-char-Lam](./ai-char-Lam/) | 1 |
 | [ChatGPT](./ChatGPT/) | 1 |
@@ -17,5 +19,3 @@
 | [Python_Translate_File](./Python_Translate_File/) | 2 |
 | [Scikit-Learn-Classification](./Scikit-Learn-Classification/) | 1 |
 | [WA-Bot-Char-AI](./WA-Bot-Char-AI/) | 4 |
-
-Semua tautan di atas menunjuk ke **folder fisik proyek**, bukan hanya indeks file.

@@ -1,7 +1,7 @@
-# Lainnya
+# Berkas lain
 
-0 file — File tanpa kelompok khusus.
+Daftar berkas dalam kategori ini, dikelompokkan menurut proyek.
 
-[Semua kategori](../README.md) | [Koleksi utama](../../README.md)
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Seluruh jenis berkas](../README.md) · [Indeks proyek](../../README.md)
 
-Belum ada file.
+Belum terdapat berkas pada kategori ini.

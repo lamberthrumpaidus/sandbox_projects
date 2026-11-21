@@ -1,6 +1,8 @@
-# Free-Spotify
+# Pengaturan Spicetify
 
-Panduan ini menjelaskan cara menginstal dan mengonfigurasi Spicetify menggunakan PowerShell di Windows.
+Panduan instalasi dan konfigurasi Spicetify.
+
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
 ## Prasyarat
 
@@ -31,8 +33,3 @@ Sebelum memulai, pastikan Anda telah menginstal:
    ```powershell
    spicetify init
    ```
-
-## Hubungi Saya
-
-Jika Anda memiliki pertanyaan atau perlu bantuan lebih lanjut, jangan ragu untuk menghubungi [saya](https://github.com/lamberthrumpaidus).
-Dengan cara ini, pengguna bisa langsung menginstal Spicetify tanpa perlu mengunduh dan menginstal manual. Pastikan juga untuk menambahkan detail tambahan jika diperlukan!

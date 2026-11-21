@@ -1,6 +1,8 @@
-# Tips dan Trik Agar Windows 11 Tetap Lancar
+# Pemeliharaan Windows 11
 
-Berikut adalah langkah-langkah yang dapat Anda lakukan untuk memastikan Windows 11 Anda tetap berjalan dengan lancar dan optimal:
+Panduan pengaturan dan pemeliharaan dasar Windows.
+
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
 ## 1. Perbarui Windows 11 ke Versi Terbaru
 Pastikan Windows 11 Anda selalu diperbarui ke versi terbaru untuk mendapatkan perbaikan bug, peningkatan keamanan, dan fitur baru.
@@ -272,7 +274,3 @@ Gunakan Windows Terminal untuk mengelola command line dengan lebih efisien.
 ```bash
 Download Windows Terminal > Install > Run
 ```
-
-
-## Hubungi saya
-Jika anda pertanya lebih lanjut hubungi saya di [sini](https://github.com/lamberthrumpaidus)

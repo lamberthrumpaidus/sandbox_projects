@@ -1,4 +1,8 @@
-# Tips dan Trik Melihat Chat WhatsApp yang Dihapus
+# Riwayat notifikasi WhatsApp
+
+Catatan mengenai riwayat notifikasi dan pesan WhatsApp.
+
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
 ## Pendahuluan
 Sering kali kita penasaran dengan pesan WhatsApp yang telah dihapus oleh pengirimnya. Untungnya, ada beberapa cara yang bisa digunakan untuk melihat pesan tersebut, baik dengan menggunakan fitur bawaan WhatsApp maupun aplikasi tambahan.
@@ -63,4 +67,4 @@ Nova Launcher memiliki fitur yang memungkinkan Anda melihat riwayat notifikasi.
 
 ## Penutup
 Dengan menggunakan salah satu dari metode di atas, Anda dapat dengan mudah melihat pesan WhatsApp yang telah dihapus. Pastikan untuk selalu memperbarui aplikasi dan sistem operasi Anda untuk mendapatkan fitur terbaru.
-jika anda membutuhkan informasi lebih lanjut silahkan hubungi [saya](https://github.com/lamberthrumpaidus)
+jika anda membutuhkan informasi lebih lanjut silahkan hubungi Lamberth Rumpaidus

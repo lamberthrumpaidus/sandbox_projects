@@ -1,6 +1,8 @@
-# WhatsApp Bot (Auto Chat AI)
+# Bot WhatsApp berbasis AI
 
-This WhatsApp bot integrates AI from **Character.AI** for auto chatting. It supports both private and group chats, using mentions as a prefix for group conversations.
+Contoh integrasi percakapan WhatsApp dengan layanan AI.
+
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
 ## Features
 - AI powered by [Character.AI](https://character.ai)
@@ -26,4 +28,4 @@ $ pm2 start index.js --name bot
 ```
 
 ## Authors
-[lamberthrumpaidus](https://github.com/lamberthrumpaidus)
+Lamberth Rumpaidus

@@ -1,10 +1,12 @@
-# Bahasa pemrograman & aplikasi dasar
+# Pemrograman
 
-[Kembali ke halaman utama](../../README.md) · [Semua kategori](../README.md)
+Contoh program dan latihan dasar.
 
-**10 folder proyek · 69 file.**
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks kategori](../README.md)
 
-| Folder proyek | Jumlah file |
+## Daftar proyek
+
+| Proyek | Jumlah berkas |
 |---|---:|
 | [Calculator](./Calculator/) | 7 |
 | [CPP](./CPP/) | 21 |
@@ -16,5 +18,3 @@
 | [Python](./Python/) | 18 |
 | [sandbox_projects](./sandbox_projects/) | 1 |
 | [Simple-Nextjs](./Simple-Nextjs/) | 1 |
-
-Semua tautan di atas menunjuk ke **folder fisik proyek**, bukan hanya indeks file.

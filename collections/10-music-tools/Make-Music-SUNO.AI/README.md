@@ -1,4 +1,8 @@
-# Panduan Membuat Musik dengan Suno.ai
+# Panduan Suno
+
+Panduan pemanfaatan layanan Suno untuk pembuatan musik.
+
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
 ## Pengenalan
 Suno.ai adalah platform berbasis kecerdasan buatan yang memungkinkan pengguna untuk membuat musik dan suara dengan mudah. Dengan antarmuka yang ramah pengguna, Anda dapat menghasilkan karya musik yang unik dalam waktu singkat.
@@ -51,4 +55,4 @@ Suno.ai adalah platform berbasis kecerdasan buatan yang memungkinkan pengguna un
 - **Umpan Balik**: Dapatkan masukan dari teman atau komunitas untuk meningkatkan karya Anda.
 
 ## 7. Dukungan dan Kontak
-Jika Anda memerlukan bantuan lebih lanjut, hubungi [saya](https://github.com/lamberthrumpaidus)
+Jika Anda memerlukan bantuan lebih lanjut, hubungi Lamberth Rumpaidus

@@ -1,6 +1,8 @@
-# TikTok Remove Repost
+# Pengelolaan repost TikTok
 
-Panduan ini menjelaskan cara menghapus tombol repost di TikTok dengan mudah menggunakan ekstensi Chrome.
+Panduan penggunaan ekstensi untuk mengelola repost.
+
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
 ## Prasyarat
 
@@ -21,8 +23,3 @@ Sebelum memulai, pastikan Anda menggunakan browser Google Chrome.
    - Tunggu beberapa saat hingga proses selesai.
 
 Dengan cara ini, tombol repost di TikTok akan dihapus secara otomatis.
-
-## Hubungi Saya
-
-Jika Anda memiliki pertanyaan atau perlu bantuan lebih lanjut, jangan ragu untuk menghubungi [saya](https://github.com/lamberthrumpaidus).
-

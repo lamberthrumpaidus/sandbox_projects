@@ -1,7 +1,11 @@
 # AI Lam
 
+Eksperimen karakter percakapan berbasis AI.
+
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
+
 ## Deskripsi
-AI Lam adalah karakter AI yang dibuat oleh [saya](https://github.com/lamberthrumpaidus) untuk memberikan pengalaman interaktif yang menarik dan informatif. Dirancang dengan pemrosesan bahasa alami, AI Lam dapat menjawab pertanyaan, memberikan rekomendasi, dan berinteraksi dengan pengguna secara real-time.
+AI Lam adalah karakter AI yang dibuat oleh Lamberth Rumpaidus untuk memberikan pengalaman interaktif yang menarik dan informatif. Dirancang dengan pemrosesan bahasa alami, AI Lam dapat menjawab pertanyaan, memberikan rekomendasi, dan berinteraksi dengan pengguna secara real-time.
 
 ## Fitur
 - **Interaksi Dinamis:** AI Lam mampu berkomunikasi dengan pengguna secara langsung dan responsif.
@@ -18,6 +22,3 @@ AI Lam adalah karakter AI yang dibuat oleh [saya](https://github.com/lamberthrum
 ## Persyaratan
 - Koneksi internet yang stabil.
 - Browser modern untuk pengalaman terbaik.
-
-## Kontak
-Untuk pertanyaan atau masukan, silakan hubungi [saya](https://github.com/lamberthrumpaidus).

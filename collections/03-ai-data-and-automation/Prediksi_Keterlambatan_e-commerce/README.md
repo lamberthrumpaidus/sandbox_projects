@@ -1,18 +1,16 @@
-# 📦 Prediksi Keterlambatan Pengiriman E-Commerce
+# Prediksi keterlambatan pengiriman
 
-**Big Data & Machine Learning dengan Apache Spark**
+Eksperimen pemodelan keterlambatan pengiriman dengan Apache Spark.
 
-Proyek ini bertujuan untuk memprediksi apakah suatu pengiriman e-commerce akan **terlambat atau tepat waktu** menggunakan pendekatan **Big Data Analytics** dan **Machine Learning** berbasis **Apache Spark (PySpark)**.
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
----
-
-## 🚀 Latar Belakang
+##  Latar Belakang
 
 Keterlambatan pengiriman merupakan salah satu permasalahan utama dalam sistem e-commerce yang dapat memengaruhi kepuasan pelanggan. Dengan memanfaatkan data historis pengiriman dan teknik machine learning, proyek ini mencoba membangun model prediksi keterlambatan secara efisien menggunakan pemrosesan data terdistribusi.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 * **Sumber**: Kaggle – *E-Commerce Shipping Data*
 * **Link**: [https://www.kaggle.com/datasets/prachi13/customer-analytics](https://www.kaggle.com/datasets/prachi13/customer-analytics)
@@ -25,7 +23,7 @@ Dataset disimpan di **Google Drive** dan digunakan sebagai alternatif **HDFS** u
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 
 * **Python**
 * **Apache Spark (PySpark)**
@@ -36,7 +34,7 @@ Dataset disimpan di **Google Drive** dan digunakan sebagai alternatif **HDFS** u
 
 ---
 
-## 🔄 Alur Proses (Pipeline)
+##  Alur Proses (Pipeline)
 
 1. Load data dari Google Drive
 2. Pemrosesan data terdistribusi dengan Spark
@@ -49,7 +47,7 @@ Dataset disimpan di **Google Drive** dan digunakan sebagai alternatif **HDFS** u
 
 ---
 
-## 🤖 Model Machine Learning
+##  Model Machine Learning
 
 Dua algoritma *supervised learning* digunakan dan dibandingkan:
 
@@ -60,7 +58,7 @@ Hyperparameter tuning dilakukan pada Random Forest menggunakan **CrossValidator*
 
 ---
 
-## 📈 Evaluasi Model
+##  Evaluasi Model
 
 * **Metrik Evaluasi**: AUC (Area Under Curve)
 * Evaluasi dilakukan untuk:
@@ -73,7 +71,7 @@ Hasil evaluasi menunjukkan bahwa **Random Forest dengan parameter default** memb
 
 ---
 
-## 🔍 Contoh Hasil Prediksi
+##  Contoh Hasil Prediksi
 
 Model menghasilkan output berupa:
 
@@ -85,19 +83,14 @@ Hal ini membuktikan bahwa model tidak hanya dievaluasi secara numerik, tetapi ju
 
 ---
 
-## 📌 Kesimpulan
+##  Kesimpulan
 
 Berdasarkan hasil eksperimen, pendekatan Big Data menggunakan Apache Spark dan MLlib mampu digunakan secara efektif untuk memprediksi keterlambatan pengiriman e-commerce. Model Random Forest dengan konfigurasi default menunjukkan performa terbaik, sementara hyperparameter tuning tidak selalu meningkatkan hasil pada dataset dengan ukuran terbatas.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Nama**: *Lamberth Rumpaidus*
 
 ---
-
-## Hubungi Saya
-
-Jika Anda memiliki pertanyaan atau perlu bantuan lebih lanjut, jangan ragu untuk menghubungi [saya](https://github.com/lamberthrumpaidus).
-

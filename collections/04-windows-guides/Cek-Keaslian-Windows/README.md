@@ -1,6 +1,8 @@
-# Cara Mengecek Keaslian Windows
+# Pemeriksaan aktivasi Windows
 
-Panduan ini menjelaskan cara mengecek apakah Windows yang Anda gunakan asli atau tidak.
+Panduan pemeriksaan status aktivasi Windows.
+
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
 ## Menggunakan Command Prompt (CMD)
 
@@ -29,4 +31,3 @@ Panduan ini menjelaskan cara mengecek apakah Windows yang Anda gunakan asli atau
 - [BagiTekno](https://www.bagitekno.net/windows/cara-cek-windows-10-ori-atau-tidak.html)
 - [DimensiData](https://blog.dimensidata.com/begini-cara-mengetahui-dan-cek-windows-10-asli-atau-bajakan/)
 - [Microsoft Support](https://support.microsoft.com/id-id/windows/tentang-windows-asli-0b88ba3d-f799-7c15-9f36-2be445a56493)
-

@@ -1,8 +1,10 @@
-# 🐧 Panduan Instalasi Linux
+# Instalasi Linux
 
-Selamat datang di panduan lengkap untuk menginstal Linux! Di sini, Anda akan belajar cara mengunduh, menginstal, dan mengonfigurasi sistem operasi Linux serta mendownload aplikasi dengan aman. Mari kita mulai!
+Panduan menyiapkan media dan memasang sistem operasi Linux.
 
-## 🚀 Daftar Isi
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
+
+##  Daftar Isi
 
 1. [Apa itu Linux?](#apa-itu-linux)
 2. [Persyaratan Sistem](#persyaratan-sistem)
@@ -15,11 +17,11 @@ Selamat datang di panduan lengkap untuk menginstal Linux! Di sini, Anda akan bel
 9. [Pemecahan Masalah](#pemecahan-masalah)
 10. [Hubungi Saya](#hubungi-saya)
 
-## 🐧 Apa itu Linux?
+##  Apa itu Linux?
 
 Linux adalah sistem operasi open-source yang dikenal karena stabilitas dan keamanan. Terdapat berbagai distribusi Linux yang dirancang untuk berbagai kebutuhan, dari penggunaan sehari-hari hingga server.
 
-## 🛠️ Persyaratan Sistem
+##  Persyaratan Sistem
 
 Sebelum memulai, pastikan sistem Anda memenuhi persyaratan minimum:
 
@@ -27,7 +29,7 @@ Sebelum memulai, pastikan sistem Anda memenuhi persyaratan minimum:
 - **RAM**: Minimal 2 GB (4 GB disarankan).
 - **Ruang Penyimpanan**: Minimal 20 GB ruang kosong.
 
-## 🥳 Distribusi Linux Terpercaya
+##  Distribusi Linux Terpercaya
 
 Beberapa distribusi Linux yang populer dan terpercaya:
 
@@ -36,14 +38,14 @@ Beberapa distribusi Linux yang populer dan terpercaya:
 - **Fedora**: Terbaru dan memiliki fitur terbaru.
 - **Linux Mint**: Berbasis Ubuntu, ideal bagi pengguna yang beralih dari Windows.
 
-## 💾 Mengunduh ISO Linux
+##  Mengunduh ISO Linux
 
 1. **Ubuntu**: [Unduh Ubuntu](https://ubuntu.com/download)
 2. **Debian**: [Unduh Debian](https://www.debian.org/distrib/)
 3. **Fedora**: [Unduh Fedora](https://getfedora.org/)
 4. **Linux Mint**: [Unduh Linux Mint](https://linuxmint.com/download.php)
 
-## 🥳 Membuat Media Instalasi
+##  Membuat Media Instalasi
 
 Setelah mengunduh file ISO, Anda perlu membuat media instalasi:
 
@@ -57,7 +59,7 @@ Setelah mengunduh file ISO, Anda perlu membuat media instalasi:
 - Pilih file ISO yang telah diunduh.
 - Klik **Start** untuk memulai proses.
 
-## 🔄 Proses Instalasi Linux
+##  Proses Instalasi Linux
 
 1. **Boot dari Media Instalasi**:
    - Masukkan USB flash drive ke komputer.
@@ -74,7 +76,7 @@ Setelah mengunduh file ISO, Anda perlu membuat media instalasi:
 4. **Ikuti Petunjuk di Layar**:
    - Tunggu hingga instalasi selesai. Komputer akan restart.
 
-## 📦 Mengunduh dan Menginstal Aplikasi
+##  Mengunduh dan Menginstal Aplikasi
 
 Setelah menginstal Linux, Anda bisa mengunduh dan menginstal aplikasi dengan berbagai cara:
 
@@ -92,16 +94,16 @@ Setelah menginstal Linux, Anda bisa mengunduh dan menginstal aplikasi dengan ber
 2. **Mengunduh dari Website Resmi**:
    - Pastikan untuk mengunduh dari sumber terpercaya.
 
-## 🌐 Sumber Terpercaya untuk Aplikasi
+##  Sumber Terpercaya untuk Aplikasi
 
-Berikut adalah beberapa sumber terpercaya untuk mendownload aplikasi:
+Berikut adalah beberapa sumber terpercaya untuk mengunduh aplikasi:
 
 - **Snap Store**: [snapcraft.io](https://snapcraft.io/store)
 - **Flatpak**: [flatpak.org](https://flatpak.org/)
 - **AUR (Arch User Repository)**: [aur.archlinux.org](https://aur.archlinux.org/)
 - **Website Resmi Aplikasi**: Selalu pastikan untuk mengunduh dari situs resmi.
 
-## 🛠️ Pemecahan Masalah
+##  Pemecahan Masalah
 
 Jika Anda mengalami masalah saat instalasi atau penggunaan, pertimbangkan langkah-langkah berikut:
 
@@ -109,6 +111,6 @@ Jika Anda mengalami masalah saat instalasi atau penggunaan, pertimbangkan langka
 - Periksa koneksi internet jika pengunduhan diperlukan.
 - Coba restart komputer atau reinstall aplikasi.
 
-## 📞 Hubungi Saya
+##  Hubungi Saya
 
-Jika Anda memiliki pertanyaan atau perlu bantuan lebih lanjut, jangan ragu untuk menghubungi saya di [GitHub](https://github.com/lamberthrumpaidus).
+Jika Anda memiliki pertanyaan atau perlu bantuan lebih lanjut, jangan ragu untuk menghubungi saya di GitHub.

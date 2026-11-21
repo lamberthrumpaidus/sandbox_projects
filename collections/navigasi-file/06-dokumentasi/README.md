@@ -1,236 +1,235 @@
-# Dokumentasi & lisensi
+# Dokumentasi
 
-40 file — README, Markdown dan lisensi.
+Daftar berkas dalam kategori ini, dikelompokkan menurut proyek.
 
-[Semua kategori](../README.md) | [Koleksi utama](../../README.md)
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Seluruh jenis berkas](../README.md) · [Indeks proyek](../../README.md)
 
-## Alat-Pengukur-Detak-Jantung-Berbasis-Inframerah (1 file)
+## Alat-Pengukur-Detak-Jantung-Berbasis-Inframerah
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [LICENSE](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/11-hardware-iot/Alat-Pengukur-Detak-Jantung-Berbasis-Inframerah/LICENSE) | 1.0 KB | collections/11-hardware-iot/Alat-Pengukur-Detak-Jantung-Berbasis-Inframerah/LICENSE |
+| Berkas | Ukuran |
+|---|---:|
+| [LICENSE](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/11-hardware-iot/Alat-Pengukur-Detak-Jantung-Berbasis-Inframerah/LICENSE) | 1.0 KB |
 
-## CPP (1 file)
+## CPP
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/CPP/README.md) | 1.7 KB | collections/01-programming-languages/CPP/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/CPP/README.md) | 1.6 KB |
 
-## Cara-Gunakan-TorBrowser (1 file)
+## Cara-Gunakan-TorBrowser
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/05-operating-systems-and-privacy/Cara-Gunakan-TorBrowser/README.md) | 2.1 KB | collections/05-operating-systems-and-privacy/Cara-Gunakan-TorBrowser/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/05-operating-systems-and-privacy/Cara-Gunakan-TorBrowser/README.md) | 2.0 KB |
 
-## Cek-Keaslian-Windows (1 file)
+## Cek-Keaslian-Windows
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/04-windows-guides/Cek-Keaslian-Windows/README.md) | 1.3 KB | collections/04-windows-guides/Cek-Keaslian-Windows/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/04-windows-guides/Cek-Keaslian-Windows/README.md) | 1.3 KB |
 
-## ChatGPT (1 file)
+## ChatGPT
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/ChatGPT/README.md) | 4.7 KB | collections/03-ai-data-and-automation/ChatGPT/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/ChatGPT/README.md) | 4.8 KB |
 
-## Custome-Spotify (1 file)
+## Custome-Spotify
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Custome-Spotify/README.md) | 1.3 KB | collections/06-spotify-customization/Custome-Spotify/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Custome-Spotify/README.md) | 1.0 KB |
 
-## DownloadYoutube (1 file)
+## DownloadYoutube
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/DownloadYoutube/README.md) | 1.4 KB | collections/03-ai-data-and-automation/DownloadYoutube/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/DownloadYoutube/README.md) | 1.4 KB |
 
-## FINAL_PROJECT_ALGORITMA (1 file)
+## FINAL_PROJECT_ALGORITMA
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/FINAL_PROJECT_ALGORITMA/README.md) | 2.6 KB | collections/01-programming-languages/FINAL_PROJECT_ALGORITMA/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/FINAL_PROJECT_ALGORITMA/README.md) | 2.7 KB |
 
-## FlappyGhost (1 file)
+## FlappyGhost
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/README.md) | 2.1 KB | collections/02-desktop-games/FlappyGhost/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/FlappyGhost/README.md) | 2.2 KB |
 
-## Instal-ulang-macOS (1 file)
+## Instal-ulang-macOS
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/05-operating-systems-and-privacy/Instal-ulang-macOS/README.md) | 3.3 KB | collections/05-operating-systems-and-privacy/Instal-ulang-macOS/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/05-operating-systems-and-privacy/Instal-ulang-macOS/README.md) | 3.2 KB |
 
-## Instal-ulang-windows (1 file)
+## Instal-ulang-windows
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/04-windows-guides/Instal-ulang-windows/README.md) | 3.3 KB | collections/04-windows-guides/Instal-ulang-windows/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/04-windows-guides/Instal-ulang-windows/README.md) | 3.1 KB |
 
-## Install-Linux (1 file)
+## Install-Linux
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/05-operating-systems-and-privacy/Install-Linux/README.md) | 4.2 KB | collections/05-operating-systems-and-privacy/Install-Linux/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/05-operating-systems-and-privacy/Install-Linux/README.md) | 4.1 KB |
 
-## JavaScript (1 file)
+## JavaScript
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/JavaScript/README.md) | 1.9 KB | collections/01-programming-languages/JavaScript/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/JavaScript/README.md) | 1.7 KB |
 
-## Linux-VS-Windows-VS-macOS (1 file)
+## Linux-VS-Windows-VS-macOS
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/05-operating-systems-and-privacy/Linux-VS-Windows-VS-macOS/README.md) | 3.7 KB | collections/05-operating-systems-and-privacy/Linux-VS-Windows-VS-macOS/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/05-operating-systems-and-privacy/Linux-VS-Windows-VS-macOS/README.md) | 3.6 KB |
 
-## Lisensi-pada-Github (1 file)
+## Lisensi-pada-Github
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/09-developer-resources/Lisensi-pada-Github/README.md) | 4.1 KB | collections/09-developer-resources/Lisensi-pada-Github/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/09-developer-resources/Lisensi-pada-Github/README.md) | 4.0 KB |
 
-## Lock_Folders_-WINDOWS- (1 file)
+## Lock_Folders_-WINDOWS-
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/04-windows-guides/Lock_Folders_-WINDOWS-/README.md) | 2.0 KB | collections/04-windows-guides/Lock_Folders_-WINDOWS-/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/04-windows-guides/Lock_Folders_-WINDOWS-/README.md) | 1.9 KB |
 
-## Make-Music-SUNO.AI (1 file)
+## Make-Music-SUNO.AI
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/10-music-tools/Make-Music-SUNO.AI/README.md) | 2.1 KB | collections/10-music-tools/Make-Music-SUNO.AI/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/10-music-tools/Make-Music-SUNO.AI/README.md) | 2.2 KB |
 
-## Matematika (1 file)
+## Matematika
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Matematika/README.md) | 2.2 KB | collections/01-programming-languages/Matematika/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Matematika/README.md) | 2.0 KB |
 
-## Melihat-isi-Wa-yang-dihapus (1 file)
+## Melihat-isi-Wa-yang-dihapus
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/04-windows-guides/Melihat-isi-Wa-yang-dihapus/README.md) | 3.5 KB | collections/04-windows-guides/Melihat-isi-Wa-yang-dihapus/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/04-windows-guides/Melihat-isi-Wa-yang-dihapus/README.md) | 3.6 KB |
 
-## Membuat-Karakter_AI (1 file)
+## Membuat-Karakter_AI
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Membuat-Karakter_AI/README.md) | 2.0 KB | collections/03-ai-data-and-automation/Membuat-Karakter_AI/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Membuat-Karakter_AI/README.md) | 2.1 KB |
 
-## Mini-PlayStation (1 file)
+## Mini-PlayStation
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/Mini-PlayStation/README.md) | 1.9 KB | collections/02-desktop-games/Mini-PlayStation/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/Mini-PlayStation/README.md) | 1.9 KB |
 
-## PlayStation-Sederhana (1 file)
+## PlayStation-Sederhana
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/PlayStation-Sederhana/README.md) | 2.5 KB | collections/02-desktop-games/PlayStation-Sederhana/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/PlayStation-Sederhana/README.md) | 2.5 KB |
 
-## Prediksi_Keterlambatan_e-commerce (1 file)
+## Prediksi_Keterlambatan_e-commerce
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Prediksi_Keterlambatan_e-commerce/README.md) | 3.0 KB | collections/03-ai-data-and-automation/Prediksi_Keterlambatan_e-commerce/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Prediksi_Keterlambatan_e-commerce/README.md) | 2.7 KB |
 
-## Python (1 file)
+## Python
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/README.md) | 1.7 KB | collections/01-programming-languages/Python/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/README.md) | 1.6 KB |
 
-## Python_Translate_File (1 file)
+## Python_Translate_File
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Python_Translate_File/README.md) | 4.4 KB | collections/03-ai-data-and-automation/Python_Translate_File/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Python_Translate_File/README.md) | 4.0 KB |
 
-## Remove_Tiktok_Liked_Videos (1 file)
+## Remove_Tiktok_Liked_Videos
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/07-social-media-tools/Remove_Tiktok_Liked_Videos/README.md) | 931 B | collections/07-social-media-tools/Remove_Tiktok_Liked_Videos/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/07-social-media-tools/Remove_Tiktok_Liked_Videos/README.md) | 847 B |
 
-## Shadowed-Orchid (1 file)
+## Shadowed-Orchid
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Shadowed-Orchid/README.md) | 3.3 KB | collections/06-spotify-customization/Shadowed-Orchid/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Shadowed-Orchid/README.md) | 3.1 KB |
 
-## Shortcut-KeyWindows11 (1 file)
+## Shortcut-KeyWindows11
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/04-windows-guides/Shortcut-KeyWindows11/README.md) | 4.0 KB | collections/04-windows-guides/Shortcut-KeyWindows11/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/04-windows-guides/Shortcut-KeyWindows11/README.md) | 4.0 KB |
 
-## Spotify_AdBlock (2 file)
+## Spotify_AdBlock
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [LICENSE](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_AdBlock/LICENSE) | 1.0 KB | collections/06-spotify-customization/Spotify_AdBlock/LICENSE |
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_AdBlock/README.md) | 2.4 KB | collections/06-spotify-customization/Spotify_AdBlock/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [LICENSE](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_AdBlock/LICENSE) | 1.0 KB |
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_AdBlock/README.md) | 2.4 KB |
 
-## Spotify_NoAD_CustomTheme (2 file)
+## Spotify_NoAD_CustomTheme
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_NoAD_CustomTheme/CustomApps/marketplace/README.md) | 1.8 KB | collections/06-spotify-customization/Spotify_NoAD_CustomTheme/CustomApps/marketplace/README.md |
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_NoAD_CustomTheme/README.md) | 958 B | collections/06-spotify-customization/Spotify_NoAD_CustomTheme/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_NoAD_CustomTheme/CustomApps/marketplace/README.md) | 1.8 KB |
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/06-spotify-customization/Spotify_NoAD_CustomTheme/README.md) | 868 B |
 
-## Tiktok_Remove_Repost (1 file)
+## Tiktok_Remove_Repost
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/07-social-media-tools/Tiktok_Remove_Repost/README.md) | 931 B | collections/07-social-media-tools/Tiktok_Remove_Repost/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/07-social-media-tools/Tiktok_Remove_Repost/README.md) | 836 B |
 
-## Tips-and-Trik-agar-Windows11-lancar (1 file)
+## Tips-and-Trik-agar-Windows11-lancar
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/04-windows-guides/Tips-and-Trik-agar-Windows11-lancar/README.md) | 8.5 KB | collections/04-windows-guides/Tips-and-Trik-agar-Windows11-lancar/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/04-windows-guides/Tips-and-Trik-agar-Windows11-lancar/README.md) | 8.4 KB |
 
-## WA-Bot-Char-AI (1 file)
+## WA-Bot-Char-AI
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/WA-Bot-Char-AI/README.md) | 846 B | collections/03-ai-data-and-automation/WA-Bot-Char-AI/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/WA-Bot-Char-AI/README.md) | 804 B |
 
-## Winutil (1 file)
+## Winutil
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/04-windows-guides/Winutil/README.md) | 1.4 KB | collections/04-windows-guides/Winutil/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/04-windows-guides/Winutil/README.md) | 1.4 KB |
 
-## ai-char-Lam (1 file)
+## ai-char-Lam
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/ai-char-Lam/README.md) | 1.3 KB | collections/03-ai-data-and-automation/ai-char-Lam/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/ai-char-Lam/README.md) | 1.4 KB |
 
-## lamberthrumpaidus (1 file)
+## lamberthrumpaidus
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/09-developer-resources/lamberthrumpaidus/README.md) | 2.4 KB | collections/09-developer-resources/lamberthrumpaidus/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/09-developer-resources/lamberthrumpaidus/README.md) | 281 B |
 
-## sandbox_projects (1 file)
+## sandbox_projects
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/README.md) | 1.8 KB | collections/01-programming-languages/sandbox_projects/README.md |
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/sandbox_projects/README.md) | 1.6 KB |
 
-## uDork (1 file)
+## uDork
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/uDork/README.md) | 3.6 KB | collections/08-security-research/uDork/README.md |
-
+| Berkas | Ukuran |
+|---|---:|
+| [README.md](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/uDork/README.md) | 3.5 KB |

@@ -1,94 +1,93 @@
-# Kode Python
+# Python
 
-28 file — Script dan aplikasi Python.
+Daftar berkas dalam kategori ini, dikelompokkan menurut proyek.
 
-[Semua kategori](../README.md) | [Koleksi utama](../../README.md)
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Seluruh jenis berkas](../README.md) · [Indeks proyek](../../README.md)
 
-## DownloadYoutube (1 file)
+## DownloadYoutube
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [youtubedownload.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/DownloadYoutube/youtubedownload.py) | 1.8 KB | collections/03-ai-data-and-automation/DownloadYoutube/youtubedownload.py |
+| Berkas | Ukuran |
+|---|---:|
+| [youtubedownload.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/DownloadYoutube/youtubedownload.py) | 1.8 KB |
 
-## Email-Automation (1 file)
+## Email-Automation
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [Automasi Tugas dengan Python (Mengirim Email Otomatis).py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Email-Automation/Automasi%20Tugas%20dengan%20Python%20%28Mengirim%20Email%20Otomatis%29.py) | 944 B | collections/03-ai-data-and-automation/Email-Automation/Automasi Tugas dengan Python (Mengirim Email Otomatis).py |
+| Berkas | Ukuran |
+|---|---:|
+| [Automasi Tugas dengan Python (Mengirim Email Otomatis).py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Email-Automation/Automasi%20Tugas%20dengan%20Python%20%28Mengirim%20Email%20Otomatis%29.py) | 944 B |
 
-## Flask-Web-App (1 file)
+## Flask-Web-App
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [Flask Web Application (Sederhana).py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Flask-Web-App/Flask%20Web%20Application%20%28Sederhana%29.py) | 201 B | collections/01-programming-languages/Flask-Web-App/Flask Web Application (Sederhana).py |
+| Berkas | Ukuran |
+|---|---:|
+| [Flask Web Application (Sederhana).py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Flask-Web-App/Flask%20Web%20Application%20%28Sederhana%29.py) | 201 B |
 
-## House-Price-Regression (1 file)
+## House-Price-Regression
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [Prediksi Harga dengan Regresi Linier (Sklearn).py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/House-Price-Regression/Prediksi%20Harga%20dengan%20Regresi%20Linier%20%28Sklearn%29.py) | 531 B | collections/03-ai-data-and-automation/House-Price-Regression/Prediksi Harga dengan Regresi Linier (Sklearn).py |
+| Berkas | Ukuran |
+|---|---:|
+| [Prediksi Harga dengan Regresi Linier (Sklearn).py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/House-Price-Regression/Prediksi%20Harga%20dengan%20Regresi%20Linier%20%28Sklearn%29.py) | 531 B |
 
-## Matematika (1 file)
+## Matematika
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [Matematika.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Matematika/Matematika.py) | 4.5 KB | collections/01-programming-languages/Matematika/Matematika.py |
+| Berkas | Ukuran |
+|---|---:|
+| [Matematika.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Matematika/Matematika.py) | 4.5 KB |
 
-## OSINT-Web-Scraper (1 file)
+## OSINT-Web-Scraper
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [Scraping Informasi OSINT (Menggunakan BeautifulSoup untuk Mencari Informasi dari Halaman Web).py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/OSINT-Web-Scraper/Scraping%20Informasi%20OSINT%20%28Menggunakan%20BeautifulSoup%20untuk%20Mencari%20Informasi%20dari%20Halaman%20Web%29.py) | 328 B | collections/08-security-research/OSINT-Web-Scraper/Scraping Informasi OSINT (Menggunakan BeautifulSoup untuk Mencari Informasi dari Halaman Web).py |
+| Berkas | Ukuran |
+|---|---:|
+| [Scraping Informasi OSINT (Menggunakan BeautifulSoup untuk Mencari Informasi dari Halaman Web).py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/OSINT-Web-Scraper/Scraping%20Informasi%20OSINT%20%28Menggunakan%20BeautifulSoup%20untuk%20Mencari%20Informasi%20dari%20Halaman%20Web%29.py) | 328 B |
 
-## Pandas-Data-Processing (1 file)
+## Pandas-Data-Processing
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [Skrip Sederhana untuk Memproses Data (Menggunakan Pandas).py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Pandas-Data-Processing/Skrip%20Sederhana%20untuk%20Memproses%20Data%20%28Menggunakan%20Pandas%29.py) | 344 B | collections/03-ai-data-and-automation/Pandas-Data-Processing/Skrip Sederhana untuk Memproses Data (Menggunakan Pandas).py |
+| Berkas | Ukuran |
+|---|---:|
+| [Skrip Sederhana untuk Memproses Data (Menggunakan Pandas).py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Pandas-Data-Processing/Skrip%20Sederhana%20untuk%20Memproses%20Data%20%28Menggunakan%20Pandas%29.py) | 344 B |
 
-## PlayStation-Sederhana (1 file)
+## PlayStation-Sederhana
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [PlayStation-Sederhana.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/PlayStation-Sederhana/PlayStation-Sederhana.py) | 8.6 KB | collections/02-desktop-games/PlayStation-Sederhana/PlayStation-Sederhana.py |
+| Berkas | Ukuran |
+|---|---:|
+| [PlayStation-Sederhana.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/02-desktop-games/PlayStation-Sederhana/PlayStation-Sederhana.py) | 8.6 KB |
 
-## Python (17 file)
+## Python
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [Biner.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Biner.py) | 540 B | collections/01-programming-languages/Python/Biner.py |
-| [Bunga.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Bunga.py) | 4.0 KB | collections/01-programming-languages/Python/Bunga.py |
-| [Detection Input.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Detection%20Input.py) | 149 B | collections/01-programming-languages/Python/Detection Input.py |
-| [Faktor Persekuat Besar.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Faktor%20Persekuat%20Besar.py) | 356 B | collections/01-programming-languages/Python/Faktor Persekuat Besar.py |
-| [Faktorial.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Faktorial.py) | 125 B | collections/01-programming-languages/Python/Faktorial.py |
-| [Kalkulator.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Kalkulator.py) | 799 B | collections/01-programming-languages/Python/Kalkulator.py |
-| [Make A Random Sentence.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Make%20A%20Random%20Sentence.py) | 407 B | collections/01-programming-languages/Python/Make A Random Sentence.py |
-| [Make A Random Story .py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Make%20A%20Random%20Story%20.py) | 641 B | collections/01-programming-languages/Python/Make A Random Story .py |
-| [Mawar.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Mawar.py) | 645 B | collections/01-programming-languages/Python/Mawar.py |
-| [Menghitung Akar.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Menghitung%20Akar.py) | 116 B | collections/01-programming-languages/Python/Menghitung Akar.py |
-| [Menghitung Arus Tegangan Hambatan.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Menghitung%20Arus%20Tegangan%20Hambatan.py) | 1.8 KB | collections/01-programming-languages/Python/Menghitung Arus Tegangan Hambatan.py |
-| [Menghitung Rumus Luas Bangun Datar.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Menghitung%20Rumus%20Luas%20Bangun%20Datar.py) | 2.5 KB | collections/01-programming-languages/Python/Menghitung Rumus Luas Bangun Datar.py |
-| [Mobil.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Mobil.py) | 2.5 KB | collections/01-programming-languages/Python/Mobil.py |
-| [String Aneh.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/String%20Aneh.py) | 256 B | collections/01-programming-languages/Python/String Aneh.py |
-| [Tebak Angka.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Tebak%20Angka.py) | 3.0 KB | collections/01-programming-languages/Python/Tebak Angka.py |
-| [Teka Teki Sodoku.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Teka%20Teki%20Sodoku.py) | 2.2 KB | collections/01-programming-languages/Python/Teka Teki Sodoku.py |
-| [kalkulatorv2.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/kalkulatorv2.py) | 2.7 KB | collections/01-programming-languages/Python/kalkulatorv2.py |
+| Berkas | Ukuran |
+|---|---:|
+| [Biner.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Biner.py) | 540 B |
+| [Bunga.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Bunga.py) | 4.0 KB |
+| [Detection Input.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Detection%20Input.py) | 149 B |
+| [Faktor Persekuat Besar.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Faktor%20Persekuat%20Besar.py) | 356 B |
+| [Faktorial.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Faktorial.py) | 125 B |
+| [Kalkulator.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Kalkulator.py) | 799 B |
+| [Make A Random Sentence.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Make%20A%20Random%20Sentence.py) | 407 B |
+| [Make A Random Story .py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Make%20A%20Random%20Story%20.py) | 641 B |
+| [Mawar.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Mawar.py) | 645 B |
+| [Menghitung Akar.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Menghitung%20Akar.py) | 116 B |
+| [Menghitung Arus Tegangan Hambatan.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Menghitung%20Arus%20Tegangan%20Hambatan.py) | 1.8 KB |
+| [Menghitung Rumus Luas Bangun Datar.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Menghitung%20Rumus%20Luas%20Bangun%20Datar.py) | 2.5 KB |
+| [Mobil.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Mobil.py) | 2.5 KB |
+| [String Aneh.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/String%20Aneh.py) | 256 B |
+| [Tebak Angka.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Tebak%20Angka.py) | 3.0 KB |
+| [Teka Teki Sodoku.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/Teka%20Teki%20Sodoku.py) | 2.2 KB |
+| [kalkulatorv2.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/01-programming-languages/Python/kalkulatorv2.py) | 2.7 KB |
 
-## Python-Port-Scanner (1 file)
+## Python-Port-Scanner
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [Mendeteksi Port Terbuka dengan Python (Menggunakan socket).py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/Python-Port-Scanner/Mendeteksi%20Port%20Terbuka%20dengan%20Python%20%28Menggunakan%20socket%29.py) | 417 B | collections/08-security-research/Python-Port-Scanner/Mendeteksi Port Terbuka dengan Python (Menggunakan socket).py |
+| Berkas | Ukuran |
+|---|---:|
+| [Mendeteksi Port Terbuka dengan Python (Menggunakan socket).py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/08-security-research/Python-Port-Scanner/Mendeteksi%20Port%20Terbuka%20dengan%20Python%20%28Menggunakan%20socket%29.py) | 417 B |
 
-## Python_Translate_File (1 file)
+## Python_Translate_File
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [translate.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Python_Translate_File/translate.py) | 3.4 KB | collections/03-ai-data-and-automation/Python_Translate_File/translate.py |
+| Berkas | Ukuran |
+|---|---:|
+| [translate.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Python_Translate_File/translate.py) | 3.4 KB |
 
-## Scikit-Learn-Classification (1 file)
+## Scikit-Learn-Classification
 
-| File | Ukuran | Asal |
-|---|---:|---|
-| [Model Klasifikasi Sederhana dengan Scikit-learn.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Scikit-Learn-Classification/Model%20Klasifikasi%20Sederhana%20dengan%20Scikit-learn.py) | 631 B | collections/03-ai-data-and-automation/Scikit-Learn-Classification/Model Klasifikasi Sederhana dengan Scikit-learn.py |
-
+| Berkas | Ukuran |
+|---|---:|
+| [Model Klasifikasi Sederhana dengan Scikit-learn.py](https://github.com/lamberthrumpaidus/sandbox_projects/blob/main/collections/03-ai-data-and-automation/Scikit-Learn-Classification/Model%20Klasifikasi%20Sederhana%20dengan%20Scikit-learn.py) | 631 B |

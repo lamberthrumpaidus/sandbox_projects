@@ -1,11 +1,11 @@
-# Alat musik
+# Perangkat musik
 
-[Kembali ke halaman utama](../../README.md) · [Semua kategori](../README.md)
+Panduan pembuatan musik berbantuan AI.
 
-**1 folder proyek · 1 file.**
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks kategori](../README.md)
 
-| Folder proyek | Jumlah file |
+## Daftar proyek
+
+| Proyek | Jumlah berkas |
 |---|---:|
 | [Make-Music-SUNO.AI](./Make-Music-SUNO.AI/) | 1 |
-
-Semua tautan di atas menunjuk ke **folder fisik proyek**, bukan hanya indeks file.

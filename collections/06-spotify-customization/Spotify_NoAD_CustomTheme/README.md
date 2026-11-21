@@ -1,6 +1,8 @@
-# Spotify_NoAD_CustomTheme
+# Tema Spotify kustom
 
-Panduan ini menjelaskan cara menginstal tema dan mengonfigurasi Spotify anda
+Panduan pemasangan tema kustom Spotify.
+
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
 ## Prasyarat
 
@@ -8,7 +10,7 @@ Sebelum memulai, pastikan Anda telah menginstal:
 
 - [Spotify](https://www.spotify.com)
 - [Node.js](https://nodejs.org/) (versi terbaru yang stabil)
-- [Spicetify](https://github.com/lamberthrumpaidus/Free-Spotify) (sebelum mendownload tema pastikan anda memiliki Spicetify)
+- [Spicetify](https://github.com/lamberthrumpaidus/Free-Spotify) (sebelum mengunduh tema pastikan anda memiliki Spicetify)
 
 **Pemasangan Tema**:
    - Letakkan tema yang diunduh di direktori `themes/` dalam folder instalasi Spicetify.
@@ -23,7 +25,3 @@ Sebelum memulai, pastikan Anda telah menginstal:
      ```powershell
      spicetify apply
      ```
-
-## Hubungi Saya
-
-Jika Anda memiliki pertanyaan atau perlu bantuan lebih lanjut, jangan ragu untuk menghubungi [saya](https://github.com/lamberthrumpaidus).

@@ -1,6 +1,8 @@
-# TikTok Remove All Likes
+# Pengelolaan video TikTok
 
-Panduan ini menjelaskan cara menghapus semua like di TikTok dengan mudah menggunakan ekstensi Chrome.
+Panduan penggunaan ekstensi untuk mengelola video yang disukai.
+
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
 ## Prasyarat
 
@@ -21,8 +23,3 @@ Sebelum memulai, pastikan Anda menggunakan browser Google Chrome.
    - Tunggu beberapa saat hingga proses selesai.
 
 Dengan cara ini, semua like di TikTok akan dihapus secara otomatis.
-
-## Hubungi Saya
-
-Jika Anda memiliki pertanyaan atau perlu bantuan lebih lanjut, jangan ragu untuk menghubungi [saya](https://github.com/lamberthrumpaidus).
-

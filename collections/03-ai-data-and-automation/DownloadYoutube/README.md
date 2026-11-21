@@ -1,6 +1,8 @@
-# DownloadYoutube
+# Pengunduh video
 
-Proyek ini adalah skrip Python untuk mengunduh video atau audio dari YouTube menggunakan `yt-dlp`.
+Skrip Python untuk pengunduhan video dan audio dengan yt-dlp.
+
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks proyek](../../../README.md)
 
 ## Fitur
 
@@ -57,7 +59,3 @@ Pilih format:
 7. Audio (mp3)
 Masukkan pilihan (1/2/3/4/5/6/7): 3
 ```
-
-## Hubungi Saya
-
-Untuk informasi lebih lanjut dan pembaruan, Anda dapat menghubungi [saya](https://github.com/lamberthrumpaidus).

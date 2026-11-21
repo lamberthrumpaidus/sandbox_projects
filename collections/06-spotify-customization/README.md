@@ -1,14 +1,14 @@
 # Kustomisasi Spotify
 
-[Kembali ke halaman utama](../../README.md) · [Semua kategori](../README.md)
+Penyesuaian tema dan antarmuka Spotify.
 
-**4 folder proyek · 23 file.**
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks kategori](../README.md)
 
-| Folder proyek | Jumlah file |
+## Daftar proyek
+
+| Proyek | Jumlah berkas |
 |---|---:|
 | [Custome-Spotify](./Custome-Spotify/) | 1 |
 | [Shadowed-Orchid](./Shadowed-Orchid/) | 6 |
 | [Spotify_AdBlock](./Spotify_AdBlock/) | 4 |
 | [Spotify_NoAD_CustomTheme](./Spotify_NoAD_CustomTheme/) | 12 |
-
-Semua tautan di atas menunjuk ke **folder fisik proyek**, bukan hanya indeks file.

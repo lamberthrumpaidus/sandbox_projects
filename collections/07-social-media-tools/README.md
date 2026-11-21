@@ -1,12 +1,12 @@
-# Alat media sosial
+# Perangkat media sosial
 
-[Kembali ke halaman utama](../../README.md) · [Semua kategori](../README.md)
+Panduan penggunaan alat pendukung media sosial.
 
-**2 folder proyek · 2 file.**
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks kategori](../README.md)
 
-| Folder proyek | Jumlah file |
+## Daftar proyek
+
+| Proyek | Jumlah berkas |
 |---|---:|
 | [Remove_Tiktok_Liked_Videos](./Remove_Tiktok_Liked_Videos/) | 1 |
 | [Tiktok_Remove_Repost](./Tiktok_Remove_Repost/) | 1 |
-
-Semua tautan di atas menunjuk ke **folder fisik proyek**, bukan hanya indeks file.

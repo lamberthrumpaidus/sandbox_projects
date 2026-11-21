@@ -1,12 +1,12 @@
-# Sumber daya developer & arsip profil
+# Referensi pengembangan
 
-[Kembali ke halaman utama](../../README.md) · [Semua kategori](../README.md)
+Dokumentasi lisensi dan referensi.
 
-**2 folder proyek · 2 file.**
+[Profil utama](https://github.com/lamberthrumpaidus/lamberthrumpaidus) · [Indeks kategori](../README.md)
 
-| Folder proyek | Jumlah file |
+## Daftar proyek
+
+| Proyek | Jumlah berkas |
 |---|---:|
 | [lamberthrumpaidus](./lamberthrumpaidus/) | 1 |
 | [Lisensi-pada-Github](./Lisensi-pada-Github/) | 1 |
-
-Semua tautan di atas menunjuk ke **folder fisik proyek**, bukan hanya indeks file.
