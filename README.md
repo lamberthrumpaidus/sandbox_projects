@@ -1,25 +1,36 @@
+<!-- ALL Create by LamberthRumpaidus -->
 <div align="center">
-  <img src="./assets/collection-mark.svg" alt="Identitas Sandbox Projects" width="84" />
+  <img src="./assets/collection-mark.svg" alt="Identitas visual Sandbox Projects" width="100" />
   <h1>Sandbox Projects</h1>
-  <p>Koleksi kode, panduan, dan eksperimen pengembangan perangkat lunak.</p>
-  <p><a href="https://github.com/lamberthrumpaidus/lamberthrumpaidus">Profil utama</a> · <a href="./collections/README.md">Daftar proyek</a></p>
+  <p>Koleksi latihan, dokumentasi, dan eksperimen pemrograman.</p>
+  <p><a href="./collections/README.md">Jelajahi koleksi</a> · <a href="https://github.com/lamberthrumpaidus/lamberthrumpaidus">Profil pengembang</a></p>
 </div>
 
 ---
 
-## Koleksi
+## Gambaran umum
 
-Repository ini menyimpan contoh program, dokumentasi teknis, dan eksperimen yang disusun berdasarkan bidang pengembangan.
-Terdapat **11 kategori, 49 direktori proyek, dan 193 berkas**.
+Sandbox Projects merupakan ruang pembelajaran dan eksperimen teknis yang menghimpun contoh program, panduan, dan proyek kecil berdasarkan bidang pengembangan. Setiap koleksi memiliki konteks dan kebutuhan lingkungan yang berbeda.
 
-[Jelajahi kategori proyek](collections/README.md) · [Temukan berkas berdasarkan jenis](collections/navigasi-file/README.md)
+## Navigasi
+
+| Bagian | Keterangan |
+|---|---|
+| [Katalog proyek](./collections/README.md) | Daftar kategori dan proyek |
+| [Navigasi berkas](./collections/navigasi-file/README.md) | Penelusuran berdasarkan jenis berkas |
+| `scripts/` | Skrip pendukung pengelolaan koleksi |
 
 ## Penggunaan
 
-Salin repository untuk meninjau atau menjalankan proyek secara lokal:
-
 ```bash
 git clone https://github.com/lamberthrumpaidus/sandbox_projects.git
+cd sandbox_projects
 ```
 
-Petunjuk pelaksanaan tersedia pada dokumentasi masing-masing proyek. Beberapa proyek lama mungkin membutuhkan penyesuaian versi dependensi.
+Baca dokumentasi pada direktori proyek yang dipilih sebelum menjalankan kode. Beberapa contoh memerlukan dependensi atau versi perangkat lunak tertentu. Koleksi ini tidak memiliki satu perintah instalasi yang berlaku untuk seluruh proyek.
+
+---
+
+<div align="center">
+  <sub>Dikembangkan oleh <a href="https://github.com/lamberthrumpaidus/lamberthrumpaidus">Lamberth Rumpaidus</a></sub>
+</div>
